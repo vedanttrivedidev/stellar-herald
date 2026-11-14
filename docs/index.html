@@ -2,99 +2,345 @@
 <html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Stellar Herald</title>
-<link href="https://fonts.googleapis.com/css2?family=UnifrakturCook:wght@700&family=Playfair+Display:wght@700&family=Source+Serif+4:wght@400;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=UnifrakturCook:wght@700&family=Playfair+Display:ital,wght@0,700;1,700&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
 <style>
-:root{--bg:#fff;--ink:#121212;--mute:#5f5f5f;--rule:#d9d9d9;--acc:#2b5d8a;--box:#f6f6f6;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
-@media(prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#121212;--ink:#f1f1f1;--mute:#a9a9a9;--rule:#383838;--acc:#8ab8e0;--box:#1b1b1b;color-scheme:dark}}
-:root[data-theme="dark"]{--bg:#121212;--ink:#f1f1f1;--mute:#a9a9a9;--rule:#383838;--acc:#8ab8e0;--box:#1b1b1b;color-scheme:dark}
-html{scroll-padding-top:env(safe-area-inset-top,0px)}
-*{box-sizing:border-box}
-body{margin:0;background:var(--bg);color:var(--ink);font:17px/1.55 "Source Serif 4",Georgia,serif}
-.w{max-width:1100px;margin:0 auto;padding:0 20px}
-.top{display:flex;justify-content:space-between;font-size:13px;color:var(--mute);padding:10px 0;border-bottom:1px solid var(--rule)}
-h1{font:700 clamp(40px,9vw,84px)/1 UnifrakturCook,"Old English Text MT",Georgia,serif;text-align:center;margin:18px 0 6px}
-.tag{text-align:center;font-style:italic;color:var(--mute);margin:0 0 14px}
-nav{border-top:3px double var(--ink);border-bottom:1px solid var(--ink);display:flex;gap:2px 20px;flex-wrap:wrap;justify-content:center;padding:6px 0}
-nav button{background:none;border:0;font:600 14px "Source Serif 4",Georgia,serif;color:var(--ink);padding:6px 2px;cursor:pointer;border-bottom:2px solid transparent}
-nav button[aria-pressed=true]{border-color:var(--ink)}
-button:focus-visible,a:focus-visible,input:focus-visible{outline:2px solid var(--acc);outline-offset:2px}
-.k{font:600 13px "Source Serif 4",Georgia,serif;color:var(--acc);margin:0 0 4px}
-h2,h3{font-family:"Playfair Display",Georgia,serif;line-height:1.15;margin:0 0 8px}
-.lead{padding:24px 0;border-bottom:1px solid var(--rule)}
-.lead h2{font-size:clamp(28px,5vw,46px)}
-.lead p{font-size:19px;max-width:70ch}
-.grid{display:grid;grid-template-columns:repeat(3,1fr)}
-.card{padding:20px 20px 20px 0;margin-right:20px;border-right:1px solid var(--rule)}
-.card:nth-child(3n){border-right:0;margin-right:0}
-.card h3{font-size:22px}
-.card p{font-size:16px}
-.card .rf,.lead .rf{font-size:13px;color:var(--mute);margin:8px 0 0}
-.l{font-size:14px;margin:2px 0 0;padding:0;list-style:none}
-.l a{color:var(--acc)}
-.box{background:var(--box);border:1px solid var(--rule);padding:16px 20px;margin:24px 0}
-.box h3{font-size:20px}
-.box input{font:inherit;padding:4px 6px;border:1px solid var(--ink);background:var(--bg);color:var(--ink)}
-.box button{font:600 14px "Source Serif 4",Georgia,serif;padding:7px 14px;border:1px solid var(--ink);background:var(--ink);color:var(--bg);cursor:pointer;margin:8px 8px 0 0}
-.box .alt{background:none;color:var(--ink)}
-.box a{color:var(--acc);font-size:15px}
-#st{font-size:14px;color:var(--mute);margin:8px 0 0}
-#toast{border-left:4px solid var(--acc);padding:8px 14px;margin:14px 0;background:var(--box);white-space:pre-line}
-.bk{border-top:3px solid #d4351c;border-bottom:1px solid var(--rule);padding:10px 0;font:700 19px "Playfair Display",Georgia,serif}.bk b{color:#d4351c}.bk a{color:var(--ink)}
-footer{font-size:13px;color:var(--mute);border-top:1px solid var(--rule);padding:14px 0 30px}
-@media(max-width:800px){.grid{grid-template-columns:1fr}.card{border-right:0;margin-right:0;border-bottom:1px solid var(--rule)}}
-</style></head>
-<body><div class="w">
-<div class="top"><span id="d"></span><span>Morning Edition</span></div>
-<h1>Stellar Herald</h1>
-<p class="tag">The day’s biggest stories in science and technology, with free links to read more.</p>
-<nav id="nav" aria-label="Sections"></nav>
-<div id="toast" hidden role="status"></div>
-<main id="m"></main>
-<section class="box" aria-labelledby="nt">
-<h3 id="nt">Get the morning briefing</h3>
-<p id="cov"></p>
-<label>Send at <input type="time" id="time" value="07:00"></label>
-<div><button id="on">Turn on notifications</button><button id="test" class="alt">Send a test</button><a id="cal" target="_blank" rel="noopener">Add a daily reminder to Google Calendar</a></div>
-<p id="st"></p>
-</section>
-<footer id="ft">Compiled on November 14, 2026 from that morning’s news searches. Summaries are in our own words, and every link opens a page that is free to read. This hosted page can’t fetch news on its own, so each morning’s edition is published fresh.</footer>
+/* ── tokens ── */
+:root{
+  --bg:#fff;--ink:#121212;--mute:#666;--rule:#d4d4d4;--acc:#1a3a5c;--box:#f5f4f0;--red:#c0392b;
+  --section-bg:#f9f8f4;--hero-bg:#1a3a5c;--hero-ink:#fff;
+  color-scheme:light;
+  padding-top:env(safe-area-inset-top,0px);
+  padding-bottom:env(safe-area-inset-bottom,0px);
+}
+:root[data-theme="dark"]{
+  --bg:#0f0f0f;--ink:#e8e6e0;--mute:#888;--rule:#2a2a2a;--acc:#7aabcf;--box:#181818;
+  --section-bg:#141414;--hero-bg:#0a1f33;--hero-ink:#e8e6e0;--red:#e05c4b;
+  color-scheme:dark;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-padding-top:60px}
+body{background:var(--bg);color:var(--ink);font:18px/1.6 "Source Serif 4",Georgia,serif;transition:background .2s,color .2s}
+
+/* ── layout ── */
+.w{max-width:1140px;margin:0 auto;padding:0 24px}
+.sr-only{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0)}
+
+/* ── top bar ── */
+.topbar{border-bottom:1px solid var(--rule);padding:8px 0;position:sticky;top:0;background:var(--bg);z-index:100;backdrop-filter:blur(6px)}
+.topbar-inner{display:flex;align-items:center;justify-content:space-between;gap:12px}
+#date-line{font-size:13px;color:var(--mute);white-space:nowrap}
+.topbar-right{display:flex;align-items:center;gap:8px}
+.icon-btn{background:none;border:1px solid var(--rule);border-radius:4px;padding:5px 8px;cursor:pointer;color:var(--ink);font-size:15px;line-height:1;transition:border-color .15s}
+.icon-btn:hover{border-color:var(--ink)}
+.icon-btn:focus-visible{outline:2px solid var(--acc);outline-offset:2px}
+
+/* ── masthead ── */
+.masthead{text-align:center;padding:20px 0 12px;border-bottom:4px double var(--ink)}
+.masthead h1{font:700 clamp(44px,10vw,90px)/1 UnifrakturCook,"Old English Text MT",serif;letter-spacing:-.5px}
+.masthead p{font-style:italic;font-size:14px;color:var(--mute);margin-top:4px}
+
+/* ── section nav ── */
+.secnav{display:flex;gap:0;overflow-x:auto;border-bottom:1px solid var(--rule);scrollbar-width:none}
+.secnav::-webkit-scrollbar{display:none}
+.secnav button{flex-shrink:0;background:none;border:0;border-bottom:3px solid transparent;padding:12px 18px;font:600 13px/1 "Source Serif 4",Georgia,serif;letter-spacing:.04em;text-transform:uppercase;color:var(--mute);cursor:pointer;transition:color .15s,border-color .15s;white-space:nowrap}
+.secnav button[aria-selected=true]{color:var(--ink);border-color:var(--ink)}
+.secnav button:hover{color:var(--ink)}
+.secnav button:focus-visible{outline:2px solid var(--acc);outline-offset:-2px}
+
+/* ── breaking banner ── */
+.breaking{background:var(--red);color:#fff;padding:10px 24px;font:700 14px/1.4 "Source Serif 4",Georgia,serif;display:flex;gap:12px;align-items:baseline}
+.breaking .brk-label{flex-shrink:0;letter-spacing:.08em;text-transform:uppercase;font-size:12px;border:1px solid #fff;padding:1px 6px}
+.breaking a{color:#fff;text-decoration:underline}
+
+/* ── hero story ── */
+.hero{background:var(--hero-bg);color:var(--hero-ink);padding:48px 24px}
+.hero-inner{max-width:780px}
+.hero .label{font:600 12px/1 "Source Serif 4",Georgia,serif;letter-spacing:.1em;text-transform:uppercase;color:rgba(255,255,255,.6);margin-bottom:14px}
+.hero h2{font:700 clamp(30px,5vw,52px)/1.1 "Playfair Display",Georgia,serif;margin-bottom:16px}
+.hero p{font-size:19px;line-height:1.6;color:rgba(255,255,255,.85);max-width:66ch}
+.hero .links{margin-top:18px;display:flex;flex-wrap:wrap;gap:10px}
+.hero .links a{color:rgba(255,255,255,.75);font-size:13px;border-bottom:1px solid rgba(255,255,255,.3);text-decoration:none;padding-bottom:1px}
+.hero .links a:hover{color:#fff;border-color:#fff}
+
+/* ── section page ── */
+.sec-page{display:none}
+.sec-page.active{display:block}
+
+/* section header stripe */
+.sec-header{background:var(--section-bg);border-bottom:3px solid var(--ink);padding:18px 24px 14px}
+.sec-header h2{font:700 clamp(22px,4vw,36px)/1 "Playfair Display",Georgia,serif}
+.sec-header p{font-size:14px;color:var(--mute);margin-top:4px}
+
+/* story grid inside a section */
+.story-grid{display:grid;grid-template-columns:1fr 1fr;gap:0}
+.story-cell{padding:28px 24px;border-bottom:1px solid var(--rule)}
+.story-cell:nth-child(odd){border-right:1px solid var(--rule)}
+.story-cell .label{font:600 12px/1 "Source Serif 4",Georgia,serif;letter-spacing:.08em;text-transform:uppercase;color:var(--acc);margin-bottom:8px}
+.story-cell h3{font:700 clamp(18px,2.5vw,24px)/1.15 "Playfair Display",Georgia,serif;margin-bottom:10px}
+.story-cell p{font-size:16px;color:var(--ink);line-height:1.6}
+.story-cell .meta{margin-top:12px;font-size:13px;color:var(--mute)}
+.story-cell ul{margin-top:6px;padding:0;list-style:none;display:flex;flex-wrap:wrap;gap:6px 14px}
+.story-cell ul a{color:var(--acc);font-size:13px;text-decoration:none;border-bottom:1px solid transparent}
+.story-cell ul a:hover{border-color:var(--acc)}
+
+/* all-sections view: topic dividers */
+.topic-block{margin-bottom:0}
+.topic-rule{display:flex;align-items:center;gap:14px;padding:0 24px;margin:0}
+.topic-rule span{font:700 11px/1 "Source Serif 4",Georgia,serif;letter-spacing:.12em;text-transform:uppercase;color:var(--mute);white-space:nowrap}
+.topic-rule hr{flex:1;border:0;border-top:1px solid var(--rule)}
+
+/* ── settings drawer ── */
+.drawer-backdrop{display:none;position:fixed;inset:0;background:rgba(0,0,0,.45);z-index:200}
+.drawer-backdrop.open{display:block}
+.drawer{position:fixed;top:0;right:0;bottom:0;width:min(360px,100vw);background:var(--bg);border-left:1px solid var(--rule);z-index:201;transform:translateX(100%);transition:transform .25s ease;overflow-y:auto;padding:0 0 40px}
+.drawer.open{transform:translateX(0)}
+.drawer-head{display:flex;justify-content:space-between;align-items:center;padding:16px 20px;border-bottom:1px solid var(--rule);position:sticky;top:0;background:var(--bg)}
+.drawer-head h2{font:700 18px "Playfair Display",Georgia,serif}
+.drawer-section{padding:20px}
+.drawer-section+.drawer-section{border-top:1px solid var(--rule)}
+.drawer-section h3{font:600 13px/1 "Source Serif 4",Georgia,serif;letter-spacing:.08em;text-transform:uppercase;color:var(--mute);margin-bottom:14px}
+/* theme toggle */
+.theme-row{display:flex;gap:8px}
+.theme-btn{flex:1;padding:10px;border:1px solid var(--rule);border-radius:6px;background:none;color:var(--ink);font:600 14px "Source Serif 4",Georgia,serif;cursor:pointer;transition:all .15s}
+.theme-btn[aria-pressed=true]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.theme-btn:hover:not([aria-pressed=true]){border-color:var(--ink)}
+/* time + notifications */
+.field{margin-bottom:12px}
+.field label{display:block;font-size:14px;color:var(--mute);margin-bottom:4px}
+.field input[type=time]{font:inherit;padding:8px 10px;border:1px solid var(--rule);border-radius:4px;background:var(--bg);color:var(--ink);width:100%}
+.btn-row{display:flex;gap:8px;flex-wrap:wrap;margin-top:4px}
+.btn{font:600 14px "Source Serif 4",Georgia,serif;padding:9px 16px;border:1px solid var(--ink);border-radius:4px;cursor:pointer;transition:all .15s}
+.btn-primary{background:var(--ink);color:var(--bg)}
+.btn-primary:hover{opacity:.85}
+.btn-ghost{background:none;color:var(--ink)}
+.btn-ghost:hover{background:var(--box)}
+#st{font-size:13px;color:var(--mute);margin-top:10px;line-height:1.5}
+#cal-link{display:block;margin-top:12px;font-size:14px;color:var(--acc)}
+/* toast */
+#toast{margin:0 24px 0;border-left:4px solid var(--acc);padding:10px 14px;background:var(--box);font-size:14px;white-space:pre-line;line-height:1.5;border-radius:0 4px 4px 0}
+
+/* ── footer ── */
+footer{border-top:1px solid var(--rule);padding:20px 0 36px;font-size:13px;color:var(--mute);line-height:1.6}
+
+/* ── responsive ── */
+@media(max-width:680px){
+  .story-grid{grid-template-columns:1fr}
+  .story-cell:nth-child(odd){border-right:0}
+  .secnav button{padding:12px 14px}
+  .hero{padding:32px 20px}
+}
+</style>
+</head>
+<body>
+
+<!-- sticky top bar -->
+<div class="topbar">
+  <div class="w topbar-inner">
+    <span id="date-line"></span>
+    <div class="topbar-right">
+      <button class="icon-btn" id="settings-btn" aria-label="Settings" title="Settings">⚙︎</button>
+    </div>
+  </div>
 </div>
+
+<!-- masthead -->
+<div class="w">
+  <div class="masthead">
+    <h1>Stellar Herald</h1>
+    <p>Science &amp; Technology · Morning Edition</p>
+  </div>
+</div>
+
+<!-- section nav -->
+<nav class="secnav" id="secnav" role="tablist" aria-label="Sections"></nav>
+
+<!-- breaking banner (injected if needed) -->
+<div id="breaking-slot"></div>
+
+<!-- toast (in-page notification) -->
+<div id="toast" hidden role="status"></div>
+
+<!-- main content -->
+<main id="main"></main>
+
+<!-- settings drawer -->
+<div class="drawer-backdrop" id="backdrop" aria-hidden="true"></div>
+<aside class="drawer" id="drawer" role="dialog" aria-modal="true" aria-label="Settings">
+  <div class="drawer-head">
+    <h2>Settings</h2>
+    <button class="icon-btn" id="close-drawer" aria-label="Close settings">✕</button>
+  </div>
+
+  <div class="drawer-section">
+    <h3>Appearance</h3>
+    <div class="theme-row">
+      <button class="theme-btn" id="th-light" aria-pressed="false" data-theme="light">☀︎ Light</button>
+      <button class="theme-btn" id="th-system" aria-pressed="true" data-theme="system">Auto</button>
+      <button class="theme-btn" id="th-dark" aria-pressed="false" data-theme="dark">☾ Dark</button>
+    </div>
+  </div>
+
+  <div class="drawer-section">
+    <h3>Morning Briefing</h3>
+    <div class="field">
+      <label for="time-input">Send notification at</label>
+      <input type="time" id="time-input" value="07:00">
+    </div>
+    <div class="btn-row">
+      <button class="btn btn-primary" id="btn-on">Turn on notifications</button>
+      <button class="btn btn-ghost" id="btn-test">Send a test</button>
+    </div>
+    <p id="st"></p>
+    <a id="cal-link" target="_blank" rel="noopener">+ Add daily reminder to Google Calendar</a>
+  </div>
+
+  <div class="drawer-section">
+    <h3>Your topics</h3>
+    <p id="cov" style="font-size:14px;color:var(--mute);line-height:1.5"></p>
+  </div>
+</aside>
+
+<!-- footer -->
+<div class="w"><footer id="ft">Compiled on November 14, 2026. Summaries are in our own words and every link opens a free page.</footer></div>
+
 <script>
+/* ── data ── */
 let D={date:"2026-11-14",notify:["Technology","Physics","Space"],breaking:[],stories:[
 {s:"Technology",h:"Microsoft apologises after a global outage cripples Outlook, Teams and Copilot",t:"The disruption began on November 12 and left people around the world unable to reach email and workplace apps. Microsoft apologised on Friday, almost a day in, and says services are broadly recovering, though it has given no timeline for a full fix.",l:[["AP via NBC Chicago","https://www.nbcchicago.com/news/local/what-caused-the-outlook-outage-microsoft-issues-apology-after-some-services-restored/4016408/"],["The Tribune (ANI)","https://www.tribuneindia.com/news/usa-news/deeply-sorry-for-disruption-microsoft-issues-apology-after-global-outage-says-broad-recovery-across-services/"],["Outlook India","https://www.outlookindia.com/international/microsoft-outage-november-12-2026-outlook-teams-copilot-microsoft-365-down-downdetector-reports-global-service-disruption"]]},
-{s:"Space",h:"NASA’s Moon Base plan draws new awards as Vulcan readies its return to flight",t:"NASA updated its Moon Base plans and rolled out awards at its MAX POWER expo, while ULA lined up a November 13 comeback for Vulcan with 40 Amazon Leo satellites. In orbit, the space station finished its power upgrade with the last new solar array.",l:[["SpaceNexus Daily","https://spacenexus.us/briefing/2026-11-08"],["Vulcan’s return, Space Brief","https://keeptrack.space/space-brief/space-brief-2026-10-29"],["SpacePolicyOnline weekly","https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-8-14-2026/"]]},
-{s:"Economics in Tech",h:"Google commits $17 billion to a Wyoming AI data centre as opposition grows",t:"The campus near Cheyenne is Google’s first in the state, and the company says it will pay for all the power it uses, with fuel cells and carbon capture in the mix. The timing is awkward: Reuters notes that 40 of 41 data-centre ballot measures in the midterms went against the industry.",l:[["Google’s announcement","https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center/"],["Reuters via Yahoo Finance","https://finance.yahoo.com/technology/ai/articles/google-plans-17-billion-wyoming-204551123.html"],["States Newsroom","https://www.newsfromthestates.com/node/437108"]]},
-{s:"Physics",h:"LHCb finds evidence of one of nature’s rarest particle decays",t:"The Standard Model expects this decay in only about one in every ten billion beauty particles, so even a hint probes tiny distances where new particles or forces could hide. Coverage also notes the UK funding agency withdrew its share of money for a planned upgrade.",l:[["University of Birmingham","https://www.birmingham.ac.uk/news/2026/physicists-uncover-evidence-of-one-of-natures-rarest-particle-decays"],["NewsBytes","https://www.newsbytesapp.com/news/science/scientists-probe-matter-100b-times-smaller-than-atom/story"],["Also: antimatter held for months","https://chicago.suntimes.com/chicago/2026/10/30/northwestern-physicists-capture-antimatter-science-big-bang"]]},
-{s:"Science",h:"Sydney team directly observes hydrogen hiding between metal atoms",t:"Researchers have seen hydrogen sitting in the tiny gaps inside metal alloys. The result offers new insight into hydrogen embrittlement, the process that makes metals brittle.",l:[["Chemical Online","https://www.chemicalonline.com/doc/breakthrough-enables-scientists-to-observe-hydrogen-between-metal-atoms-0001"],["Newswise science news","https://www.newswise.com/articles/list?category=science"]]},
+{s:"Space",h:"NASA's Moon Base plan draws new awards as Vulcan readies its return to flight",t:"NASA updated its Moon Base plans and rolled out awards at its MAX POWER expo, while ULA lined up a November 13 comeback for Vulcan with 40 Amazon Leo satellites. In orbit, the space station finished its power upgrade with the last new solar array.",l:[["SpaceNexus Daily","https://spacenexus.us/briefing/2026-11-08"],["Space Brief","https://keeptrack.space/space-brief/space-brief-2026-10-29"],["SpacePolicyOnline","https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-8-14-2026/"]]},
+{s:"Economics in Tech",h:"Google commits $17 billion to a Wyoming AI data centre as opposition grows",t:"The campus near Cheyenne is Google's first in the state, and the company says it will pay for all the power it uses, with fuel cells and carbon capture in the mix. The timing is awkward: Reuters notes that 40 of 41 data-centre ballot measures in the midterms went against the industry.",l:[["Google Blog","https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center/"],["Yahoo Finance","https://finance.yahoo.com/technology/ai/articles/google-plans-17-billion-wyoming-204551123.html"],["States Newsroom","https://www.newsfromthestates.com/node/437108"]]},
+{s:"Physics",h:"LHCb finds evidence of one of nature's rarest particle decays",t:"The Standard Model expects this decay in only about one in every ten billion beauty particles, so even a hint probes tiny distances where new particles or forces could hide. Coverage also notes the UK funding agency withdrew its share of money for a planned upgrade.",l:[["University of Birmingham","https://www.birmingham.ac.uk/news/2026/physicists-uncover-evidence-of-one-of-natures-rarest-particle-decays"],["NewsBytes","https://www.newsbytesapp.com/news/science/scientists-probe-matter-100b-times-smaller-than-atom/story"],["Chicago Sun-Times","https://chicago.suntimes.com/chicago/2026/10/30/northwestern-physicists-capture-antimatter-science-big-bang"]]},
+{s:"Science",h:"Sydney team directly observes hydrogen hiding between metal atoms",t:"Researchers have seen hydrogen sitting in the tiny gaps inside metal alloys. The result offers new insight into hydrogen embrittlement, the process that makes metals brittle.",l:[["Chemical Online","https://www.chemicalonline.com/doc/breakthrough-enables-scientists-to-observe-hydrogen-between-metal-atoms-0001"],["Newswise","https://www.newswise.com/articles/list?category=science"]]},
 {s:"Research",h:"A gene-interaction map of tuberculosis points to new drug combinations",t:"Rockefeller University researchers built the first comprehensive map of how essential genes in the TB bacterium work together, using a CRISPR-based platform. It has already revealed four new synergistic drug combinations and predicts dozens more, a fresh route against antibiotic resistance.",l:[["Rockefeller University","https://www.rockefeller.edu/news/40863-bacterial-genome-tb-drugs/"],["Newswise","https://www.newswise.com/articles/new-study-of-bacterial-genome-could-lead-to-better-tb-drugs"]]}
 ]};
-const SEC=["All","Technology","Space","Economics in Tech","Physics","Science","Research"];
-/*PURE*/
+
+const SECS=["All","Technology","Space","Economics in Tech","Physics","Science","Research"];
+const SEC_DESC={
+  "Technology":"The latest in software, hardware, AI and the companies building our digital world.",
+  "Space":"Launches, missions, discoveries and policy shaping humanity's future beyond Earth.",
+  "Economics in Tech":"The money, markets and power dynamics driving the technology industry.",
+  "Physics":"Fundamental discoveries about matter, energy and the laws governing the universe.",
+  "Science":"Breakthroughs across biology, chemistry, earth science and beyond.",
+  "Research":"Peer-reviewed findings and long-read investigations worth your attention."
+};
+
+/* ── utils ── */
 const esc=s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const $=id=>document.getElementById(id);
 const fmtDate=iso=>new Date(iso+"T12:00:00").toLocaleDateString("en-US",{weekday:"long",year:"numeric",month:"long",day:"numeric"});
 const nextRun=(hhmm,now)=>{const[h,m]=hhmm.split(":").map(Number);const t=new Date(now);t.setHours(h,m,0,0);if(t<=now)t.setDate(t.getDate()+1);return t};
-const digest=(ss,topics,br=[])=>[...br.map(b=>"Breaking: "+b.h),...ss.filter(s=>!topics||topics.includes(s.s)).map(s=>s.s+": "+s.h)].join("\n");
 const pad=n=>String(n).padStart(2,"0");
 const stamp=d=>""+d.getFullYear()+pad(d.getMonth()+1)+pad(d.getDate())+"T"+pad(d.getHours())+pad(d.getMinutes())+"00";
-const calUrl=(hhmm,now,tz,href)=>{const t=nextRun(hhmm,now),e=new Date(t.getTime()+9e5);return"https://calendar.google.com/calendar/render?action=TEMPLATE&text="+encodeURIComponent("Stellar Herald morning briefing")+"&details="+encodeURIComponent("Read today’s edition: "+href)+"&dates="+stamp(t)+"/"+stamp(e)+"&recur="+encodeURIComponent("RRULE:FREQ=DAILY")+"&ctz="+encodeURIComponent(tz)};
-const card=(x,big)=>`<article class="${big?"lead":"card"}"><p class="k">${esc(x.s)}</p>${big?"<h2>":"<h3>"}${esc(x.h)}${big?"</h2>":"</h3>"}<p>${esc(x.t)}</p><p class="rf">Free to read</p><ul class="l">${x.l.map(l=>`<li><a href="${esc(l[1])}" target="_blank" rel="noopener">${esc(l[0])}</a></li>`).join("")}</ul></article>`;
-const view=(ss,f)=>f==="All"?card(ss[0],true)+'<div class="grid">'+ss.slice(1).map(x=>card(x)).join("")+"</div>":'<div class="grid">'+ss.filter(x=>x.s===f).map(x=>card(x)).join("")+"</div>";
-/*END*/
-const $=id=>document.getElementById(id);
+const calUrl=(hhmm,now,tz,href)=>{const t=nextRun(hhmm,now),e=new Date(t.getTime()+9e5);return"https://calendar.google.com/calendar/render?action=TEMPLATE&text="+encodeURIComponent("Stellar Herald morning briefing")+"&details="+encodeURIComponent("Read today's edition: "+href)+"&dates="+stamp(t)+"/"+stamp(e)+"&recur="+encodeURIComponent("RRULE:FREQ=DAILY")+"&ctz="+encodeURIComponent(tz)};
+const digest=(ss,topics,br=[])=>[...br.map(b=>"Breaking: "+b.h),...ss.filter(s=>!topics||topics.includes(s.s)).map(s=>s.s+": "+s.h)].join("\n");
 const load=k=>{try{return localStorage.getItem("sh:"+k)}catch(e){return null}};
 const save=(k,v)=>{try{localStorage.setItem("sh:"+k,v)}catch(e){}};
-let cur="All",timer;
-function paint(){$("cov").textContent="Your briefing covers "+D.notify.join(", ")+". Breaking news is always included.";$("m").innerHTML=(D.breaking||[]).map(b=>`<aside class="bk"><b>Breaking:</b> <a href="${esc(b.l[0][1])}" target="_blank" rel="noopener">${esc(b.h)}</a></aside>`).join("")+view(D.stories,cur);$("nav").innerHTML=SEC.map(s=>`<button aria-pressed="${s===cur}" data-s="${esc(s)}">${esc(s)}</button>`).join("")}
-$("nav").onclick=e=>{const b=e.target.closest("button");if(b){cur=b.dataset.s;paint()}};
-function say(t){$("st").textContent=t}
-function notify(){const body=digest(D.stories,D.notify,D.breaking),e=$("toast");e.textContent="Stellar Herald, "+fmtDate(D.date)+"\n"+body;e.hidden=false;try{if("Notification"in window&&Notification.permission==="granted")new Notification("Stellar Herald: today’s briefing",{body})}catch(x){}}
-function plan(){clearTimeout(timer);const t=load("time")||"07:00";$("time").value=t;$("cal").href=calUrl(t,new Date(),Intl.DateTimeFormat().resolvedOptions().timeZone,location.href);
-if(load("on")!=="1"){say("Notifications are off.");return}
-const at=nextRun(t,new Date());timer=setTimeout(()=>{notify();plan()},Math.min(at-Date.now(),2147483647));
-say("Next briefing: "+at.toLocaleString("en-US",{weekday:"short",hour:"numeric",minute:"2-digit"})+". It arrives while this tab stays open; the calendar reminder works even when the site is closed.")}
-$("on").onclick=async()=>{save("time",$("time").value||"07:00");save("on","1");try{if("Notification"in window&&Notification.permission==="default")await Notification.requestPermission()}catch(x){}plan();if("Notification"in window&&Notification.permission==="denied")say("Your browser is blocking notifications for this page, so the briefing will show on the page instead. The calendar reminder still works.")};
-$("test").onclick=notify;
-$("time").onchange=()=>{save("time",$("time").value);plan()};
-$("d").textContent=fmtDate(D.date);paint();plan();
-fetch("edition.json").then(r=>r.ok?r.json():Promise.reject()).then(j=>{if(j&&j.stories&&j.stories.length){D={notify:D.notify,breaking:[],...j};$("d").textContent=fmtDate(D.date);$("ft").textContent="Edition compiled automatically for "+fmtDate(D.date)+". Every link opens a page that is free to read.";paint()}}).catch(()=>{});
-</script></body></html>
+
+/* ── theme ── */
+function applyTheme(t){
+  document.documentElement.dataset.theme=t==="system"?"":t;
+  if(t==="system")delete document.documentElement.dataset.theme;
+  ["th-light","th-system","th-dark"].forEach(id=>$(id).setAttribute("aria-pressed",$(id).dataset.theme===t?"true":"false"));
+  save("theme",t);
+}
+(()=>{const t=load("theme")||"system";applyTheme(t)})();
+["th-light","th-system","th-dark"].forEach(id=>$(id).onclick=()=>applyTheme($(id).dataset.theme));
+
+/* ── render ── */
+const storyCard=(x,hero)=>hero
+  ?`<div class="hero"><div class="w hero-inner"><p class="label">${esc(x.s)}</p><h2>${esc(x.h)}</h2><p>${esc(x.t)}</p><div class="links">${x.l.map(l=>`<a href="${esc(l[1])}" target="_blank" rel="noopener">${esc(l[0])}</a>`).join("")}</div></div></div>`
+  :`<div class="story-cell"><p class="label">${esc(x.s)}</p><h3>${esc(x.h)}</h3><p>${esc(x.t)}</p><div class="meta">Free to read · <ul>${x.l.map(l=>`<li><a href="${esc(l[1])}" target="_blank" rel="noopener">${esc(l[0])}</a></li>`).join("")}</ul></div></div>`;
+
+function renderAll(stories){
+  const fields=[...new Set(stories.map(s=>s.s))];
+  return fields.map((f,fi)=>{
+    const fs=stories.filter(s=>s.s===f);
+    return`<div class="topic-block">
+      <div class="topic-rule"><span>${esc(f)}</span><hr></div>
+      ${fi===0?storyCard(fs[0],true):""}
+      <div class="story-grid">${(fi===0?fs.slice(1):fs).map(x=>storyCard(x,false)).join("")}</div>
+    </div>`;
+  }).join("");
+}
+
+function renderSection(f,stories){
+  const fs=stories.filter(s=>s.s===f);
+  if(!fs.length)return`<div style="padding:40px 24px;color:var(--mute)">No stories in this section today.</div>`;
+  return storyCard(fs[0],true)+(fs.length>1?`<div class="story-grid">${fs.slice(1).map(x=>storyCard(x,false)).join("")}</div>`:"");
+}
+
+let cur="All";
+function paint(){
+  /* breaking banner */
+  $("breaking-slot").innerHTML=(D.breaking||[]).map(b=>
+    `<div class="breaking"><span class="brk-label">Breaking</span><a href="${esc(b.l[0][1])}" target="_blank" rel="noopener">${esc(b.h)}</a></div>`
+  ).join("");
+  /* nav */
+  $("secnav").innerHTML=SECS.map(s=>
+    `<button role="tab" aria-selected="${s===cur}" data-s="${esc(s)}">${esc(s)}</button>`
+  ).join("");
+  /* section header */
+  const secHead=cur==="All"?"":
+    `<div class="sec-header"><div class="w"><h2>${esc(cur)}</h2><p>${esc(SEC_DESC[cur]||"")}</p></div></div>`;
+  /* stories */
+  const body=cur==="All"?renderAll(D.stories):renderSection(cur,D.stories);
+  $("main").innerHTML=secHead+body;
+  /* coverage line */
+  $("cov").textContent="Your morning push covers "+D.notify.join(", ")+". Breaking news always overrides.";
+}
+
+$("secnav").onclick=e=>{const b=e.target.closest("button");if(b){cur=b.dataset.s;paint();window.scrollTo({top:0,behavior:"smooth"})}};
+
+/* ── notifications ── */
+function sendNotif(){
+  const body=digest(D.stories,D.notify,D.breaking),e=$("toast");
+  e.textContent="Stellar Herald · "+fmtDate(D.date)+"\n"+body;
+  e.hidden=false;
+  try{if("Notification"in window&&Notification.permission==="granted")new Notification("Stellar Herald",{body})}catch(x){}
+}
+
+let ntimer;
+function plan(){
+  clearTimeout(ntimer);
+  const t=load("time")||"07:00";
+  $("time-input").value=t;
+  $("cal-link").href=calUrl(t,new Date(),Intl.DateTimeFormat().resolvedOptions().timeZone,location.href);
+  if(load("on")!=="1"){$("st").textContent="Notifications are off.";return}
+  const at=nextRun(t,new Date());
+  ntimer=setTimeout(()=>{sendNotif();plan()},Math.min(at-Date.now(),2147483647));
+  $("st").textContent="Next briefing: "+at.toLocaleString("en-US",{weekday:"short",hour:"numeric",minute:"2-digit"})+". Works while this tab is open; use the calendar link for reliable daily delivery.";
+}
+
+$("btn-on").onclick=async()=>{
+  save("time",$("time-input").value||"07:00");save("on","1");
+  try{if("Notification"in window&&Notification.permission==="default")await Notification.requestPermission()}catch(x){}
+  plan();
+  if("Notification"in window&&Notification.permission==="denied")
+    $("st").textContent="Browser notifications are blocked — the briefing will appear on the page instead. The calendar link still works.";
+};
+$("btn-test").onclick=sendNotif;
+$("time-input").onchange=()=>{save("time",$("time-input").value);plan()};
+
+/* ── settings drawer ── */
+function openDrawer(){$("drawer").classList.add("open");$("backdrop").classList.add("open");$("drawer").setAttribute("aria-hidden","false");$("close-drawer").focus()}
+function closeDrawer(){$("drawer").classList.remove("open");$("backdrop").classList.remove("open");$("drawer").setAttribute("aria-hidden","true");$("settings-btn").focus()}
+$("settings-btn").onclick=openDrawer;
+$("close-drawer").onclick=closeDrawer;
+$("backdrop").onclick=closeDrawer;
+document.addEventListener("keydown",e=>{if(e.key==="Escape"&&$("drawer").classList.contains("open"))closeDrawer()});
+
+/* ── init ── */
+$("date-line").textContent=fmtDate(D.date);
+paint();plan();
+
+/* try to load live edition */
+fetch("edition.json").then(r=>r.ok?r.json():Promise.reject()).then(j=>{
+  if(j&&j.stories&&j.stories.length){
+    D={notify:D.notify,breaking:[],...j};
+    $("date-line").textContent=fmtDate(D.date);
+    $("ft").textContent="Edition compiled automatically for "+fmtDate(D.date)+". Every link opens a free page.";
+    paint();
+  }
+}).catch(()=>{});
+</script>
+</body></html>
