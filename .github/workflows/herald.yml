@@ -1,0 +1,30 @@
+name: herald
+on:
+  schedule:
+    - cron: "30 1 * * *"     # 07:00 IST: morning edition + notifications
+    - cron: "*/30 * * * *"   # every 30 min: breaking-news check
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: herald
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Build edition and send notifications
+        run: node scripts/herald.mjs "$MODE"
+        env:
+          MODE: ${{ (github.event.schedule == '30 1 * * *' || github.event_name == 'workflow_dispatch') && 'morning' || 'breaking' }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+      - name: Publish edition to the site
+        run: |
+          git config user.name "stellar-herald"
+          git config user.email "herald@users.noreply.github.com"
+          git add docs
+          if ! git diff --cached --quiet; then git commit -m "Edition $(date -u +%F)" && git push; fi
