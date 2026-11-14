@@ -1,0 +1,18 @@
+{
+ "site": "https://YOUR-USERNAME.github.io/stellar-herald/",
+ "tz": "Asia/Kolkata",
+ "notifyTopics": ["Technology", "Physics", "Space"],
+ "watch": ["Jensen Huang", "Nvidia"],
+ "breakingWords": "resigns|resigned|resignation|steps down|stepping down|ousted|fired|dies|dead|killed|outage",
+ "perField": 1,
+ "maxAgeHours": 30,
+ "paywalled": "(^|[./])(wsj|ft|bloomberg|nytimes|economist|washingtonpost|theinformation|barrons)\\.com",
+ "feeds": {
+  "Technology": ["https://www.theverge.com/rss/index.xml", "https://techcrunch.com/feed/", "https://feeds.arstechnica.com/arstechnica/index"],
+  "Space": ["https://www.nasa.gov/news-release/feed/", "https://www.sciencedaily.com/rss/space_time.xml", "https://www.space.com/feeds/all"],
+  "Economics in Tech": ["https://news.google.com/rss/search?q=tech+economy+AI+chips+investment+when:1d&hl=en-IN&gl=IN&ceid=IN:en"],
+  "Physics": ["https://www.sciencedaily.com/rss/matter_energy/physics.xml", "https://phys.org/rss-feed/physics-news/"],
+  "Science": ["https://www.sciencedaily.com/rss/top/science.xml", "https://www.nature.com/nature.rss"],
+  "Research": ["https://www.quantamagazine.org/feed/", "https://theconversation.com/global/articles.atom"]
+ }
+}

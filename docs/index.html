@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Stellar Herald</title>
+<link href="https://fonts.googleapis.com/css2?family=UnifrakturCook:wght@700&family=Playfair+Display:wght@700&family=Source+Serif+4:wght@400;600&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#fff;--ink:#121212;--mute:#5f5f5f;--rule:#d9d9d9;--acc:#2b5d8a;--box:#f6f6f6;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+@media(prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#121212;--ink:#f1f1f1;--mute:#a9a9a9;--rule:#383838;--acc:#8ab8e0;--box:#1b1b1b;color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#121212;--ink:#f1f1f1;--mute:#a9a9a9;--rule:#383838;--acc:#8ab8e0;--box:#1b1b1b;color-scheme:dark}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:17px/1.55 "Source Serif 4",Georgia,serif}
+.w{max-width:1100px;margin:0 auto;padding:0 20px}
+.top{display:flex;justify-content:space-between;font-size:13px;color:var(--mute);padding:10px 0;border-bottom:1px solid var(--rule)}
+h1{font:700 clamp(40px,9vw,84px)/1 UnifrakturCook,"Old English Text MT",Georgia,serif;text-align:center;margin:18px 0 6px}
+.tag{text-align:center;font-style:italic;color:var(--mute);margin:0 0 14px}
+nav{border-top:3px double var(--ink);border-bottom:1px solid var(--ink);display:flex;gap:2px 20px;flex-wrap:wrap;justify-content:center;padding:6px 0}
+nav button{background:none;border:0;font:600 14px "Source Serif 4",Georgia,serif;color:var(--ink);padding:6px 2px;cursor:pointer;border-bottom:2px solid transparent}
+nav button[aria-pressed=true]{border-color:var(--ink)}
+button:focus-visible,a:focus-visible,input:focus-visible{outline:2px solid var(--acc);outline-offset:2px}
+.k{font:600 13px "Source Serif 4",Georgia,serif;color:var(--acc);margin:0 0 4px}
+h2,h3{font-family:"Playfair Display",Georgia,serif;line-height:1.15;margin:0 0 8px}
+.lead{padding:24px 0;border-bottom:1px solid var(--rule)}
+.lead h2{font-size:clamp(28px,5vw,46px)}
+.lead p{font-size:19px;max-width:70ch}
+.grid{display:grid;grid-template-columns:repeat(3,1fr)}
+.card{padding:20px 20px 20px 0;margin-right:20px;border-right:1px solid var(--rule)}
+.card:nth-child(3n){border-right:0;margin-right:0}
+.card h3{font-size:22px}
+.card p{font-size:16px}
+.card .rf,.lead .rf{font-size:13px;color:var(--mute);margin:8px 0 0}
+.l{font-size:14px;margin:2px 0 0;padding:0;list-style:none}
+.l a{color:var(--acc)}
+.box{background:var(--box);border:1px solid var(--rule);padding:16px 20px;margin:24px 0}
+.box h3{font-size:20px}
+.box input{font:inherit;padding:4px 6px;border:1px solid var(--ink);background:var(--bg);color:var(--ink)}
+.box button{font:600 14px "Source Serif 4",Georgia,serif;padding:7px 14px;border:1px solid var(--ink);background:var(--ink);color:var(--bg);cursor:pointer;margin:8px 8px 0 0}
+.box .alt{background:none;color:var(--ink)}
+.box a{color:var(--acc);font-size:15px}
+#st{font-size:14px;color:var(--mute);margin:8px 0 0}
+#toast{border-left:4px solid var(--acc);padding:8px 14px;margin:14px 0;background:var(--box);white-space:pre-line}
+.bk{border-top:3px solid #d4351c;border-bottom:1px solid var(--rule);padding:10px 0;font:700 19px "Playfair Display",Georgia,serif}.bk b{color:#d4351c}.bk a{color:var(--ink)}
+footer{font-size:13px;color:var(--mute);border-top:1px solid var(--rule);padding:14px 0 30px}
+@media(max-width:800px){.grid{grid-template-columns:1fr}.card{border-right:0;margin-right:0;border-bottom:1px solid var(--rule)}}
+</style></head>
+<body><div class="w">
+<div class="top"><span id="d"></span><span>Morning Edition</span></div>
+<h1>Stellar Herald</h1>
+<p class="tag">The day’s biggest stories in science and technology, with free links to read more.</p>
+<nav id="nav" aria-label="Sections"></nav>
+<div id="toast" hidden role="status"></div>
+<main id="m"></main>
+<section class="box" aria-labelledby="nt">
+<h3 id="nt">Get the morning briefing</h3>
+<p id="cov"></p>
+<label>Send at <input type="time" id="time" value="07:00"></label>
+<div><button id="on">Turn on notifications</button><button id="test" class="alt">Send a test</button><a id="cal" target="_blank" rel="noopener">Add a daily reminder to Google Calendar</a></div>
+<p id="st"></p>
+</section>
+<footer id="ft">Compiled on November 14, 2026 from that morning’s news searches. Summaries are in our own words, and every link opens a page that is free to read. This hosted page can’t fetch news on its own, so each morning’s edition is published fresh.</footer>
+</div>
+<script>
+let D={date:"2026-11-14",notify:["Technology","Physics","Space"],breaking:[],stories:[
+{s:"Technology",h:"Microsoft apologises after a global outage cripples Outlook, Teams and Copilot",t:"The disruption began on November 12 and left people around the world unable to reach email and workplace apps. Microsoft apologised on Friday, almost a day in, and says services are broadly recovering, though it has given no timeline for a full fix.",l:[["AP via NBC Chicago","https://www.nbcchicago.com/news/local/what-caused-the-outlook-outage-microsoft-issues-apology-after-some-services-restored/4016408/"],["The Tribune (ANI)","https://www.tribuneindia.com/news/usa-news/deeply-sorry-for-disruption-microsoft-issues-apology-after-global-outage-says-broad-recovery-across-services/"],["Outlook India","https://www.outlookindia.com/international/microsoft-outage-november-12-2026-outlook-teams-copilot-microsoft-365-down-downdetector-reports-global-service-disruption"]]},
+{s:"Space",h:"NASA’s Moon Base plan draws new awards as Vulcan readies its return to flight",t:"NASA updated its Moon Base plans and rolled out awards at its MAX POWER expo, while ULA lined up a November 13 comeback for Vulcan with 40 Amazon Leo satellites. In orbit, the space station finished its power upgrade with the last new solar array.",l:[["SpaceNexus Daily","https://spacenexus.us/briefing/2026-11-08"],["Vulcan’s return, Space Brief","https://keeptrack.space/space-brief/space-brief-2026-10-29"],["SpacePolicyOnline weekly","https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-8-14-2026/"]]},
+{s:"Economics in Tech",h:"Google commits $17 billion to a Wyoming AI data centre as opposition grows",t:"The campus near Cheyenne is Google’s first in the state, and the company says it will pay for all the power it uses, with fuel cells and carbon capture in the mix. The timing is awkward: Reuters notes that 40 of 41 data-centre ballot measures in the midterms went against the industry.",l:[["Google’s announcement","https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center/"],["Reuters via Yahoo Finance","https://finance.yahoo.com/technology/ai/articles/google-plans-17-billion-wyoming-204551123.html"],["States Newsroom","https://www.newsfromthestates.com/node/437108"]]},
+{s:"Physics",h:"LHCb finds evidence of one of nature’s rarest particle decays",t:"The Standard Model expects this decay in only about one in every ten billion beauty particles, so even a hint probes tiny distances where new particles or forces could hide. Coverage also notes the UK funding agency withdrew its share of money for a planned upgrade.",l:[["University of Birmingham","https://www.birmingham.ac.uk/news/2026/physicists-uncover-evidence-of-one-of-natures-rarest-particle-decays"],["NewsBytes","https://www.newsbytesapp.com/news/science/scientists-probe-matter-100b-times-smaller-than-atom/story"],["Also: antimatter held for months","https://chicago.suntimes.com/chicago/2026/10/30/northwestern-physicists-capture-antimatter-science-big-bang"]]},
+{s:"Science",h:"Sydney team directly observes hydrogen hiding between metal atoms",t:"Researchers have seen hydrogen sitting in the tiny gaps inside metal alloys. The result offers new insight into hydrogen embrittlement, the process that makes metals brittle.",l:[["Chemical Online","https://www.chemicalonline.com/doc/breakthrough-enables-scientists-to-observe-hydrogen-between-metal-atoms-0001"],["Newswise science news","https://www.newswise.com/articles/list?category=science"]]},
+{s:"Research",h:"A gene-interaction map of tuberculosis points to new drug combinations",t:"Rockefeller University researchers built the first comprehensive map of how essential genes in the TB bacterium work together, using a CRISPR-based platform. It has already revealed four new synergistic drug combinations and predicts dozens more, a fresh route against antibiotic resistance.",l:[["Rockefeller University","https://www.rockefeller.edu/news/40863-bacterial-genome-tb-drugs/"],["Newswise","https://www.newswise.com/articles/new-study-of-bacterial-genome-could-lead-to-better-tb-drugs"]]}
+]};
+const SEC=["All","Technology","Space","Economics in Tech","Physics","Science","Research"];
+/*PURE*/
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const fmtDate=iso=>new Date(iso+"T12:00:00").toLocaleDateString("en-US",{weekday:"long",year:"numeric",month:"long",day:"numeric"});
+const nextRun=(hhmm,now)=>{const[h,m]=hhmm.split(":").map(Number);const t=new Date(now);t.setHours(h,m,0,0);if(t<=now)t.setDate(t.getDate()+1);return t};
+const digest=(ss,topics,br=[])=>[...br.map(b=>"Breaking: "+b.h),...ss.filter(s=>!topics||topics.includes(s.s)).map(s=>s.s+": "+s.h)].join("\n");
+const pad=n=>String(n).padStart(2,"0");
+const stamp=d=>""+d.getFullYear()+pad(d.getMonth()+1)+pad(d.getDate())+"T"+pad(d.getHours())+pad(d.getMinutes())+"00";
+const calUrl=(hhmm,now,tz,href)=>{const t=nextRun(hhmm,now),e=new Date(t.getTime()+9e5);return"https://calendar.google.com/calendar/render?action=TEMPLATE&text="+encodeURIComponent("Stellar Herald morning briefing")+"&details="+encodeURIComponent("Read today’s edition: "+href)+"&dates="+stamp(t)+"/"+stamp(e)+"&recur="+encodeURIComponent("RRULE:FREQ=DAILY")+"&ctz="+encodeURIComponent(tz)};
+const card=(x,big)=>`<article class="${big?"lead":"card"}"><p class="k">${esc(x.s)}</p>${big?"<h2>":"<h3>"}${esc(x.h)}${big?"</h2>":"</h3>"}<p>${esc(x.t)}</p><p class="rf">Free to read</p><ul class="l">${x.l.map(l=>`<li><a href="${esc(l[1])}" target="_blank" rel="noopener">${esc(l[0])}</a></li>`).join("")}</ul></article>`;
+const view=(ss,f)=>f==="All"?card(ss[0],true)+'<div class="grid">'+ss.slice(1).map(x=>card(x)).join("")+"</div>":'<div class="grid">'+ss.filter(x=>x.s===f).map(x=>card(x)).join("")+"</div>";
+/*END*/
+const $=id=>document.getElementById(id);
+const load=k=>{try{return localStorage.getItem("sh:"+k)}catch(e){return null}};
+const save=(k,v)=>{try{localStorage.setItem("sh:"+k,v)}catch(e){}};
+let cur="All",timer;
+function paint(){$("cov").textContent="Your briefing covers "+D.notify.join(", ")+". Breaking news is always included.";$("m").innerHTML=(D.breaking||[]).map(b=>`<aside class="bk"><b>Breaking:</b> <a href="${esc(b.l[0][1])}" target="_blank" rel="noopener">${esc(b.h)}</a></aside>`).join("")+view(D.stories,cur);$("nav").innerHTML=SEC.map(s=>`<button aria-pressed="${s===cur}" data-s="${esc(s)}">${esc(s)}</button>`).join("")}
+$("nav").onclick=e=>{const b=e.target.closest("button");if(b){cur=b.dataset.s;paint()}};
+function say(t){$("st").textContent=t}
+function notify(){const body=digest(D.stories,D.notify,D.breaking),e=$("toast");e.textContent="Stellar Herald, "+fmtDate(D.date)+"\n"+body;e.hidden=false;try{if("Notification"in window&&Notification.permission==="granted")new Notification("Stellar Herald: today’s briefing",{body})}catch(x){}}
+function plan(){clearTimeout(timer);const t=load("time")||"07:00";$("time").value=t;$("cal").href=calUrl(t,new Date(),Intl.DateTimeFormat().resolvedOptions().timeZone,location.href);
+if(load("on")!=="1"){say("Notifications are off.");return}
+const at=nextRun(t,new Date());timer=setTimeout(()=>{notify();plan()},Math.min(at-Date.now(),2147483647));
+say("Next briefing: "+at.toLocaleString("en-US",{weekday:"short",hour:"numeric",minute:"2-digit"})+". It arrives while this tab stays open; the calendar reminder works even when the site is closed.")}
+$("on").onclick=async()=>{save("time",$("time").value||"07:00");save("on","1");try{if("Notification"in window&&Notification.permission==="default")await Notification.requestPermission()}catch(x){}plan();if("Notification"in window&&Notification.permission==="denied")say("Your browser is blocking notifications for this page, so the briefing will show on the page instead. The calendar reminder still works.")};
+$("test").onclick=notify;
+$("time").onchange=()=>{save("time",$("time").value);plan()};
+$("d").textContent=fmtDate(D.date);paint();plan();
+fetch("edition.json").then(r=>r.ok?r.json():Promise.reject()).then(j=>{if(j&&j.stories&&j.stories.length){D={notify:D.notify,breaking:[],...j};$("d").textContent=fmtDate(D.date);$("ft").textContent="Edition compiled automatically for "+fmtDate(D.date)+". Every link opens a page that is free to read.";paint()}}).catch(()=>{});
+</script></body></html>
