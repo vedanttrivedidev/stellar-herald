@@ -6,15 +6,15 @@
 <style>
 /* ── tokens ── */
 :root{
-  --bg:#fff;--ink:#121212;--mute:#666;--rule:#d4d4d4;--acc:#1a3a5c;--box:#f5f4f0;--red:#c0392b;
-  --section-bg:#f9f8f4;--hero-bg:#1a3a5c;--hero-ink:#fff;
+  --bg:#fff;--ink:#121212;--mute:#666;--rule:#d4d4d4;--acc:#121212;--box:#f5f4f0;--red:#c0392b;
+  --section-bg:#fff;
   color-scheme:light;
   padding-top:env(safe-area-inset-top,0px);
   padding-bottom:env(safe-area-inset-bottom,0px);
 }
 :root[data-theme="dark"]{
-  --bg:#0f0f0f;--ink:#e8e6e0;--mute:#888;--rule:#2a2a2a;--acc:#7aabcf;--box:#181818;
-  --section-bg:#141414;--hero-bg:#0a1f33;--hero-ink:#e8e6e0;--red:#e05c4b;
+  --bg:#0f0f0f;--ink:#e8e6e0;--mute:#888;--rule:#2a2a2a;--acc:#e8e6e0;--box:#181818;
+  --section-bg:#0f0f0f;--red:#e05c4b;
   color-scheme:dark;
 }
 *{box-sizing:border-box;margin:0;padding:0}
@@ -48,46 +48,37 @@ body{background:var(--bg);color:var(--ink);font:18px/1.6 "Source Serif 4",Georgi
 .secnav button:focus-visible{outline:2px solid var(--acc);outline-offset:-2px}
 
 /* ── breaking banner ── */
-.breaking{background:var(--red);color:#fff;padding:10px 24px;font:700 14px/1.4 "Source Serif 4",Georgia,serif;display:flex;gap:12px;align-items:baseline}
-.breaking .brk-label{flex-shrink:0;letter-spacing:.08em;text-transform:uppercase;font-size:12px;border:1px solid #fff;padding:1px 6px}
-.breaking a{color:#fff;text-decoration:underline}
+.breaking{background:var(--bg);border-top:1px solid var(--ink);border-bottom:1px solid var(--ink);padding:12px 24px;font:700 15px/1.4 "Source Serif 4",Georgia,serif;display:flex;gap:12px;align-items:baseline}
+.breaking .brk-label{flex-shrink:0;letter-spacing:.08em;text-transform:uppercase;font-size:11px;color:var(--red);border:1px solid var(--red);padding:2px 7px;border-radius:2px}
+.breaking a{color:var(--ink);text-decoration:none;border-bottom:1px solid var(--ink)}
 
 /* ── hero story ── */
-.hero{background:var(--hero-bg);color:var(--hero-ink);padding:48px 24px}
+.hero{padding:36px 0 40px;border-bottom:3px solid var(--ink)}
 .hero-inner{max-width:780px}
-.hero .label{font:600 12px/1 "Source Serif 4",Georgia,serif;letter-spacing:.1em;text-transform:uppercase;color:rgba(255,255,255,.6);margin-bottom:14px}
 .hero h2{font:700 clamp(30px,5vw,52px)/1.1 "Playfair Display",Georgia,serif;margin-bottom:16px}
-.hero p{font-size:19px;line-height:1.6;color:rgba(255,255,255,.85);max-width:66ch}
+.hero p{font-size:19px;line-height:1.6;opacity:.82;max-width:66ch}
 .hero .links{margin-top:18px;display:flex;flex-wrap:wrap;gap:10px}
-.hero .links a{color:rgba(255,255,255,.75);font-size:13px;border-bottom:1px solid rgba(255,255,255,.3);text-decoration:none;padding-bottom:1px}
-.hero .links a:hover{color:#fff;border-color:#fff}
+.hero .links a{color:var(--ink);opacity:.65;font-size:13px;border-bottom:1px solid var(--rule);text-decoration:none;padding-bottom:1px}
+.hero .links a:hover{opacity:1;border-color:var(--ink)}
 
 /* ── section page ── */
 .sec-page{display:none}
 .sec-page.active{display:block}
 
 /* section header stripe */
-.sec-header{background:var(--section-bg);border-bottom:3px solid var(--ink);padding:18px 24px 14px}
+.sec-header{border-bottom:3px solid var(--ink);padding:18px 24px 14px}
 .sec-header h2{font:700 clamp(22px,4vw,36px)/1 "Playfair Display",Georgia,serif}
 .sec-header p{font-size:14px;color:var(--mute);margin-top:4px}
 
-/* story grid inside a section */
-.story-grid{display:grid;grid-template-columns:1fr 1fr;gap:0}
-.story-cell{padding:28px 24px;border-bottom:1px solid var(--rule)}
-.story-cell:nth-child(odd){border-right:1px solid var(--rule)}
-.story-cell .label{font:600 12px/1 "Source Serif 4",Georgia,serif;letter-spacing:.08em;text-transform:uppercase;color:var(--acc);margin-bottom:8px}
-.story-cell h3{font:700 clamp(18px,2.5vw,24px)/1.15 "Playfair Display",Georgia,serif;margin-bottom:10px}
-.story-cell p{font-size:16px;color:var(--ink);line-height:1.6}
-.story-cell .meta{margin-top:12px;font-size:13px;color:var(--mute)}
-.story-cell ul{margin-top:6px;padding:0;list-style:none;display:flex;flex-wrap:wrap;gap:6px 14px}
-.story-cell ul a{color:var(--acc);font-size:13px;text-decoration:none;border-bottom:1px solid transparent}
-.story-cell ul a:hover{border-color:var(--acc)}
-
-/* all-sections view: topic dividers */
-.topic-block{margin-bottom:0}
-.topic-rule{display:flex;align-items:center;gap:14px;padding:0 24px;margin:0}
-.topic-rule span{font:700 11px/1 "Source Serif 4",Georgia,serif;letter-spacing:.12em;text-transform:uppercase;color:var(--mute);white-space:nowrap}
-.topic-rule hr{flex:1;border:0;border-top:1px solid var(--rule)}
+/* flat story list below the lead */
+.story-list{max-width:1140px;margin:0 auto}
+.story-item{padding:24px;border-bottom:1px solid var(--rule)}
+.story-item h3{font:700 clamp(18px,2.5vw,24px)/1.15 "Playfair Display",Georgia,serif;margin-bottom:10px}
+.story-item p{font-size:16px;color:var(--ink);line-height:1.6}
+.story-item .meta{margin-top:12px;font-size:13px;color:var(--mute)}
+.story-item ul{margin-top:6px;padding:0;list-style:none;display:flex;flex-wrap:wrap;gap:6px 14px}
+.story-item ul a{color:var(--ink);font-size:13px;text-decoration:none;border-bottom:1px solid var(--rule)}
+.story-item ul a:hover{border-color:var(--ink)}
 
 /* ── settings drawer ── */
 .drawer-backdrop{display:none;position:fixed;inset:0;background:rgba(0,0,0,.45);z-index:200}
@@ -124,10 +115,9 @@ footer{border-top:1px solid var(--rule);padding:20px 0 36px;font-size:13px;color
 
 /* ── responsive ── */
 @media(max-width:680px){
-  .story-grid{grid-template-columns:1fr}
-  .story-cell:nth-child(odd){border-right:0}
   .secnav button{padding:12px 14px}
-  .hero{padding:32px 20px}
+  .hero{padding:28px 0 32px}
+  .story-item{padding:20px 16px}
 }
 </style>
 </head>
@@ -248,25 +238,17 @@ function applyTheme(t){
 
 /* ── render ── */
 const storyCard=(x,hero)=>hero
-  ?`<div class="hero"><div class="w hero-inner"><p class="label">${esc(x.s)}</p><h2>${esc(x.h)}</h2><p>${esc(x.t)}</p><div class="links">${x.l.map(l=>`<a href="${esc(l[1])}" target="_blank" rel="noopener">${esc(l[0])}</a>`).join("")}</div></div></div>`
-  :`<div class="story-cell"><p class="label">${esc(x.s)}</p><h3>${esc(x.h)}</h3><p>${esc(x.t)}</p><div class="meta">Free to read · <ul>${x.l.map(l=>`<li><a href="${esc(l[1])}" target="_blank" rel="noopener">${esc(l[0])}</a></li>`).join("")}</ul></div></div>`;
+  ?`<div class="hero"><div class="w hero-inner"><h2>${esc(x.h)}</h2><p>${esc(x.t)}</p><div class="links">${x.l.map(l=>`<a href="${esc(l[1])}" target="_blank" rel="noopener">${esc(l[0])}</a>`).join("")}</div></div></div>`
+  :`<div class="story-item"><h3>${esc(x.h)}</h3><p>${esc(x.t)}</p><div class="meta">Free to read · <ul>${x.l.map(l=>`<li><a href="${esc(l[1])}" target="_blank" rel="noopener">${esc(l[0])}</a></li>`).join("")}</ul></div></div>`;
 
 function renderAll(stories){
-  const fields=[...new Set(stories.map(s=>s.s))];
-  return fields.map((f,fi)=>{
-    const fs=stories.filter(s=>s.s===f);
-    return`<div class="topic-block">
-      <div class="topic-rule"><span>${esc(f)}</span><hr></div>
-      ${fi===0?storyCard(fs[0],true):""}
-      <div class="story-grid">${(fi===0?fs.slice(1):fs).map(x=>storyCard(x,false)).join("")}</div>
-    </div>`;
-  }).join("");
+  return storyCard(stories[0],true)+'<div class="story-list">'+stories.slice(1).map(x=>storyCard(x,false)).join("")+"</div>";
 }
 
 function renderSection(f,stories){
   const fs=stories.filter(s=>s.s===f);
   if(!fs.length)return`<div style="padding:40px 24px;color:var(--mute)">No stories in this section today.</div>`;
-  return storyCard(fs[0],true)+(fs.length>1?`<div class="story-grid">${fs.slice(1).map(x=>storyCard(x,false)).join("")}</div>`:"");
+  return storyCard(fs[0],true)+(fs.length>1?`<div class="story-list">${fs.slice(1).map(x=>storyCard(x,false)).join("")}</div>`:"");
 }
 
 let cur="All";
