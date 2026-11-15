@@ -1,5 +1,5 @@
 {
- "date": "2026-11-15",
+ "date": "2026-11-16",
  "notify": [
   "Technology",
   "Physics",
@@ -7,21 +7,58 @@
  ],
  "breaking": [
   {
-   "h": "Astronomers discover a dead star spinning every 8 minutes and sending mysterious radio pulses",
-   "t": "Scientists have discovered a strange stellar pair more than 5,000 light-years away, where a dead star spinning every eight minutes produces mysterious radio pulses while orbiting a Sun-like star.",
+   "h": "Nvidia CEO Jensen Huang Resigns as Stock Tanks. Here Are the Next Steps for Investors. - The Motley Fool",
+   "t": "",
    "l": [
     [
-     "sciencedaily.com",
-     "https://www.sciencedaily.com/releases/2026/11/261114202136.htm"
+     "fool.com",
+     "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaFpwMHBHOFV1MGlTNjNSTDdpcFplOWZZTS12a25wak1qTHJwNEZWX2w3WkxPUFpLMlJYNUkwajlWZ1pPWFVaODFjTDJval9PT3QyTmRqN0FyeTZ6U29VanRSTUtxdVE2bVplTFF6N0FfMU43dzhwRURIOWVDNGl4MjdNX3FtZ0dGV0ljMGJzenFmM19TeHRiQ2FPOWM3QnRVV0poOXBFVnFXMHBycGpxakJtbkwtczBONXNKekxsdTNUclBMUlE?oc=5"
     ],
     [
-     "space.com",
-     "https://www.space.com/astronomy/stars/astronomers-trace-mystery-radio-signals-back-to-cosmic-odd-couple-of-white-dwarf-and-sun-like-star"
+     "theverge.com",
+     "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed"
+    ],
+    [
+     "247wallst.com",
+     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa3Z3WlU3QlVDa2J3LUZhZ2x5SmNFRzdMa3VFLXVtcThBcWtxbzV6VW9xM3FmRnRjVHZ5aVoyNlVJdjd0UXNRMVcyWnVsTzVjckwzekxobFo1Wlg5ZU1yMnJEZXpPU1ZFNDRiSkpzaUhzdHprdE9CTkxsV1BOVXFyc1daMWtMaWtNSlRubWI0UmQyMnZsampsejJqbW51UENrcFc5SUxoczFKblJldldKM3VRaEItZDN0?oc=5"
     ]
    ]
   }
  ],
  "stories": [
+  {
+   "s": "Technology",
+   "h": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
+   "t": "United Launch Alliance (ULA) suffered what is reportedly its first mission failure in its 20-year history, failing to deliver 40 Amazon Leo satellites to orbit.",
+   "l": [
+    [
+     "theverge.com",
+     "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites"
+    ]
+   ]
+  },
+  {
+   "s": "Economics in Tech",
+   "h": "Go pushes bigger Philippine role across AI, chip race - Daily Tribune",
+   "t": "",
+   "l": [
+    [
+     "tribune.net.ph",
+     "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQkxmSWozSzhqb1RQeTRRXzdVa3FSeENVcmdJckxiSXlKWk5WOVoyNmlybTU5Qk5vVG5Zb1V4TGVWYTUwalZPXzBadlhCTU5hY2pBdW1mUXNERXVqN2lRSUZzaml3RE9NdUdKMzdpa2dSdndURTU2bUlrYUpuNVdCS2dybk91U3ZxX1JSWXVKTQ?oc=5"
+    ]
+   ]
+  },
+  {
+   "s": "Space",
+   "h": "30 years ago, 'Space Jam' proposed the best way to resolve interplanetary disputes",
+   "t": "Sufferin' succotash! The Monstars and Tune Squad interplanetary slam arrived 30 years ago, and it's still a clinic in interplanetary conflict resolution.",
+   "l": [
+    [
+     "space.com",
+     "https://www.space.com/entertainment/space-movies-shows/30-years-ago-space-jam-proposed-the-best-way-to-resolve-interplanetary-disputes"
+    ]
+   ]
+  },
   {
    "s": "Physics",
    "h": "Tangled quantum whirlpools caught unraveling in an ultracold gas",
@@ -30,28 +67,6 @@
     [
      "phys.org",
      "https://phys.org/news/2026-11-tangled-quantum-whirlpools-caught-unraveling.html"
-    ]
-   ]
-  },
-  {
-   "s": "Technology",
-   "h": "Rachelle Hampton won’t admit how long she spent charting the use of ‘murmur’ in Twilight",
-   "t": "Rachelle Hampton is a writer and co-owner at Defector Media, and the host of Normal Gossip, a podcast of anonymous listener-submitted stories about everyday drama.",
-   "l": [
-    [
-     "theverge.com",
-     "https://www.theverge.com/entertainment/1033895/rachelle-hampton-normal-gossip-interview"
-    ]
-   ]
-  },
-  {
-   "s": "Space",
-   "h": "On this day in space! Nov. 15, 1988: The 300-foot Green Bank Telescope collapses suddenly, leaving a huge pile of wreckage in West Virginia",
-   "t": "On Nov. 15, 1988, a 300-foot radio telescope in Green Bank, West Virginia suddenly collapsed. Here's why it mattered.",
-   "l": [
-    [
-     "space.com",
-     "https://www.space.com/space-exploration/on-this-day-in-space-november-15-2026"
     ]
    ]
   },
