@@ -1,68 +1,94 @@
 {
- "date": "2026-11-16",
+ "date": "2026-11-17",
  "notify": [
   "Technology",
   "Physics",
   "Space"
  ],
- "breaking": [],
- "stories": [
+ "breaking": [
   {
-   "s": "Technology",
-   "h": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
-   "t": "This was the first total mission failure in United Launch Alliance's 20-year history.",
+   "h": "Jensen Huang Resigns From Nvidia: Policy Issues Central to the Alleged Spying Scandal - NBC News",
+   "t": "",
    "l": [
     [
-     "arstechnica.com",
-     "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/"
+     "nbcnews.com",
+     "https://news.google.com/rss/articles/CBMirwFBVV95cUxONkpzaW9jVmZkWUVobjRmc1BNUzNVNzhjeGU4azRUcUNwWko5S091eV9MUTE3dVZRM0huSmpIc2M0dWZ6SVpralM4UHhlRGowSTVEcHI3V1dITjJ1b0U1LWlXUlNXallsMEJNWmxuVlFvRVlGWTYwSURlcUNOXy00ZmdRdU1UdW9LcUVJRUdNZGY3alZtaC1MZVRVVi1EenptQ0RyMVA2Z2hXOU5NMWRj?oc=5"
     ],
     [
      "theverge.com",
-     "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites"
+     "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back"
+    ],
+    [
+     "theverge.com",
+     "https://www.theverge.com/tech/1034355/trump-jensen-huang-nvidia-return"
+    ]
+   ]
+  }
+ ],
+ "stories": [
+  {
+   "s": "Technology",
+   "h": "Apple is adding face unlock to the iPhone Duo — without new hardware",
+   "t": "3 beta released today, as reported by MacRumors.",
+   "l": [
+    [
+     "theverge.com",
+     "https://www.theverge.com/tech/1034590/apple-iphone-duo-face-unlock-ios-27-3-beta"
+    ]
+   ]
+  },
+  {
+   "s": "Economics in Tech",
+   "h": "Nvidia’s stock extends declines following harsh words from the U.S. government - MarketWatch",
+   "t": "",
+   "l": [
+    [
+     "marketwatch.com",
+     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSkJsamppQU9MUGc1UDk1MG5XclJteGw5Z3hzSVdCbHg4cGNnOVRSVzNuY2N3ZW9zb0ZDUWMyQUF6Qmk5ck9CSE10RUdCSTdfMnhNbEJrVWxKaDZtVXBDRWRDTUlTekh1Y3pqdjZ5ZkVKSFI0QVBPQmdXVUU1Nl9GanlnSkoyaExNLUJzYVlIQVJiX3JZWE1HWkNMWmdsa2NwbXBpWjV4STJtNV9aQjhVeU5hRFVERDNYcmxZ?oc=5"
     ]
    ]
   },
   {
    "s": "Space",
-   "h": "APOD: 2026 November 16 – NGC 7129: Star Formation with Jets from Webb",
-   "t": "APOD Science APOD APOD: 2026 November 16 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
+   "h": "'Maybe the scariest thing I've heard in my life': Artemis II astronaut Victor Glover reveals his toughest challenge before flying to the moon",
+   "t": "For Artemis II astronaut Victor Glover, one of the hardest parts of traveling to the moon happened before he even left Earth.",
    "l": [
     [
-     "science.nasa.gov",
-     "https://science.nasa.gov/image-article/apod-2026-november-16-ngc-7129-star-formation-with-jets-from-webb/"
-    ]
-   ]
-  },
-  {
-   "s": "Research",
-   "h": "Eurovision Asia: a diverse and spectacular showcase of Asian pop",
-   "t": "Some major regional players were missing, but the inaugural Asian edition showed it has the potential to be a powerful global platform for Asian pop.",
-   "l": [
-    [
-     "theconversation.com",
-     "https://theconversation.com/eurovision-asia-a-diverse-and-spectacular-showcase-of-asian-pop-294346"
+     "space.com",
+     "https://www.space.com/space-exploration/artemis/maybe-the-scariest-thing-ive-heard-in-my-life-artemis-ii-astronaut-victor-glover-reveals-his-toughest-challenge-before-flying-to-the-moon"
     ]
    ]
   },
   {
    "s": "Physics",
-   "h": "Tangled quantum whirlpools caught unraveling in an ultracold gas",
-   "t": "When a cloud of atoms is cooled close to absolute zero, its atoms can merge into a Bose–Einstein condensate (BEC): an exotic fluid in which atoms across the whole cloud share a single quantum state.",
+   "h": "Model of 'alpha-beta decay' could solve a decades-old nuclear mystery",
+   "t": "A pair of researchers has created a new model for radioactive decay, which allows alpha and beta decay to happen simultaneously in a single transition.",
    "l": [
     [
      "phys.org",
-     "https://phys.org/news/2026-11-tangled-quantum-whirlpools-caught-unraveling.html"
+     "https://phys.org/news/2026-11-alpha-beta-decay-decades-nuclear.html"
+    ]
+   ]
+  },
+  {
+   "s": "Research",
+   "h": "What Makes Up the Cosmos? A 20-Year Survey Hints That Something Is Missing.",
+   "t": "An era-defining galaxy survey has released its final results. They don’t quite fit the leading theory of cosmology. The post What Makes Up the Cosmos? A 20-Year Survey Hints That Something Is Missing.",
+   "l": [
+    [
+     "quantamagazine.org",
+     "https://www.quantamagazine.org/what-makes-up-the-cosmos-a-20-year-survey-hints-that-something-is-missing-20261116/"
     ]
    ]
   },
   {
    "s": "Science",
-   "h": "Vitamin C could help block cancer-linked chemicals in your stomach, study finds",
-   "t": "Scientists have discovered that vitamin C may help prevent potentially cancer-causing chemicals from forming in the stomach after eating foods containing nitrates and nitrites.",
+   "h": "NASA is offering $1 million for bold ideas to help build a Moon base",
+   "t": "S. students to develop innovative solutions for building humanity’s first permanent lunar outpost. From power systems to astronaut safety, their ideas could help make long-term life on the Moon possible and pave the way to Mars.",
    "l": [
     [
      "sciencedaily.com",
-     "https://www.sciencedaily.com/releases/2026/11/261114202236.htm"
+     "https://www.sciencedaily.com/releases/2026/11/261115085542.htm"
     ]
    ]
   }
