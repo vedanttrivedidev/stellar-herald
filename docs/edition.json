@@ -5,68 +5,42 @@
   "Physics",
   "Space"
  ],
- "breaking": [
-  {
-   "h": "Jensen Huang Resigns From Nvidia: Policy Issues Central to the Alleged Spying Scandal - NBC News",
-   "t": "",
-   "l": [
-    [
-     "nbcnews.com",
-     "https://news.google.com/rss/articles/CBMirwFBVV95cUxONkpzaW9jVmZkWUVobjRmc1BNUzNVNzhjeGU4azRUcUNwWko5S091eV9MUTE3dVZRM0huSmpIc2M0dWZ6SVpralM4UHhlRGowSTVEcHI3V1dITjJ1b0U1LWlXUlNXallsMEJNWmxuVlFvRVlGWTYwSURlcUNOXy00ZmdRdU1UdW9LcUVJRUdNZGY3alZtaC1MZVRVVi1EenptQ0RyMVA2Z2hXOU5NMWRj?oc=5"
-    ],
-    [
-     "theverge.com",
-     "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back"
-    ],
-    [
-     "theverge.com",
-     "https://www.theverge.com/tech/1034355/trump-jensen-huang-nvidia-return"
-    ]
-   ]
-  }
- ],
+ "breaking": [],
  "stories": [
   {
    "s": "Technology",
-   "h": "Apple is adding face unlock to the iPhone Duo — without new hardware",
-   "t": "3 beta released today, as reported by MacRumors.",
+   "h": "Hyperscale data centers use 2% of US electricity",
+   "t": "Study attempts to tally hyperscalers’ energy use and emissions.",
    "l": [
+    [
+     "arstechnica.com",
+     "https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/"
+    ],
     [
      "theverge.com",
-     "https://www.theverge.com/tech/1034590/apple-iphone-duo-face-unlock-ios-27-3-beta"
-    ]
-   ]
-  },
-  {
-   "s": "Economics in Tech",
-   "h": "Nvidia’s stock extends declines following harsh words from the U.S. government - MarketWatch",
-   "t": "",
-   "l": [
-    [
-     "marketwatch.com",
-     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSkJsamppQU9MUGc1UDk1MG5XclJteGw5Z3hzSVdCbHg4cGNnOVRSVzNuY2N3ZW9zb0ZDUWMyQUF6Qmk5ck9CSE10RUdCSTdfMnhNbEJrVWxKaDZtVXBDRWRDTUlTekh1Y3pqdjZ5ZkVKSFI0QVBPQmdXVUU1Nl9GanlnSkoyaExNLUJzYVlIQVJiX3JZWE1HWkNMWmdsa2NwbXBpWjV4STJtNV9aQjhVeU5hRFVERDNYcmxZ?oc=5"
-    ]
-   ]
-  },
-  {
-   "s": "Space",
-   "h": "'Maybe the scariest thing I've heard in my life': Artemis II astronaut Victor Glover reveals his toughest challenge before flying to the moon",
-   "t": "For Artemis II astronaut Victor Glover, one of the hardest parts of traveling to the moon happened before he even left Earth.",
-   "l": [
-    [
-     "space.com",
-     "https://www.space.com/space-exploration/artemis/maybe-the-scariest-thing-ive-heard-in-my-life-artemis-ii-astronaut-victor-glover-reveals-his-toughest-challenge-before-flying-to-the-moon"
+     "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard"
     ]
    ]
   },
   {
    "s": "Physics",
-   "h": "Model of 'alpha-beta decay' could solve a decades-old nuclear mystery",
-   "t": "A pair of researchers has created a new model for radioactive decay, which allows alpha and beta decay to happen simultaneously in a single transition.",
+   "h": "Ultracold diamond microwave laser amplifies quantum signals 1,000-fold",
+   "t": "Researchers from the Okinawa Institute of Science and Technology (OIST) have created a spin-based microwave amplifier that operates near absolute zero, boosting signals by more than 1,000-fold while adding noise close to the bare minimum required by the laws of physics.",
    "l": [
     [
      "phys.org",
-     "https://phys.org/news/2026-11-alpha-beta-decay-decades-nuclear.html"
+     "https://phys.org/news/2026-11-ultracold-diamond-microwave-laser-amplifies.html"
+    ]
+   ]
+  },
+  {
+   "s": "Space",
+   "h": "A Collage Showing 49 Drill Holes Made by NASA’s Curiosity Mars Rover",
+   "t": "Description This collage shows 49 drill holes captured by NASA’s Curiosity Mars rover as of November 2026.",
+   "l": [
+    [
+     "science.nasa.gov",
+     "https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover/"
     ]
    ]
   },
