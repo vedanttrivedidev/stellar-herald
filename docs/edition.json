@@ -1,5 +1,5 @@
 {
- "date": "2026-11-17",
+ "date": "2026-11-18",
  "notify": [
   "Technology",
   "Physics",
@@ -7,62 +7,69 @@
  ],
  "breaking": [
   {
-   "h": "Jensen Huang was building Anthropic's worst nightmare. Then he was ousted. - Business Insider",
+   "h": "Jensen Huang Scandal: Timeline That Led To His Resignation—And Potential Comeback - Forbes",
    "t": "",
    "l": [
     [
-     "businessinsider.com",
-     "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMzdFMkZkaThiNHcwUFFhM0pwdmh6Um5WY2hjbThOTW9xLXQtZWpxWFg1b0pkY3pVR2VEWll2TWg4dDN3VzRkajFSUk0yR2x3TDJkVTNFdHJyMHdGdlFZQTBJV3Fkdm01SVdHZXdHbmVES0R1am45UzNaVXpwVjBHc3pMY3RDQTFRSk8za2NUZVdrUlduR2Z0WkE3bEQtQVVfSFYxSXRTbw?oc=5"
+     "forbes.com",
+     "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTGI5aEp1Q2tCeGVvSlZkb2swNnNyRzVHekhQLXp2eGRDU3ZqUDYySHVnQjF2UEdhWEc5b1B3ZE1OaW05c2FNZzhzUGVfa1hPLTlhZjVuQWhqRFN1c0cyY1pBdThHal9BRmd4V0hucW41UnNjWWhEc2dpMjhmSUpGM0dYNWhwazNlWWdCTWVrWEptY3E2SzVlbnRzVW1fQTkwMTUtVGc2Zms5QnNKcEI4RjY3ZXo1V0g1SkZSeEk1dEtlVTQyb05KRDVQZ1k3U0hlQTU0Y2dB?oc=5"
     ]
    ]
   }
  ],
  "stories": [
   {
-   "s": "Economics in Tech",
-   "h": "Head of China's Baidu warns of AI 'bubble' ahead of APEC talks - Tech Xplore",
-   "t": "",
-   "l": [
-    [
-     "techxplore.com",
-     "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YVnpkQ0Fya1ppWGlTd2RBOEpCTnpmeGRhZmkzSjFZOUJBOWNpREJGYVJpbFh5YzBMMkFObkNtOUhNZnhtcTZBSHljV014NHVLRHVpX3NhTGl3blhacE56bFJsdnZZM1JmVXdmRA?oc=5"
-    ]
-   ]
-  },
-  {
-   "s": "Space",
-   "h": "APOD: 2026 November 17 – Milky Way versus Aurora",
-   "t": "APOD Science APOD APOD: 2026 November 17 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
-   "l": [
-    [
-     "science.nasa.gov",
-     "https://science.nasa.gov/image-article/apod-2026-november-17-milky-way-versus-aurora/"
-    ]
-   ]
-  },
-  {
    "s": "Technology",
-   "h": "Hyperscale data centers use 2% of US electricity",
-   "t": "Study attempts to tally hyperscalers’ energy use and emissions.",
+   "h": "Framework’s better couch keyboard is now available for preorder",
+   "t": "Framework announced its Wireless Touchpad Keyboard earlier this year with the goal of delivering a better couch keyboarding experience than the Logitech K400.",
    "l": [
-    [
-     "arstechnica.com",
-     "https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/"
-    ],
     [
      "theverge.com",
-     "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard"
+     "https://www.theverge.com/tech/1035805/framework-wireless-touchpad-keyboard-preorder-open"
     ]
    ]
   },
   {
    "s": "Physics",
-   "h": "Flat optics roadmap charts path toward smaller imaging and sensing systems",
-   "t": "For centuries, optical systems have relied on lenses, mirrors and other components that manipulate light through their shape and size. Today, advances in nanotechnology are enabling a different approach.",
+   "h": "Quantum observers can 'agree to disagree,' but within limits, new theorem shows",
+   "t": "Two observers can start with the same description of a quantum system, follow the same probability rules and still disagree about the chance of the same outcome—even while being certain of each other's assessments.",
    "l": [
     [
      "phys.org",
-     "https://phys.org/news/2026-11-flat-optics-roadmap-path-smaller.html"
+     "https://phys.org/news/2026-11-quantum-limits-theorem.html"
+    ]
+   ]
+  },
+  {
+   "s": "Space",
+   "h": "Astronomers discover rare black holes that formed when stars failed to go supernova",
+   "t": "Gravitational waves have revealed a population of black holes that may have been born when masssive stars failed to go supernova.",
+   "l": [
+    [
+     "space.com",
+     "https://www.space.com/astronomy/black-holes/astronomers-discover-rare-black-holes-that-formed-when-stars-failed-to-go-supernova"
+    ]
+   ]
+  },
+  {
+   "s": "Economics in Tech",
+   "h": "Head of China’s Baidu warns of AI ‘bubble’ ahead of APEC talks - Kuwait Times",
+   "t": "",
+   "l": [
+    [
+     "kuwaittimes.com",
+     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd2RXMzdQeDBKTk03Y1dHRDdDN0RjWXVMcnBfM1B5WWxTbjFuSU15VmtYcHhlM2JzWDZkSV9OMFE1VHp4ZGNsY3B2M1lYNnZkLWVlSXQ1ZVZEWWEzS1BWTVhxVzVaZm9GeEhWVlN4bXNtMjNTOUFIcjBGVzZXUDg1Q1RYSXpTbmVGOVBfeTFlSHRDaGgwb2pBdHVwRGV6bFEzaENXMGJ3RWhmajjSAa8BQVVfeXFMT0xwcW12MUtFTXd5SVpuUXFHVXRsOXhOVUxjRnhPRGhWeVNMSThMZDZKOFl3LTY3aV9scW9FNGNzWEsyV0Rld3RnUjYxaW4tbV9pVThHVVI0RTJ6aGZoZTN3ejkwRTYxeV9MMWJXbzZ2UXpqczRkZFZYbWRMYmt1MEJ1OUFYYktZa2h4THo3U0RBS2c4Mi1iRFNlbXVaSEVPUk1lYWRpdEFGa0xESGpkTQ?oc=5"
+    ]
+   ]
+  },
+  {
+   "s": "Science",
+   "h": "A mysterious twist in the universe’s oldest light could reveal new physics",
+   "t": "Scientists have spotted hints of a mysterious rotation in the universe’s oldest light that could reveal new physics and shed light on dark matter and dark energy.",
+   "l": [
+    [
+     "sciencedaily.com",
+     "https://www.sciencedaily.com/releases/2026/11/261116023348.htm"
     ]
    ]
   },
@@ -74,17 +81,6 @@
     [
      "quantamagazine.org",
      "https://www.quantamagazine.org/what-makes-up-the-cosmos-a-20-year-survey-hints-that-something-is-missing-20261116/"
-    ]
-   ]
-  },
-  {
-   "s": "Science",
-   "h": "NASA is offering $1 million for bold ideas to help build a Moon base",
-   "t": "S. students to develop innovative solutions for building humanity’s first permanent lunar outpost. From power systems to astronaut safety, their ideas could help make long-term life on the Moon possible and pave the way to Mars.",
-   "l": [
-    [
-     "sciencedaily.com",
-     "https://www.sciencedaily.com/releases/2026/11/261115085542.htm"
     ]
    ]
   }
