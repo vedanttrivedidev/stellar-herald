@@ -5,16 +5,27 @@
   "Physics",
   "Space"
  ],
- "breaking": [],
- "stories": [
+ "breaking": [
   {
-   "s": "Economics in Tech",
-   "h": "IMF lifts Korea’s growth outlook to 3.9% but urges fiscal restraint - Korea JoongAng Daily",
+   "h": "Jensen Huang was building Anthropic's worst nightmare. Then he was ousted. - Business Insider",
    "t": "",
    "l": [
     [
-     "koreajoongangdaily.com",
-     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN0hfLW9YS2RsQU1seUFRdkdWYnFETEJQQll5bk12eGkyZ0k4emZoNEpzMXFPelNhNnFzNjg1Tkt3UDRKY0hHWFBNdkdXYkZOY3A5UHNlMjE3V2JuVnE1SG84YlZYNDhpSU54T3gtSnVZcHlzazBublE1Ykg5aXNQR3A4TGloX2U5TWxPWWh2SUhPX3BfREstYVBxZExCY1h6LUwyb2VTNDBQVEZLNXdXeU1nZU5mZkVW?oc=5"
+     "businessinsider.com",
+     "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMzdFMkZkaThiNHcwUFFhM0pwdmh6Um5WY2hjbThOTW9xLXQtZWpxWFg1b0pkY3pVR2VEWll2TWg4dDN3VzRkajFSUk0yR2x3TDJkVTNFdHJyMHdGdlFZQTBJV3Fkdm01SVdHZXdHbmVES0R1am45UzNaVXpwVjBHc3pMY3RDQTFRSk8za2NUZVdrUlduR2Z0WkE3bEQtQVVfSFYxSXRTbw?oc=5"
+    ]
+   ]
+  }
+ ],
+ "stories": [
+  {
+   "s": "Economics in Tech",
+   "h": "Head of China's Baidu warns of AI 'bubble' ahead of APEC talks - Tech Xplore",
+   "t": "",
+   "l": [
+    [
+     "techxplore.com",
+     "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YVnpkQ0Fya1ppWGlTd2RBOEpCTnpmeGRhZmkzSjFZOUJBOWNpREJGYVJpbFh5YzBMMkFObkNtOUhNZnhtcTZBSHljV014NHVLRHVpX3NhTGl3blhacE56bFJsdnZZM1JmVXdmRA?oc=5"
     ]
    ]
   },
