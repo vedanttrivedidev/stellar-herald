@@ -1,0 +1,38 @@
+name: Live check
+
+# A manual button: Actions tab > "Live check" > Run workflow.
+# It tests your REAL Supabase database (and, if you choose, Brevo email).
+on:
+  workflow_dispatch:
+    inputs:
+      which:
+        description: "What to check"
+        type: choice
+        options:
+          - db
+          - mail
+          - all
+        default: db
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Run the live check
+        env:
+          CHECK: ${{ inputs.which }}
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_PUBLISHABLE_KEY: ${{ secrets.SUPABASE_PUBLISHABLE_KEY }}
+          SUPABASE_SECRET_KEY: ${{ secrets.SUPABASE_SECRET_KEY }}
+          BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
+          BREVO_SENDER_EMAIL: ${{ secrets.BREVO_SENDER_EMAIL }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+        run: node scripts/live-check.mjs
