@@ -5,16 +5,31 @@
   "Physics",
   "Space"
  ],
- "breaking": [],
- "stories": [
+ "breaking": [
   {
-   "s": "Economics in Tech",
-   "h": "Can Malaysia build its own AI industry beyond data centres? - The Edge Malaysia",
+   "h": "Why CoreWeave May Be the Biggest Loser From Jensen Huang's Resignation - Yahoo Finance",
    "t": "",
    "l": [
     [
-     "theedgemalaysia.com",
-     "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5HXzNwV0VzUHQ1a3Z3VVlMSC1OTERqaW5GV0s4QzlFTGZvNC1UTmhKWWdtTE1xdjIycG8xcS1VY2dFTE84dWVJdHlnWlhLMG84?oc=5"
+     "finance.yahoo.com",
+     "https://news.google.com/rss/articles/CBMinAFBVV95cUxPd19RVU9kTHN6d0NWU3hmTkxlMzltOV92MEJmMGxKd0E1R3lOcTU5allTYkg1OW54dWVHOGFIM2FhR3A2aUhCQlB5R0E4SFBEV1ZKMWVlR1h5cUlEeURSQUM3dzlPdUc1VHIzSTRpT0RpNWkwME5RdVNQcFpVNGZnTTVlcXd1VmRrNGtYajMxTnBOcmdCZVRDbEViQmg?oc=5"
+    ],
+    [
+     "theconversation.com",
+     "https://theconversation.com/from-ancient-asia-to-the-ai-age-has-chinas-beauty-stratagem-found-a-new-victim-in-nvidias-jensen-huang-296393"
+    ]
+   ]
+  }
+ ],
+ "stories": [
+  {
+   "s": "Economics in Tech",
+   "h": "U.S. Tightens AI Chip Exports to Southeast Asia Data Centers - The Tech Buzz",
+   "t": "",
+   "l": [
+    [
+     "techbuzz.ai",
+     "https://news.google.com/rss/articles/CBMilwFBVV95cUxNemdqVnhncWdEcktNZzJ6bTRPcnJTREg2eWtPOFM3ZmRqckNDWDNRMjl0VVdiaWlkRkhLbUZJQngzTjd6V2F1ZXRBbGFCSmRJMHdXQWNzcjJuUGs0Z09DSzNaaE1ZRXdLUnNxOUZQcG5pR243RXBxMDNuYjZ1SnN0YzduaFNQMTBsMFU0cTUyOUlDVm1COVY4?oc=5"
     ]
    ]
   },
