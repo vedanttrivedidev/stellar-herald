@@ -5,19 +5,30 @@
   "Physics",
   "Space"
  ],
- "breaking": [
+ "breaking": [],
+ "stories": [
   {
-   "h": "Nvidia says no return for ousted CEO, reports revenue boom - AFP.com",
+   "s": "Economics in Tech",
+   "h": "Can Malaysia build its own AI industry beyond data centres? - The Edge Malaysia",
    "t": "",
    "l": [
     [
-     "afp.com",
-     "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSEFMUmJWSXExcUs3cTFWSVZsNFp1cTdqSkJoa21JV002d0NIVzAxZWZDUW0zRzc0MHhTUmJqY083ZWdYd3E2c3Q4SXJmaElna1ZacG9jeDRrVV9ka01mb2RFdzBxbW5FakEzeTVjS2xTQTM1SE5ZSmhVSjZNZGFBSktn?oc=5"
+     "theedgemalaysia.com",
+     "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5HXzNwV0VzUHQ1a3Z3VVlMSC1OTERqaW5GV0s4QzlFTGZvNC1UTmhKWWdtTE1xdjIycG8xcS1VY2dFTE84dWVJdHlnWlhLMG84?oc=5"
     ]
    ]
-  }
- ],
- "stories": [
+  },
+  {
+   "s": "Space",
+   "h": "APOD: 2026 November 18 – An M-class Solar Flare",
+   "t": "APOD Science APOD APOD: 2026 November 18 – An… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
+   "l": [
+    [
+     "science.nasa.gov",
+     "https://science.nasa.gov/image-article/apod-2026-november-18-an-m-class-solar-flare/"
+    ]
+   ]
+  },
   {
    "s": "Technology",
    "h": "Read everything that Nvidia’s board chair had to say about Jensen Huang",
@@ -32,60 +43,30 @@
      "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/"
     ],
     [
-     "apnews.com",
-     "https://news.google.com/rss/articles/CBMirgFBVV95cUxObnhLd21OYlROQnV3Z2ZRc29BZlRubWM4T2tVN3d3ektLVUdiMXNSS1dhclFQNVZrUEVrdG5rUHFUY0ozQWJJRjFFVlFvVjJ0SC15eEdoUm1JUEdwY2FZdTgyNmNDQnozOWRXSGJBRlVHaC13M09mZ0U3em9hYkp2V1BFWHJvR2ViRFZGcEk5RE8yTWNwUmM5dlhBMC1oMGYzYzE3TXl5akNYTGlOb2c?oc=5"
-    ]
-   ]
-  },
-  {
-   "s": "Economics in Tech",
-   "h": "Malaysia's semiconductor sector to weather US-China tech tensions, says PublicInvest - NST Online",
-   "t": "",
-   "l": [
-    [
-     "nst.com.my",
-     "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSlAwZ016MmNQSEU4VVRwM3JjZEh2Y3RYYTRiT05CLW94bXpsbWZLVDN5M21vcjZJaTI1MWs2bmlRU3gzX3JnX1ktWU9VVWdvYTdnblFnRm5RVmxBN0Z4c01oQklzZlo4UFExU21QdnFUQTJfVGM4VnZSX1prdWtfSGpob0lLSU9OcjRsNHBFV1dKNWVud2Y5dGlUZnppNWZXS2R6eXVES1MyVmVCYlpqQkZNaVFKVDJ1dWE0S2x4RdIBxAFBVV95cUxPaDVDZVZxRVkxbGprbmlfRTdNdElyRzlmT2xiXzA0RzB5eXJ3bFdNdi11RkwtNVNib25QUDZwN0JRT28ySzl5cTc5ZWd3QTNsdjNyM0J2SEhBMVVPSkZpZm9yYXZvazRZelhuUDFVOW03OEdseHRwNHlDc0RGbFlWODdsQ3BKMTl3SXRnZk5GTmhVM2JlVFVQMVBXYjFyanl2TU5IYW0ycHFXT1lhdFFDaU9qYmVHYUF3aGNyZ0FtSnZ6dE4t?oc=5"
+     "bbc.co.uk",
+     "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ud1NuMWJJdUtrUE42OGJBXzRnbDc5V0pRUUxPcFl3QkEzX1NlOHMtSmVEVlljVHdjYUU0UC0tX0RKMEkzajVjM1JPZTVQelhLbXJoRVlOOWluR0N6VkE?oc=5"
     ]
    ]
   },
   {
    "s": "Physics",
-   "h": "Quantum-gas microscope resolves the 'color' of individual atoms in a single shot",
-   "t": "In 2024, researchers at the Ultracold Quantum Gases group at ICFO built a quantum-gas microscope capable of imaging individual atoms in strontium quantum gases for the first time, marking a key enabling step for quantum simulation.",
+   "h": "Photon fluctuations offer new way to probe electron dynamics in crystals",
+   "t": "Intense laser light can make a crystal emit new colors at frequencies many times higher than that of the original beam. This process, known as high-harmonic generation, provides a powerful way to investigate the rapid motion of electrons in solids.",
    "l": [
     [
      "phys.org",
-     "https://phys.org/news/2026-11-quantum-gas-microscope-individual-atoms.html"
-    ]
-   ]
-  },
-  {
-   "s": "Space",
-   "h": "NASA Launches Nuclear Power Systems Student Contest",
-   "t": "NASA’s Power to Explore Student Challenge kicked off Tuesday, Nov. 17.",
-   "l": [
-    [
-     "science.nasa.gov",
-     "https://science.nasa.gov/centers-and-facilities/glenn/nasa-launches-nuclear-power-systems-student-contest/"
+     "https://phys.org/news/2026-11-photon-fluctuations-probe-electron-dynamics.html"
     ]
    ]
   },
   {
    "s": "Research",
-   "h": "Jensen Huang scandal illustrates why human nature is cybersecurity’s weakest link",
-   "t": "Voice, physical touch and face-to-face interactions make people more trusting, compliant and willing to share sensitive information.",
+   "h": "Xi-Trump-Putin summit: when great powers want to call all the shots, what does it mean for everyone else?",
+   "t": "In such a world, power determines not only outcomes, but who gets invited into the room when outcomes are being discussed.",
    "l": [
     [
      "theconversation.com",
-     "https://theconversation.com/jensen-huang-scandal-illustrates-why-human-nature-is-cybersecuritys-weakest-link-296763"
-    ],
-    [
-     "pbs.org",
-     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNY0IwMTh0cnVtSFEtamprcXFCbWJISEc3ZE5EcHBWODdYa1NMOXRCb05za2NDVUVGTHNiR3g4cnBnbE02VkZKMU81dnFMa3pTRmgyWWhXQklJRGh2Um9PZzJRUzFJWjB1RFNzMkx1dEtTVGY2RnRGMkdoU3FqdkFwbkJmcGRLaDZvUnIxeVhTamtNMTh1amZHbFhMMjE4c3J3akNld2lld0ROZ2F0am50WnhwSXhURkpuNTdwdDFFa3FDelU?oc=5"
-    ],
-    [
-     "forbes.com",
-     "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTGI5aEp1Q2tCeGVvSlZkb2swNnNyRzVHekhQLXp2eGRDU3ZqUDYySHVnQjF2UEdhWEc5b1B3ZE1OaW05c2FNZzhzUGVfa1hPLTlhZjVuQWhqRFN1c0cyY1pBdThHal9BRmd4V0hucW41UnNjWWhEc2dpMjhmSUpGM0dYNWhwazNlWWdCTWVrWEptY3E2SzVlbnRzVW1fQTkwMTUtVGc2Zms5QnNKcEI4RjY3ZXo1V0g1SkZSeEk1dEtlVTQyb05KRDVQZ1k3U0hlQTU0Y2dB?oc=5"
+     "https://theconversation.com/xi-trump-putin-summit-when-great-powers-want-to-call-all-the-shots-what-does-it-mean-for-everyone-else-296811"
     ]
    ]
   },
