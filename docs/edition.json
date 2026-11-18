@@ -1,5 +1,5 @@
 {
- "date": "2026-11-18",
+ "date": "2026-11-19",
  "notify": [
   "Technology",
   "Physics",
@@ -7,51 +7,12 @@
  ],
  "breaking": [
   {
-   "h": "Why CoreWeave May Be the Biggest Loser From Jensen Huang's Resignation - Yahoo Finance",
+   "h": "Mellanox founder confirms speaking with Jensen Huang since resignation, says 'definitely possible to consider' his return as Nvidia CEO - The Times of Israel",
    "t": "",
    "l": [
     [
-     "finance.yahoo.com",
-     "https://news.google.com/rss/articles/CBMinAFBVV95cUxPd19RVU9kTHN6d0NWU3hmTkxlMzltOV92MEJmMGxKd0E1R3lOcTU5allTYkg1OW54dWVHOGFIM2FhR3A2aUhCQlB5R0E4SFBEV1ZKMWVlR1h5cUlEeURSQUM3dzlPdUc1VHIzSTRpT0RpNWkwME5RdVNQcFpVNGZnTTVlcXd1VmRrNGtYajMxTnBOcmdCZVRDbEViQmg?oc=5"
-    ],
-    [
-     "theconversation.com",
-     "https://theconversation.com/from-ancient-asia-to-the-ai-age-has-chinas-beauty-stratagem-found-a-new-victim-in-nvidias-jensen-huang-296393"
-    ]
-   ]
-  }
- ],
- "stories": [
-  {
-   "s": "Economics in Tech",
-   "h": "U.S. Tightens AI Chip Exports to Southeast Asia Data Centers - The Tech Buzz",
-   "t": "",
-   "l": [
-    [
-     "techbuzz.ai",
-     "https://news.google.com/rss/articles/CBMilwFBVV95cUxNemdqVnhncWdEcktNZzJ6bTRPcnJTREg2eWtPOFM3ZmRqckNDWDNRMjl0VVdiaWlkRkhLbUZJQngzTjd6V2F1ZXRBbGFCSmRJMHdXQWNzcjJuUGs0Z09DSzNaaE1ZRXdLUnNxOUZQcG5pR243RXBxMDNuYjZ1SnN0YzduaFNQMTBsMFU0cTUyOUlDVm1COVY4?oc=5"
-    ]
-   ]
-  },
-  {
-   "s": "Space",
-   "h": "APOD: 2026 November 18 – An M-class Solar Flare",
-   "t": "APOD Science APOD APOD: 2026 November 18 – An… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
-   "l": [
-    [
-     "science.nasa.gov",
-     "https://science.nasa.gov/image-article/apod-2026-november-18-an-m-class-solar-flare/"
-    ]
-   ]
-  },
-  {
-   "s": "Technology",
-   "h": "Read everything that Nvidia’s board chair had to say about Jensen Huang",
-   "t": "Nvidia's quarterly earnings call on Tuesday was its first with CFO and interim CEO Colette Kress at the helm alongside the company's first board chair, Harvey C. Jones.",
-   "l": [
-    [
-     "theverge.com",
-     "https://www.theverge.com/tech/1036160/nvidia-earnings-harvey-c-jones-jensen-huang"
+     "timesofisrael.com",
+     "https://news.google.com/rss/articles/CBMiigJBVV95cUxQUFBuWWZjZG1hSVdKcUt1RHhjX1MwcVA4Z1BjRWluYTlta00yNTZiWWc3cWFhVUU1ZDJxREw1a1lYek9OVFBCcm0yQXlsSEw3dHo5WnJhd3NzNm9IRDNyRy05anNnaFdOUnE5c0prRkpmVVBvd2xIaGdRd25ZdURPUTA3T3FfOTdMRGlueGdKc3JWNXN2My1SM0JCeTluUHNxTTNlWmloOFdwOWYyczc5NzhDckFtTkQ1RlJBQ1NIZkpUc01YbHRoaWRrckpLdHFBdlE3NThza2I5YkJrcHRxbHJFUEcwSUZUMFBBVjNjN3lMTDZHUjZFSTdXWHdyWUl6bUpQTU1BSXlldw?oc=5"
     ],
     [
      "arstechnica.com",
@@ -62,37 +23,72 @@
      "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ud1NuMWJJdUtrUE42OGJBXzRnbDc5V0pRUUxPcFl3QkEzX1NlOHMtSmVEVlljVHdjYUU0UC0tX0RKMEkzajVjM1JPZTVQelhLbXJoRVlOOWluR0N6VkE?oc=5"
     ]
    ]
-  },
+  }
+ ],
+ "stories": [
   {
    "s": "Physics",
-   "h": "Photon fluctuations offer new way to probe electron dynamics in crystals",
-   "t": "Intense laser light can make a crystal emit new colors at frequencies many times higher than that of the original beam. This process, known as high-harmonic generation, provides a powerful way to investigate the rapid motion of electrons in solids.",
+   "h": "Physicists send an unblockable message using gravity",
+   "t": "University of Queensland researchers have used gravity to transmit a message through a brick wall using an elevator and a sensitive gravimeter. 8 metric ton (4,000 pound) counterweight between positions representing binary 0 and 1.",
    "l": [
     [
      "phys.org",
-     "https://phys.org/news/2026-11-photon-fluctuations-probe-electron-dynamics.html"
+     "https://phys.org/news/2026-11-physicists-unblockable-message-gravity.html"
+    ]
+   ]
+  },
+  {
+   "s": "Technology",
+   "h": "Trump admin orders Kalshi to halt wagers on what words Trump will say",
+   "t": "CFTC: Kalshi bets may violate US ban on contracts that can be easily manipulated.",
+   "l": [
+    [
+     "arstechnica.com",
+     "https://arstechnica.com/tech-policy/2026/11/trump-admin-orders-kalshi-to-halt-wagers-on-what-words-trump-will-say/"
+    ]
+   ]
+  },
+  {
+   "s": "Space",
+   "h": "NASA Announces Mid-Power Electric Rocket Challenge for US Companies",
+   "t": "S. companies to produce prototypes of mid-power Hall effect thrusters – a type of electric propulsion system considered crucial for future space operations and exploration.",
+   "l": [
+    [
+     "nasa.gov",
+     "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-announces-mid-power-electric-rocket-challenge-for-us-companies/"
+    ]
+   ]
+  },
+  {
+   "s": "Economics in Tech",
+   "h": "European group seeks easing of regulatory hoops - Taipei Times",
+   "t": "",
+   "l": [
+    [
+     "taipeitimes.com",
+     "https://news.google.com/rss/articles/CBMidkFVX3lxTFBtUkNXWFo5UFdJLTAxM2R1Q18tM3BueFVfTVlOdkc5NzBTSENTMGwxb1hDT1VJQk9BcEtEQjNBWjEzdW14VEJ1WERQSjF1N2NxTkNuZ3lUZlh6Z1oxVXJFLVZKY2s1U0dqSWpoSXlqdEpWLTlZbnc?oc=5"
     ]
    ]
   },
   {
    "s": "Research",
-   "h": "Xi-Trump-Putin summit: when great powers want to call all the shots, what does it mean for everyone else?",
-   "t": "In such a world, power determines not only outcomes, but who gets invited into the room when outcomes are being discussed.",
+   "h": "How M.C. Escher’s Art Creates Bizarre Mathematical Worlds",
+   "t": "The artist had no formal math education, yet as a new exhibition shows, the insights revealed in his artwork became an enduring inspiration to mathematicians. C.",
    "l": [
     [
-     "theconversation.com",
-     "https://theconversation.com/xi-trump-putin-summit-when-great-powers-want-to-call-all-the-shots-what-does-it-mean-for-everyone-else-296811"
+     "quantamagazine.org",
+     "https://www.quantamagazine.org/how-m-c-eschers-art-creates-bizarre-mathematical-worlds-20261118/"
     ]
    ]
   },
   {
    "s": "Science",
-   "h": "A mysterious twist in the universe’s oldest light could reveal new physics",
-   "t": "Scientists have spotted hints of a mysterious rotation in the universe’s oldest light that could reveal new physics and shed light on dark matter and dark energy.",
+   "h": "New discovery reveals what may be holding back room-temperature superconductors",
+   "t": "A major breakthrough in superconductivity research has revealed that one of the essential ingredients for electricity to flow without resistance can exist at room temperature.",
    "l": [
     [
      "sciencedaily.com",
-     "https://www.sciencedaily.com/releases/2026/11/261116023348.htm"
+     "https://www.sciencedaily.com/releases/2026/11/261116023358.htm"
     ]
    ]
   }
