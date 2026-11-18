@@ -7,12 +7,12 @@
  ],
  "breaking": [
   {
-   "h": "Jensen Huang Scandal: Timeline That Led To His Resignation—And Potential Comeback - Forbes",
+   "h": "Nvidia says no return for ousted CEO, reports revenue boom - AFP.com",
    "t": "",
    "l": [
     [
-     "forbes.com",
-     "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTGI5aEp1Q2tCeGVvSlZkb2swNnNyRzVHekhQLXp2eGRDU3ZqUDYySHVnQjF2UEdhWEc5b1B3ZE1OaW05c2FNZzhzUGVfa1hPLTlhZjVuQWhqRFN1c0cyY1pBdThHal9BRmd4V0hucW41UnNjWWhEc2dpMjhmSUpGM0dYNWhwazNlWWdCTWVrWEptY3E2SzVlbnRzVW1fQTkwMTUtVGc2Zms5QnNKcEI4RjY3ZXo1V0g1SkZSeEk1dEtlVTQyb05KRDVQZ1k3U0hlQTU0Y2dB?oc=5"
+     "afp.com",
+     "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSEFMUmJWSXExcUs3cTFWSVZsNFp1cTdqSkJoa21JV002d0NIVzAxZWZDUW0zRzc0MHhTUmJqY083ZWdYd3E2c3Q4SXJmaElna1ZacG9jeDRrVV9ka01mb2RFdzBxbW5FakEzeTVjS2xTQTM1SE5ZSmhVSjZNZGFBSktn?oc=5"
     ]
    ]
   }
@@ -20,45 +20,72 @@
  "stories": [
   {
    "s": "Technology",
-   "h": "Framework’s better couch keyboard is now available for preorder",
-   "t": "Framework announced its Wireless Touchpad Keyboard earlier this year with the goal of delivering a better couch keyboarding experience than the Logitech K400.",
+   "h": "Read everything that Nvidia’s board chair had to say about Jensen Huang",
+   "t": "Nvidia's quarterly earnings call on Tuesday was its first with CFO and interim CEO Colette Kress at the helm alongside the company's first board chair, Harvey C. Jones.",
    "l": [
     [
      "theverge.com",
-     "https://www.theverge.com/tech/1035805/framework-wireless-touchpad-keyboard-preorder-open"
-    ]
-   ]
-  },
-  {
-   "s": "Physics",
-   "h": "Quantum observers can 'agree to disagree,' but within limits, new theorem shows",
-   "t": "Two observers can start with the same description of a quantum system, follow the same probability rules and still disagree about the chance of the same outcome—even while being certain of each other's assessments.",
-   "l": [
+     "https://www.theverge.com/tech/1036160/nvidia-earnings-harvey-c-jones-jensen-huang"
+    ],
     [
-     "phys.org",
-     "https://phys.org/news/2026-11-quantum-limits-theorem.html"
-    ]
-   ]
-  },
-  {
-   "s": "Space",
-   "h": "Astronomers discover rare black holes that formed when stars failed to go supernova",
-   "t": "Gravitational waves have revealed a population of black holes that may have been born when masssive stars failed to go supernova.",
-   "l": [
+     "arstechnica.com",
+     "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/"
+    ],
     [
-     "space.com",
-     "https://www.space.com/astronomy/black-holes/astronomers-discover-rare-black-holes-that-formed-when-stars-failed-to-go-supernova"
+     "apnews.com",
+     "https://news.google.com/rss/articles/CBMirgFBVV95cUxObnhLd21OYlROQnV3Z2ZRc29BZlRubWM4T2tVN3d3ektLVUdiMXNSS1dhclFQNVZrUEVrdG5rUHFUY0ozQWJJRjFFVlFvVjJ0SC15eEdoUm1JUEdwY2FZdTgyNmNDQnozOWRXSGJBRlVHaC13M09mZ0U3em9hYkp2V1BFWHJvR2ViRFZGcEk5RE8yTWNwUmM5dlhBMC1oMGYzYzE3TXl5akNYTGlOb2c?oc=5"
     ]
    ]
   },
   {
    "s": "Economics in Tech",
-   "h": "Head of China’s Baidu warns of AI ‘bubble’ ahead of APEC talks - Kuwait Times",
+   "h": "Malaysia's semiconductor sector to weather US-China tech tensions, says PublicInvest - NST Online",
    "t": "",
    "l": [
     [
-     "kuwaittimes.com",
-     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd2RXMzdQeDBKTk03Y1dHRDdDN0RjWXVMcnBfM1B5WWxTbjFuSU15VmtYcHhlM2JzWDZkSV9OMFE1VHp4ZGNsY3B2M1lYNnZkLWVlSXQ1ZVZEWWEzS1BWTVhxVzVaZm9GeEhWVlN4bXNtMjNTOUFIcjBGVzZXUDg1Q1RYSXpTbmVGOVBfeTFlSHRDaGgwb2pBdHVwRGV6bFEzaENXMGJ3RWhmajjSAa8BQVVfeXFMT0xwcW12MUtFTXd5SVpuUXFHVXRsOXhOVUxjRnhPRGhWeVNMSThMZDZKOFl3LTY3aV9scW9FNGNzWEsyV0Rld3RnUjYxaW4tbV9pVThHVVI0RTJ6aGZoZTN3ejkwRTYxeV9MMWJXbzZ2UXpqczRkZFZYbWRMYmt1MEJ1OUFYYktZa2h4THo3U0RBS2c4Mi1iRFNlbXVaSEVPUk1lYWRpdEFGa0xESGpkTQ?oc=5"
+     "nst.com.my",
+     "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSlAwZ016MmNQSEU4VVRwM3JjZEh2Y3RYYTRiT05CLW94bXpsbWZLVDN5M21vcjZJaTI1MWs2bmlRU3gzX3JnX1ktWU9VVWdvYTdnblFnRm5RVmxBN0Z4c01oQklzZlo4UFExU21QdnFUQTJfVGM4VnZSX1prdWtfSGpob0lLSU9OcjRsNHBFV1dKNWVud2Y5dGlUZnppNWZXS2R6eXVES1MyVmVCYlpqQkZNaVFKVDJ1dWE0S2x4RdIBxAFBVV95cUxPaDVDZVZxRVkxbGprbmlfRTdNdElyRzlmT2xiXzA0RzB5eXJ3bFdNdi11RkwtNVNib25QUDZwN0JRT28ySzl5cTc5ZWd3QTNsdjNyM0J2SEhBMVVPSkZpZm9yYXZvazRZelhuUDFVOW03OEdseHRwNHlDc0RGbFlWODdsQ3BKMTl3SXRnZk5GTmhVM2JlVFVQMVBXYjFyanl2TU5IYW0ycHFXT1lhdFFDaU9qYmVHYUF3aGNyZ0FtSnZ6dE4t?oc=5"
+    ]
+   ]
+  },
+  {
+   "s": "Physics",
+   "h": "Quantum-gas microscope resolves the 'color' of individual atoms in a single shot",
+   "t": "In 2024, researchers at the Ultracold Quantum Gases group at ICFO built a quantum-gas microscope capable of imaging individual atoms in strontium quantum gases for the first time, marking a key enabling step for quantum simulation.",
+   "l": [
+    [
+     "phys.org",
+     "https://phys.org/news/2026-11-quantum-gas-microscope-individual-atoms.html"
+    ]
+   ]
+  },
+  {
+   "s": "Space",
+   "h": "NASA Launches Nuclear Power Systems Student Contest",
+   "t": "NASA’s Power to Explore Student Challenge kicked off Tuesday, Nov. 17.",
+   "l": [
+    [
+     "science.nasa.gov",
+     "https://science.nasa.gov/centers-and-facilities/glenn/nasa-launches-nuclear-power-systems-student-contest/"
+    ]
+   ]
+  },
+  {
+   "s": "Research",
+   "h": "Jensen Huang scandal illustrates why human nature is cybersecurity’s weakest link",
+   "t": "Voice, physical touch and face-to-face interactions make people more trusting, compliant and willing to share sensitive information.",
+   "l": [
+    [
+     "theconversation.com",
+     "https://theconversation.com/jensen-huang-scandal-illustrates-why-human-nature-is-cybersecuritys-weakest-link-296763"
+    ],
+    [
+     "pbs.org",
+     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNY0IwMTh0cnVtSFEtamprcXFCbWJISEc3ZE5EcHBWODdYa1NMOXRCb05za2NDVUVGTHNiR3g4cnBnbE02VkZKMU81dnFMa3pTRmgyWWhXQklJRGh2Um9PZzJRUzFJWjB1RFNzMkx1dEtTVGY2RnRGMkdoU3FqdkFwbkJmcGRLaDZvUnIxeVhTamtNMTh1amZHbFhMMjE4c3J3akNld2lld0ROZ2F0am50WnhwSXhURkpuNTdwdDFFa3FDelU?oc=5"
+    ],
+    [
+     "forbes.com",
+     "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTGI5aEp1Q2tCeGVvSlZkb2swNnNyRzVHekhQLXp2eGRDU3ZqUDYySHVnQjF2UEdhWEc5b1B3ZE1OaW05c2FNZzhzUGVfa1hPLTlhZjVuQWhqRFN1c0cyY1pBdThHal9BRmd4V0hucW41UnNjWWhEc2dpMjhmSUpGM0dYNWhwazNlWWdCTWVrWEptY3E2SzVlbnRzVW1fQTkwMTUtVGc2Zms5QnNKcEI4RjY3ZXo1V0g1SkZSeEk1dEtlVTQyb05KRDVQZ1k3U0hlQTU0Y2dB?oc=5"
     ]
    ]
   },
@@ -70,17 +97,6 @@
     [
      "sciencedaily.com",
      "https://www.sciencedaily.com/releases/2026/11/261116023348.htm"
-    ]
-   ]
-  },
-  {
-   "s": "Research",
-   "h": "What Makes Up the Cosmos? A 20-Year Survey Hints That Something Is Missing.",
-   "t": "An era-defining galaxy survey has released its final results. They don’t quite fit the leading theory of cosmology. The post What Makes Up the Cosmos? A 20-Year Survey Hints That Something Is Missing.",
-   "l": [
-    [
-     "quantamagazine.org",
-     "https://www.quantamagazine.org/what-makes-up-the-cosmos-a-20-year-survey-hints-that-something-is-missing-20261116/"
     ]
    ]
   }
