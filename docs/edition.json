@@ -1,5 +1,5 @@
 {
- "date": "2026-11-19",
+ "date": "2026-11-20",
  "notify": [
   "Technology",
   "Physics",
@@ -7,36 +7,77 @@
  ],
  "breaking": [
   {
-   "h": "Kalanick vows megaphone walkout to reinstate ousted Nvidia CEO Huang - Dealroom",
+   "h": "Bill Ackman says Nvidia's board is failing you — and not just because it fired Jensen Huang after one Zoom call, at most - Yahoo Finance",
    "t": "",
    "l": [
     [
-     "app.dealroom.co",
-     "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTElnUF95cUdqMmJZZFF5YjdqRXlwXzcwdl9NdVFxQUltZjk4b0pxRWdpczJ5M3RfQTNaRTU2XzNNWGtFNUl3VGtTejd1cTVYT3pNY2JpV25qSGo0czh2a3psVVJOX3A2OE53Vnk5c2Jvd3hRSnp6Wk4zaGZtYlJ5OUJKME1LcGVweTlnVmZsUVhScnVKamtrR05DVklsalpLYkxnaQ?oc=5"
+     "finance.yahoo.com",
+     "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLUowNHBFcFFTdklOUEpROVhXeE80OGxQSmplRHhpXzA0ek9EMHBWUU40Q2c1MEdPOHJ3UExfOGhkU1RYdDA1VFBIaUtTaWpsV2ZTLVRYQXVFelR5Mm0yNmFWYXIzcm84QmZQTU43UkZzbGI1ZTh5QjhVVzgwMHNONlROVmI0UUl1MkJqN25sOHl3ZFJXQTQ3Wk8tRQ?oc=5"
+    ],
+    [
+     "theconversation.com",
+     "https://theconversation.com/from-ancient-asia-to-the-ai-age-has-chinas-beauty-stratagem-found-a-new-victim-in-nvidias-jensen-huang-296393"
     ]
    ]
   }
  ],
  "stories": [
   {
-   "s": "Economics in Tech",
-   "h": "Xi Pitches Open Trade at APEC as US-China Rift Deepens - Serrari Group",
-   "t": "",
+   "s": "Space",
+   "h": "Empire State Building glows gold for NASA's Voyager spacecraft | Space photo of the day for Nov. 19, 2026",
+   "t": "The Empire State Building is illuminated in gold to celebrate Voyager 1 hitting one light-day from Earth.",
    "l": [
     [
-     "serrarigroup.com",
-     "https://news.google.com/rss/articles/CBMihwFBVV95cUxPLUt4ay12VHg5VnNtSkJ4bWNEcmFaNjQ0NTNGeXJDVUo2NTNPeFZCYTNwSTRrajFQRVJuSTdMeTF1Z0VwbVl1aDVXUklNcklZbGI3SGlOZ05iY2VYdzZIZWFIRmpkaE5YZ041OW1hMk83dlBBbFRyNnkzSk1rUEY2YlVpMnFpOGs?oc=5"
+     "space.com",
+     "https://www.space.com/space-exploration/voyager/empire-state-building-glows-gold-for-nasas-voyager-spacecraft-space-photo-of-the-day-for-nov-19-2026"
+    ],
+    [
+     "nasa.gov",
+     "https://www.nasa.gov/image-article/empire-state-building-goes-gold-for-voyager/"
     ]
    ]
   },
   {
-   "s": "Space",
-   "h": "APOD: 2026 November 19 – The Horsehead and Flame Nebulas",
-   "t": "APOD Science APOD APOD: 2026 November 19 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
+   "s": "Technology",
+   "h": "Gemini on Mac can now use your computer",
+   "t": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says.",
    "l": [
     [
-     "science.nasa.gov",
-     "https://science.nasa.gov/image-article/apod-2026-november-19-the-horsehead-and-flame-nebulas/"
+     "theverge.com",
+     "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use"
+    ]
+   ]
+  },
+  {
+   "s": "Economics in Tech",
+   "h": "Taiwan Semiconductor Slipped 14% This Month Amidst Tech Contraction: 175% Gains to Materialize According to One Wall Street Desk - 24/7 Wall St.",
+   "t": "",
+   "l": [
+    [
+     "247wallst.com",
+     "https://news.google.com/rss/articles/CBMi_gFBVV95cUxONkVnS1NSNi1QX2VIRXlLbW1NY0h4Z1JUVkV1eDFwdzVUTnlWaWgxeXVFa1U5UVduV2tuLW5QV0NvMXB2bHF1MXltemNzUlFwQ1I1WlZKbHZGYUxaUmpqYzEteVRxRzM3U0cwN25pZDlMUEFSM0I4dExXZnh2ekJLU245bXRMWkV4VzAxYzNRckVsRFF1NEp4Q3JWN0RGdjhuTVkyQTBabDBsa1d0ZGpHZnpSeUdyRFFFcmkwLWdXeHRfV2plbV81T25jcG5uVTI2ZHZMYXVkVFBxWjc0ZHdJNUxXZ0lLaUQ0eUJsQk9FUnlEQnpPbGwtX1BFNGVaQQ?oc=5"
+    ]
+   ]
+  },
+  {
+   "s": "Physics",
+   "h": "Long DNA strands turn chaotic fluid motion into a steady rhythm",
+   "t": "In living cells, tiny molecules can generate coordinated motion across distances thousands of times larger than the molecules themselves. How such small movements give rise to coordinated motion over much larger distances is still not fully understood.",
+   "l": [
+    [
+     "phys.org",
+     "https://phys.org/news/2026-11-dna-strands-chaotic-fluid-motion.html"
+    ]
+   ]
+  },
+  {
+   "s": "Science",
+   "h": "Scientists tested 212 plant-based foods. Every single one contained fungal toxins",
+   "t": "A new study has uncovered a surprising concern hiding in popular plant-based foods and drinks.",
+   "l": [
+    [
+     "sciencedaily.com",
+     "https://www.sciencedaily.com/releases/2026/11/261118073749.htm"
     ]
    ]
   },
@@ -48,43 +89,6 @@
     [
      "theconversation.com",
      "https://theconversation.com/fossil-fuel-lobbyists-are-trying-to-derail-climate-action-once-again-at-cop31-can-they-be-stopped-294668"
-    ]
-   ]
-  },
-  {
-   "s": "Physics",
-   "h": "Exquisite X-rays and dynamic compression initiate a new era of physics experiments on plutonium",
-   "t": "Scientists at Lawrence Livermore National Laboratory (LLNL), Argonne National Laboratory (ANL) and Washington State University (WSU) have conducted the first dynamic compression experiments on plutonium at a national light source facility, the Dynamic Compression Sector (DCS).",
-   "l": [
-    [
-     "phys.org",
-     "https://phys.org/news/2026-11-exquisite-rays-dynamic-compression-era.html"
-    ]
-   ]
-  },
-  {
-   "s": "Technology",
-   "h": "Elon Musk tries to explain what’s going on with Ukraine and Starlink",
-   "t": "Elon Musk said Ukrainian president Volodymyr Zelenskyy is lying about disruptions to Starshield in Ukraine and that he's trying to misuse SpaceX's consumer service, Starlink, for military purposes.",
-   "l": [
-    [
-     "theverge.com",
-     "https://www.theverge.com/tech/1037448/elon-musk-ukraine-starlink-starshield-nyt-dealbook"
-    ],
-    [
-     "finance.yahoo.com",
-     "https://news.google.com/rss/articles/CBMilgFBVV95cUxPc1J0M0l0OVQ3UUxpWUZzUFBsY0lPYllJeUNDanp6aHUzWHVSeFNLODJRNTl1VmlUMHBNRGQtdjZ4WFhvbV9pbk1teUV4NjFsRmVyVmtneV9NZWFoTEotVXVaRFhKaEJDZmpseklva1AxaTMyZVZfY25uanZxVEJtNTBncTJaSjZFVTl5d3htYUNfM1BZQWc?oc=5"
-    ]
-   ]
-  },
-  {
-   "s": "Science",
-   "h": "New discovery reveals what may be holding back room-temperature superconductors",
-   "t": "A major breakthrough in superconductivity research has revealed that one of the essential ingredients for electricity to flow without resistance can exist at room temperature.",
-   "l": [
-    [
-     "sciencedaily.com",
-     "https://www.sciencedaily.com/releases/2026/11/261116023358.htm"
     ]
    ]
   }
