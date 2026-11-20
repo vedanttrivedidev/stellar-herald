@@ -1,5 +1,5 @@
 {
- "date": "2026-11-20",
+ "date": "2026-11-21",
  "notify": [
   "Technology",
   "Physics",
@@ -7,80 +7,96 @@
  ],
  "breaking": [
   {
-   "h": "Key facts: NVIDIA Q3 Revenue $115.8B; CEO Resigns; China Chip Probe - TradingView",
+   "h": "Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation - WIRED",
    "t": "",
    "l": [
     [
-     "tradingview.com",
-     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWnN3SFU5YXN0bFpGZkxEWW5KbU03dWMxQU5NbUtXUFc3OTJfUjdFWVlhTktVd3J6MzYtUXU4MkRya2wyeXp4SzZIVnlKXzU3MFF0aGtYTTZRQkJwVVF0dk9PZGI5RDRYb3pTUU5sLWxmbnczVnJVczBxX0NCT1hTbElQSEpWeDJjdUF0RGViaE5UcVZUTmpCdXhWb2F4a3lqOXI1aEc3LWs0ci1kUnRlSlQwR0tud0N3SURNaXZGdWgtdjA?oc=5"
+     "wired.com",
+     "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdDVHY0ZCYnhMdm1mLWdrMDhkNXZ4R1NsN0dvU0JMWHRSSzFzckIycGxkcVlWVUxCVlhmdlhtSkVrNTI5blNBcEdyQlM1aWdNOFBFeGlnQzdpa0RIM3pYLWpJUmNOV0trVC1qOFNqbUhBajVUUTd1dFpwZk45eTk4MDdlQkpueG5SdlZBRmVaSEd1UnpYTl9IaEdR?oc=5"
+    ],
+    [
+     "theconversation.com",
+     "https://theconversation.com/from-ancient-asia-to-the-ai-age-has-chinas-beauty-stratagem-found-a-new-victim-in-nvidias-jensen-huang-296393"
     ]
    ]
   }
  ],
  "stories": [
   {
-   "s": "Economics in Tech",
-   "h": "Chip slump rattles Kospi below 5,000, but analysts say buy the dip - Korea JoongAng Daily",
-   "t": "",
-   "l": [
-    [
-     "koreajoongangdaily.com",
-     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMHV3STJnaGs0NURUUEhyd1dXOG5UaXIyblVZYUZYNktMNk5HeDF2V0tzQnJCNk1Fck0tZFlzMEc0TDdrS3pVM0tIcnFCcTVJVC0xSE1Vd1dSQjg2c3cwSnZaVjNyMWYxbVFMMXR4WUxYUFhDcHlyS1ZiUEJza3BVNGlIaEtRc0pwQkF6bmxJNWdTN1hYeW9KT0U4aEhBZTljN25tX3JINzRIUjl5M3V6UURJckdneTFU?oc=5"
-    ]
-   ]
-  },
-  {
    "s": "Space",
-   "h": "APOD: 2026 November 20 – V-G-R",
-   "t": "APOD Science APOD APOD: 2026 November… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
+   "h": "Don't turn the moon into the Wild West, scientists warn",
+   "t": "Researchers are calling for a moratorium on industrial exploitation of the moon, fearing the lunar environment may suffer irreversible damage if things move too fast.",
    "l": [
     [
-     "science.nasa.gov",
-     "https://science.nasa.gov/image-article/apod-2026-november-20-v-g-r/"
-    ]
-   ]
-  },
-  {
-   "s": "Physics",
-   "h": "Building structured-light systems in three dimensions",
-   "t": "Structured light has become an important tool across modern optics. By shaping properties such as amplitude, phase, polarization and spatial mode, researchers can create light fields with capabilities beyond those of conventional laser beams.",
-   "l": [
-    [
-     "phys.org",
-     "https://phys.org/news/2026-11-dimensions.html"
-    ]
-   ]
-  },
-  {
-   "s": "Science",
-   "h": "Experimental compound burns fat without sacrificing muscle",
-   "t": "Researchers at UC Berkeley have identified a compound that could transform weight-loss treatment by helping the body burn more energy instead of suppressing appetite like Ozempic and Wegovy.",
-   "l": [
+     "space.com",
+     "https://www.space.com/astronomy/moon/dont-turn-the-moon-into-the-wild-west-scientists-warn"
+    ],
     [
      "sciencedaily.com",
-     "https://www.sciencedaily.com/releases/2026/11/261118073918.htm"
+     "https://www.sciencedaily.com/releases/2026/11/261119194525.htm"
     ]
    ]
   },
   {
    "s": "Technology",
-   "h": "Apple is hiring engineers to build its own AI agent",
-   "t": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services.",
+   "h": "Trump FCC declares California isn't allowed to enforce phone service rules",
+   "t": "FCC preempts state rules that require AT&T to keep offering home phone service.",
    "l": [
     [
-     "theverge.com",
-     "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing"
+     "arstechnica.com",
+     "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/"
+    ]
+   ]
+  },
+  {
+   "s": "Economics in Tech",
+   "h": "Nvidia shares plunge as Anthropic can't stop the AI selloff - Axios",
+   "t": "",
+   "l": [
+    [
+     "axios.com",
+     "https://news.google.com/rss/articles/CBMieEFVX3lxTE9lT3pUcFhra290UDVtQVlwcVBjeDdBX1NLX1lPMGVjM3lPRHZDZk04eHI3cDk1STFLejBDODdHZWYtVFJzRnd3Q2ZDLW5EdjN1RTZzT3ZLblNoa004bmN6bjRSWXF4Y0RoQWs1UGR4UThYR004a1hWcw?oc=5"
+    ],
+    [
+     "tradersunion.com",
+     "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQU16dVUyeEt6cWdJYzlRbEZQcC1HeU8xbXdLTU50OXdwRzJzUnFiS1lvWjNfME54SmlpUU1hN3VWdGNXUExyM0JLUGxKdlZvdDYyNlAtemtvcEJOYzIwVlBGYjByMzhjaFFhS1dGU1dLTHVIM1hzaFZLN2FNdFBnVzg2UGpwbjV4OF83QQ?oc=5"
+    ]
+   ]
+  },
+  {
+   "s": "Physics",
+   "h": "Record-setting X-ray laser reliably generates flashes with wavelengths shorter than distances between atoms",
+   "t": "04 nanometers (or a photon energy of 30,000 electronvolts) at European XFEL, raising their own world record.",
+   "l": [
+    [
+     "phys.org",
+     "https://phys.org/news/2026-11-ray-laser-reliably-generates-wavelengths.html"
     ]
    ]
   },
   {
    "s": "Research",
-   "h": "Xi-Putin-Trump summit was heavy on symbolism, light on substance – and not exactly a Yalta II",
-   "t": "At an eagerly anticipated summit, the leaders of China, Russia and US discussed nuclear weapons – but not much else.",
+   "h": "Network Researchers Nail Down Theory of ‘Perfect Resilience’",
+   "t": "When links in a communication network go down, messages can get routed in a loop. Computer scientists now know that four simple network structures are to blame.",
    "l": [
     [
-     "theconversation.com",
-     "https://theconversation.com/xi-putin-trump-summit-was-heavy-on-symbolism-light-on-substance-and-not-exactly-a-yalta-ii-297087"
+     "quantamagazine.org",
+     "https://www.quantamagazine.org/network-researchers-nail-down-theory-of-perfect-resilience-20261120/"
+    ]
+   ]
+  },
+  {
+   "s": "Science",
+   "h": "Scientists turn Moon dust into LEGO-like bricks for future lunar bases",
+   "t": "Scientists have found a way to 3D-print Moon dust into LEGO-like bricks, raising the possibility of building lunar bases using materials already on the Moon.",
+   "l": [
+    [
+     "sciencedaily.com",
+     "https://www.sciencedaily.com/releases/2026/11/261119194525.htm"
+    ],
+    [
+     "space.com",
+     "https://www.space.com/astronomy/moon/dont-turn-the-moon-into-the-wild-west-scientists-warn"
     ]
    ]
   }
