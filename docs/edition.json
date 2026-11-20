@@ -7,21 +7,50 @@
  ],
  "breaking": [
   {
-   "h": "Nvidia stock plunges as CEO Jensen Huang resigns: How low it might go - Mashable",
+   "h": "Key facts: NVIDIA Q3 Revenue $115.8B; CEO Resigns; China Chip Probe - TradingView",
    "t": "",
    "l": [
     [
-     "mashable.com",
-     "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaTZUVEo5RE5qQ3Y5Ry1UOEk5NlNmaUhSUGE2SUFhbFBnSmFOeTAwTzFSTEpaVnEyZkFvbGxOdVMxMmlEQW44Z1dJRTNEQm9faFJXR3FpVC1vZXJZSTZJWUN4YTRaTGxiRlAyenlKOEJBa1U1Yi1KZWxjdW1kbDl0eVRWZGtETldGMjJQN1MzZkJQYXM?oc=5"
-    ],
-    [
-     "theconversation.com",
-     "https://theconversation.com/from-ancient-asia-to-the-ai-age-has-chinas-beauty-stratagem-found-a-new-victim-in-nvidias-jensen-huang-296393"
+     "tradingview.com",
+     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWnN3SFU5YXN0bFpGZkxEWW5KbU03dWMxQU5NbUtXUFc3OTJfUjdFWVlhTktVd3J6MzYtUXU4MkRya2wyeXp4SzZIVnlKXzU3MFF0aGtYTTZRQkJwVVF0dk9PZGI5RDRYb3pTUU5sLWxmbnczVnJVczBxX0NCT1hTbElQSEpWeDJjdUF0RGViaE5UcVZUTmpCdXhWb2F4a3lqOXI1aEc3LWs0ci1kUnRlSlQwR0tud0N3SURNaXZGdWgtdjA?oc=5"
     ]
    ]
   }
  ],
  "stories": [
+  {
+   "s": "Economics in Tech",
+   "h": "Chip slump rattles Kospi below 5,000, but analysts say buy the dip - Korea JoongAng Daily",
+   "t": "",
+   "l": [
+    [
+     "koreajoongangdaily.com",
+     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMHV3STJnaGs0NURUUEhyd1dXOG5UaXIyblVZYUZYNktMNk5HeDF2V0tzQnJCNk1Fck0tZFlzMEc0TDdrS3pVM0tIcnFCcTVJVC0xSE1Vd1dSQjg2c3cwSnZaVjNyMWYxbVFMMXR4WUxYUFhDcHlyS1ZiUEJza3BVNGlIaEtRc0pwQkF6bmxJNWdTN1hYeW9KT0U4aEhBZTljN25tX3JINzRIUjl5M3V6UURJckdneTFU?oc=5"
+    ]
+   ]
+  },
+  {
+   "s": "Space",
+   "h": "APOD: 2026 November 20 – V-G-R",
+   "t": "APOD Science APOD APOD: 2026 November… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
+   "l": [
+    [
+     "science.nasa.gov",
+     "https://science.nasa.gov/image-article/apod-2026-november-20-v-g-r/"
+    ]
+   ]
+  },
+  {
+   "s": "Physics",
+   "h": "Building structured-light systems in three dimensions",
+   "t": "Structured light has become an important tool across modern optics. By shaping properties such as amplitude, phase, polarization and spatial mode, researchers can create light fields with capabilities beyond those of conventional laser beams.",
+   "l": [
+    [
+     "phys.org",
+     "https://phys.org/news/2026-11-dimensions.html"
+    ]
+   ]
+  },
   {
    "s": "Science",
    "h": "Experimental compound burns fat without sacrificing muscle",
@@ -30,39 +59,6 @@
     [
      "sciencedaily.com",
      "https://www.sciencedaily.com/releases/2026/11/261118073918.htm"
-    ]
-   ]
-  },
-  {
-   "s": "Space",
-   "h": "Voyager 1 team, unbowed by communications glitch, celebrates epic 1-light-day distance milestone",
-   "t": "The Voyager 1 team celebrated the probe's big distance milestone on Thursday (Nov. 19), even while dealing with a communication anomaly that recently cropped up on the probe.",
-   "l": [
-    [
-     "space.com",
-     "https://www.space.com/space-exploration/voyager/voyager-1-team-unbowed-by-communications-glitch-celebrates-epic-1-light-day-distance-milestone"
-    ]
-   ]
-  },
-  {
-   "s": "Economics in Tech",
-   "h": "Chip Stocks Slide as Anthropic IPO Tests AI Investor Confidence - bsinews.id",
-   "t": "",
-   "l": [
-    [
-     "bsinews.id",
-     "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrZHB5RHJmXzZGclVzZlRlREpZd2RyeUtjVU1ZeDVaa3RRYVRqaXVDR08wcThRMWJYYmt2cWFLR29IU3B5TTNORkRZNWJrcFlwRnl6UW04SzRBZXM?oc=5"
-    ]
-   ]
-  },
-  {
-   "s": "Physics",
-   "h": "'PAC-MAN' capsules that gobble up particles in turbulent water show promise for filtration and drug delivery",
-   "t": "Scientists have created hollow capsules with single openings that can selectively filter particles thanks to the turbulence in surrounding waters—at times, ingesting particles like PAC-MAN eating up dots.",
-   "l": [
-    [
-     "phys.org",
-     "https://phys.org/news/2026-11-pac-capsules-gobble-particles-turbulent.html"
     ]
    ]
   },
