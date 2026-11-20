@@ -7,12 +7,12 @@
  ],
  "breaking": [
   {
-   "h": "Bill Ackman says Nvidia's board is failing you — and not just because it fired Jensen Huang after one Zoom call, at most - Yahoo Finance",
+   "h": "Nvidia stock plunges as CEO Jensen Huang resigns: How low it might go - Mashable",
    "t": "",
    "l": [
     [
-     "finance.yahoo.com",
-     "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLUowNHBFcFFTdklOUEpROVhXeE80OGxQSmplRHhpXzA0ek9EMHBWUU40Q2c1MEdPOHJ3UExfOGhkU1RYdDA1VFBIaUtTaWpsV2ZTLVRYQXVFelR5Mm0yNmFWYXIzcm84QmZQTU43UkZzbGI1ZTh5QjhVVzgwMHNONlROVmI0UUl1MkJqN25sOHl3ZFJXQTQ3Wk8tRQ?oc=5"
+     "mashable.com",
+     "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaTZUVEo5RE5qQ3Y5Ry1UOEk5NlNmaUhSUGE2SUFhbFBnSmFOeTAwTzFSTEpaVnEyZkFvbGxOdVMxMmlEQW44Z1dJRTNEQm9faFJXR3FpVC1vZXJZSTZJWUN4YTRaTGxiRlAyenlKOEJBa1U1Yi1KZWxjdW1kbDl0eVRWZGtETldGMjJQN1MzZkJQYXM?oc=5"
     ],
     [
      "theconversation.com",
@@ -23,72 +23,68 @@
  ],
  "stories": [
   {
-   "s": "Space",
-   "h": "Empire State Building glows gold for NASA's Voyager spacecraft | Space photo of the day for Nov. 19, 2026",
-   "t": "The Empire State Building is illuminated in gold to celebrate Voyager 1 hitting one light-day from Earth.",
+   "s": "Science",
+   "h": "Experimental compound burns fat without sacrificing muscle",
+   "t": "Researchers at UC Berkeley have identified a compound that could transform weight-loss treatment by helping the body burn more energy instead of suppressing appetite like Ozempic and Wegovy.",
    "l": [
     [
-     "space.com",
-     "https://www.space.com/space-exploration/voyager/empire-state-building-glows-gold-for-nasas-voyager-spacecraft-space-photo-of-the-day-for-nov-19-2026"
-    ],
-    [
-     "nasa.gov",
-     "https://www.nasa.gov/image-article/empire-state-building-goes-gold-for-voyager/"
+     "sciencedaily.com",
+     "https://www.sciencedaily.com/releases/2026/11/261118073918.htm"
     ]
    ]
   },
   {
-   "s": "Technology",
-   "h": "Gemini on Mac can now use your computer",
-   "t": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says.",
+   "s": "Space",
+   "h": "Voyager 1 team, unbowed by communications glitch, celebrates epic 1-light-day distance milestone",
+   "t": "The Voyager 1 team celebrated the probe's big distance milestone on Thursday (Nov. 19), even while dealing with a communication anomaly that recently cropped up on the probe.",
    "l": [
     [
-     "theverge.com",
-     "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use"
+     "space.com",
+     "https://www.space.com/space-exploration/voyager/voyager-1-team-unbowed-by-communications-glitch-celebrates-epic-1-light-day-distance-milestone"
     ]
    ]
   },
   {
    "s": "Economics in Tech",
-   "h": "Taiwan Semiconductor Slipped 14% This Month Amidst Tech Contraction: 175% Gains to Materialize According to One Wall Street Desk - 24/7 Wall St.",
+   "h": "Chip Stocks Slide as Anthropic IPO Tests AI Investor Confidence - bsinews.id",
    "t": "",
    "l": [
     [
-     "247wallst.com",
-     "https://news.google.com/rss/articles/CBMi_gFBVV95cUxONkVnS1NSNi1QX2VIRXlLbW1NY0h4Z1JUVkV1eDFwdzVUTnlWaWgxeXVFa1U5UVduV2tuLW5QV0NvMXB2bHF1MXltemNzUlFwQ1I1WlZKbHZGYUxaUmpqYzEteVRxRzM3U0cwN25pZDlMUEFSM0I4dExXZnh2ekJLU245bXRMWkV4VzAxYzNRckVsRFF1NEp4Q3JWN0RGdjhuTVkyQTBabDBsa1d0ZGpHZnpSeUdyRFFFcmkwLWdXeHRfV2plbV81T25jcG5uVTI2ZHZMYXVkVFBxWjc0ZHdJNUxXZ0lLaUQ0eUJsQk9FUnlEQnpPbGwtX1BFNGVaQQ?oc=5"
+     "bsinews.id",
+     "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrZHB5RHJmXzZGclVzZlRlREpZd2RyeUtjVU1ZeDVaa3RRYVRqaXVDR08wcThRMWJYYmt2cWFLR29IU3B5TTNORkRZNWJrcFlwRnl6UW04SzRBZXM?oc=5"
     ]
    ]
   },
   {
    "s": "Physics",
-   "h": "Long DNA strands turn chaotic fluid motion into a steady rhythm",
-   "t": "In living cells, tiny molecules can generate coordinated motion across distances thousands of times larger than the molecules themselves. How such small movements give rise to coordinated motion over much larger distances is still not fully understood.",
+   "h": "'PAC-MAN' capsules that gobble up particles in turbulent water show promise for filtration and drug delivery",
+   "t": "Scientists have created hollow capsules with single openings that can selectively filter particles thanks to the turbulence in surrounding waters—at times, ingesting particles like PAC-MAN eating up dots.",
    "l": [
     [
      "phys.org",
-     "https://phys.org/news/2026-11-dna-strands-chaotic-fluid-motion.html"
+     "https://phys.org/news/2026-11-pac-capsules-gobble-particles-turbulent.html"
     ]
    ]
   },
   {
-   "s": "Science",
-   "h": "Scientists tested 212 plant-based foods. Every single one contained fungal toxins",
-   "t": "A new study has uncovered a surprising concern hiding in popular plant-based foods and drinks.",
+   "s": "Technology",
+   "h": "Apple is hiring engineers to build its own AI agent",
+   "t": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services.",
    "l": [
     [
-     "sciencedaily.com",
-     "https://www.sciencedaily.com/releases/2026/11/261118073749.htm"
+     "theverge.com",
+     "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing"
     ]
    ]
   },
   {
    "s": "Research",
-   "h": "Fossil fuel lobbyists are trying to derail climate action once again at COP31. Can they be stopped?",
-   "t": "The whole point of this summit is to address climate change. Why are fossil fuel cheerleaders still allowed in the door?",
+   "h": "Xi-Putin-Trump summit was heavy on symbolism, light on substance – and not exactly a Yalta II",
+   "t": "At an eagerly anticipated summit, the leaders of China, Russia and US discussed nuclear weapons – but not much else.",
    "l": [
     [
      "theconversation.com",
-     "https://theconversation.com/fossil-fuel-lobbyists-are-trying-to-derail-climate-action-once-again-at-cop31-can-they-be-stopped-294668"
+     "https://theconversation.com/xi-putin-trump-summit-was-heavy-on-symbolism-light-on-substance-and-not-exactly-a-yalta-ii-297087"
     ]
    ]
   }
