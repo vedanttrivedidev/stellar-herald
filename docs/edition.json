@@ -7,12 +7,12 @@
  ],
  "breaking": [
   {
-   "h": "Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation - WIRED",
+   "h": "Nvidia stock plunges as CEO Jensen Huang resigns: How low it might go - Mashable",
    "t": "",
    "l": [
     [
-     "wired.com",
-     "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdDVHY0ZCYnhMdm1mLWdrMDhkNXZ4R1NsN0dvU0JMWHRSSzFzckIycGxkcVlWVUxCVlhmdlhtSkVrNTI5blNBcEdyQlM1aWdNOFBFeGlnQzdpa0RIM3pYLWpJUmNOV0trVC1qOFNqbUhBajVUUTd1dFpwZk45eTk4MDdlQkpueG5SdlZBRmVaSEd1UnpYTl9IaEdR?oc=5"
+     "mashable.com",
+     "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaTZUVEo5RE5qQ3Y5Ry1UOEk5NlNmaUhSUGE2SUFhbFBnSmFOeTAwTzFSTEpaVnEyZkFvbGxOdVMxMmlEQW44Z1dJRTNEQm9faFJXR3FpVC1vZXJZSTZJWUN4YTRaTGxiRlAyenlKOEJBa1U1Yi1KZWxjdW1kbDl0eVRWZGtETldGMjJQN1MzZkJQYXM?oc=5"
     ],
     [
      "theconversation.com",
@@ -23,17 +23,50 @@
  ],
  "stories": [
   {
+   "s": "Economics in Tech",
+   "h": "AI Stocks Extend Decline After Nvidia Earnings and Anthropic IPO - SuaraGarut.ID",
+   "t": "",
+   "l": [
+    [
+     "suaragarut.id",
+     "https://news.google.com/rss/articles/CBMia0FVX3lxTE13clVQSDhOZDVzVVBjNUpmbENWVTJkbVl2c2RqclhEZ2RZZG50X3MtZDZVTnJOdmxEd05YSV9JWnRtbVo3ejlVMzVTSEs1aWdFWFpqTTZvdTRQUVdSUXh2ZGtSVDk1UHN1VUxB?oc=5"
+    ],
+    [
+     "global.morningstar.com",
+     "https://news.google.com/rss/articles/CBMioAFBVV95cUxQa3U2SjhqNnZ3MG5UXzZIcmZGWjNXWjZHZks1SjRKYUF6enYxeWhxMml1SV9qTU50UVhFUExNQlRyeGlIdVRmaEN4ZEtjbkxuSXB5ZnhsLU40WEJpYTB6UVBIMzNhLW81aU5zemo1Q2l6RkJ6MHQwUFdTS3hRQ3JNXzJaS2Y3MHplYlZFdlRLYm13emY5UzluMDVrQlFQdVkz?oc=5"
+    ]
+   ]
+  },
+  {
    "s": "Space",
-   "h": "Don't turn the moon into the Wild West, scientists warn",
-   "t": "Researchers are calling for a moratorium on industrial exploitation of the moon, fearing the lunar environment may suffer irreversible damage if things move too fast.",
+   "h": "SpaceX launches classified mission for US Space Force from California",
+   "t": "S. Space Force tonight (Nov. 20), sending a mystery payload to orbit from California's central coast.",
    "l": [
     [
      "space.com",
-     "https://www.space.com/astronomy/moon/dont-turn-the-moon-into-the-wild-west-scientists-warn"
-    ],
+     "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-classified-space-force-launch-ussf-317"
+    ]
+   ]
+  },
+  {
+   "s": "Physics",
+   "h": "Quantum software matches classical benchmark for a molecular interaction",
+   "t": "Predicting how molecules interact is central to drug discovery: it offers important information about how a new drug might work in the human body, the side effects it can cause and more.",
+   "l": [
+    [
+     "phys.org",
+     "https://phys.org/news/2026-11-quantum-software-classical-benchmark-molecular.html"
+    ]
+   ]
+  },
+  {
+   "s": "Science",
+   "h": "NASA’s Voyager 1 is now so far away that light takes 24 hours to reach it",
+   "t": "1 billion miles from Earth to become the first spacecraft so distant that its signals take a full day to reach us.",
+   "l": [
     [
      "sciencedaily.com",
-     "https://www.sciencedaily.com/releases/2026/11/261119194525.htm"
+     "https://www.sciencedaily.com/releases/2026/11/261120075554.htm"
     ]
    ]
   },
@@ -49,32 +82,6 @@
    ]
   },
   {
-   "s": "Economics in Tech",
-   "h": "Nvidia shares plunge as Anthropic can't stop the AI selloff - Axios",
-   "t": "",
-   "l": [
-    [
-     "axios.com",
-     "https://news.google.com/rss/articles/CBMieEFVX3lxTE9lT3pUcFhra290UDVtQVlwcVBjeDdBX1NLX1lPMGVjM3lPRHZDZk04eHI3cDk1STFLejBDODdHZWYtVFJzRnd3Q2ZDLW5EdjN1RTZzT3ZLblNoa004bmN6bjRSWXF4Y0RoQWs1UGR4UThYR004a1hWcw?oc=5"
-    ],
-    [
-     "tradersunion.com",
-     "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQU16dVUyeEt6cWdJYzlRbEZQcC1HeU8xbXdLTU50OXdwRzJzUnFiS1lvWjNfME54SmlpUU1hN3VWdGNXUExyM0JLUGxKdlZvdDYyNlAtemtvcEJOYzIwVlBGYjByMzhjaFFhS1dGU1dLTHVIM1hzaFZLN2FNdFBnVzg2UGpwbjV4OF83QQ?oc=5"
-    ]
-   ]
-  },
-  {
-   "s": "Physics",
-   "h": "Record-setting X-ray laser reliably generates flashes with wavelengths shorter than distances between atoms",
-   "t": "04 nanometers (or a photon energy of 30,000 electronvolts) at European XFEL, raising their own world record.",
-   "l": [
-    [
-     "phys.org",
-     "https://phys.org/news/2026-11-ray-laser-reliably-generates-wavelengths.html"
-    ]
-   ]
-  },
-  {
    "s": "Research",
    "h": "Network Researchers Nail Down Theory of ‘Perfect Resilience’",
    "t": "When links in a communication network go down, messages can get routed in a loop. Computer scientists now know that four simple network structures are to blame.",
@@ -82,21 +89,6 @@
     [
      "quantamagazine.org",
      "https://www.quantamagazine.org/network-researchers-nail-down-theory-of-perfect-resilience-20261120/"
-    ]
-   ]
-  },
-  {
-   "s": "Science",
-   "h": "Scientists turn Moon dust into LEGO-like bricks for future lunar bases",
-   "t": "Scientists have found a way to 3D-print Moon dust into LEGO-like bricks, raising the possibility of building lunar bases using materials already on the Moon.",
-   "l": [
-    [
-     "sciencedaily.com",
-     "https://www.sciencedaily.com/releases/2026/11/261119194525.htm"
-    ],
-    [
-     "space.com",
-     "https://www.space.com/astronomy/moon/dont-turn-the-moon-into-the-wild-west-scientists-warn"
     ]
    ]
   }
