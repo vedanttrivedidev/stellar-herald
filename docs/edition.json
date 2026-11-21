@@ -1,5 +1,5 @@
 {
- "date": "2026-11-21",
+ "date": "2026-11-22",
  "notify": [
   "Technology",
   "Physics",
@@ -7,12 +7,12 @@
  ],
  "breaking": [
   {
-   "h": "Nvidia stock plunges as CEO Jensen Huang resigns: How low it might go - Mashable",
+   "h": "Nvidia's Board Ousted Jensen Huang. Brian Chau Says the Case Against Him Was Fabricated. - BigGo Finance",
    "t": "",
    "l": [
     [
-     "mashable.com",
-     "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaTZUVEo5RE5qQ3Y5Ry1UOEk5NlNmaUhSUGE2SUFhbFBnSmFOeTAwTzFSTEpaVnEyZkFvbGxOdVMxMmlEQW44Z1dJRTNEQm9faFJXR3FpVC1vZXJZSTZJWUN4YTRaTGxiRlAyenlKOEJBa1U1Yi1KZWxjdW1kbDl0eVRWZGtETldGMjJQN1MzZkJQYXM?oc=5"
+     "finance.biggo.com",
+     "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JMFJJNHZXaHNyY1JuVkR0YU54aElTbWh2dVdLTmtILUtFSVRrZW83RGM3cVN6dDVWNnhUNlJiUnRISlhranJNSG5Tb2VaMUI1QzV4emdaRGtDTTQ?oc=5"
     ],
     [
      "theconversation.com",
@@ -23,28 +23,50 @@
  ],
  "stories": [
   {
+   "s": "Technology",
+   "h": "The UN fails to agree on rules regulating ‘killer robots’",
+   "t": "\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of negotiations.",
+   "l": [
+    [
+     "theverge.com",
+     "https://www.theverge.com/tech/1039554/un-regulations-killer-robots"
+    ]
+   ]
+  },
+  {
    "s": "Economics in Tech",
-   "h": "AI Stocks Extend Decline After Nvidia Earnings and Anthropic IPO - SuaraGarut.ID",
+   "h": "AI Chip Selloff Erases 200 Billion Dollars From Nvidia and AMD - bsinews.id",
    "t": "",
    "l": [
     [
-     "suaragarut.id",
-     "https://news.google.com/rss/articles/CBMia0FVX3lxTE13clVQSDhOZDVzVVBjNUpmbENWVTJkbVl2c2RqclhEZ2RZZG50X3MtZDZVTnJOdmxEd05YSV9JWnRtbVo3ejlVMzVTSEs1aWdFWFpqTTZvdTRQUVdSUXh2ZGtSVDk1UHN1VUxB?oc=5"
+     "bsinews.id",
+     "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rS3dHY0V6aHljYmxKT3ZXME56VG9jaFYxYWJVX1lMdFE5N0Vjc09IM1R3TnlJbmtmVVhyUFNhNEJQcGFPclZCWDNMOHE5Z0ZERXFsRVI0SDBJZWJH?oc=5"
     ],
     [
-     "global.morningstar.com",
-     "https://news.google.com/rss/articles/CBMioAFBVV95cUxQa3U2SjhqNnZ3MG5UXzZIcmZGWjNXWjZHZks1SjRKYUF6enYxeWhxMml1SV9qTU50UVhFUExNQlRyeGlIdVRmaEN4ZEtjbkxuSXB5ZnhsLU40WEJpYTB6UVBIMzNhLW81aU5zemo1Q2l6RkJ6MHQwUFdTS3hRQ3JNXzJaS2Y3MHplYlZFdlRLYm13emY5UzluMDVrQlFQdVkz?oc=5"
+     "finance.yahoo.com",
+     "https://news.google.com/rss/articles/CBMikAFBVV95cUxOejlycTNOTWVaLXBObmZzQ29NbHBmT0ZMMDhJUVB1Tm85VXhCRjRKRWdpUHlYM2Mxc0xPZHZacEt2a05BUEFLaHM1c3FqU3doWVN6anJJOW84QjVleU1aRGNzV2RKM0k2R2tvY1JUTk9kbWh0VEdrYzg4YS1nWEZGUTQ4WEV3NlU2T3NxQVdFWjg?oc=5"
     ]
    ]
   },
   {
    "s": "Space",
-   "h": "SpaceX launches classified mission for US Space Force from California",
-   "t": "S. Space Force tonight (Nov. 20), sending a mystery payload to orbit from California's central coast.",
+   "h": "On this day in space! Nov. 21, 1676: Danish astronomer discovers speed of light — by accident — while observing Jupiter's moon Io",
+   "t": "On Nov. 21, 1676, the Danish astronomer Ole Rømer discovered the speed of lightwhile observing Jupiter and its moon volcanic moon Io. Here's why it mattered.",
    "l": [
     [
      "space.com",
-     "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-classified-space-force-launch-ussf-317"
+     "https://www.space.com/space-exploration/on-this-day-in-space-november-21-2026"
+    ]
+   ]
+  },
+  {
+   "s": "Science",
+   "h": "Time may be far stranger than we realize. Scientists have a way to test it",
+   "t": "",
+   "l": [
+    [
+     "sciencedaily.com",
+     "https://www.sciencedaily.com/releases/2026/11/261120075558.htm"
     ]
    ]
   },
@@ -56,28 +78,6 @@
     [
      "phys.org",
      "https://phys.org/news/2026-11-quantum-software-classical-benchmark-molecular.html"
-    ]
-   ]
-  },
-  {
-   "s": "Science",
-   "h": "NASA’s Voyager 1 is now so far away that light takes 24 hours to reach it",
-   "t": "1 billion miles from Earth to become the first spacecraft so distant that its signals take a full day to reach us.",
-   "l": [
-    [
-     "sciencedaily.com",
-     "https://www.sciencedaily.com/releases/2026/11/261120075554.htm"
-    ]
-   ]
-  },
-  {
-   "s": "Technology",
-   "h": "Trump FCC declares California isn't allowed to enforce phone service rules",
-   "t": "FCC preempts state rules that require AT&T to keep offering home phone service.",
-   "l": [
-    [
-     "arstechnica.com",
-     "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/"
     ]
    ]
   },
