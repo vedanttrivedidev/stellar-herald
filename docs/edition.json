@@ -7,55 +7,47 @@
  ],
  "breaking": [
   {
-   "h": "Nvidia's Board Ousted Jensen Huang. Brian Chau Says the Case Against Him Was Fabricated. - BigGo Finance",
+   "h": "NVIDIA Board Accepts Huang's Resignation Over Lies, Abuse, Not Affair - 조선일보",
    "t": "",
    "l": [
     [
-     "finance.biggo.com",
-     "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JMFJJNHZXaHNyY1JuVkR0YU54aElTbWh2dVdLTmtILUtFSVRrZW83RGM3cVN6dDVWNnhUNlJiUnRISlhranJNSG5Tb2VaMUI1QzV4emdaRGtDTTQ?oc=5"
-    ],
-    [
-     "theconversation.com",
-     "https://theconversation.com/from-ancient-asia-to-the-ai-age-has-chinas-beauty-stratagem-found-a-new-victim-in-nvidias-jensen-huang-296393"
+     "chosun.com",
+     "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdEZadVJPOElLN3FyeGdjak9PMjV0OHA3V0xJZ24tcExKSjFvUjZVNURsWXU4ZUltQk5fSVlUajNhcS12YzdqZkhWS09TVTVIZGc3cERPamVMVzNQMGRfVE8tYWVnbXV0QlBodE5Jekc3ZHljLTNJTHhoLUpRZkpLc0JseVZ0U3NN?oc=5"
     ]
    ]
   }
  ],
  "stories": [
   {
-   "s": "Technology",
-   "h": "The UN fails to agree on rules regulating ‘killer robots’",
-   "t": "\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of negotiations.",
-   "l": [
-    [
-     "theverge.com",
-     "https://www.theverge.com/tech/1039554/un-regulations-killer-robots"
-    ]
-   ]
-  },
-  {
    "s": "Economics in Tech",
-   "h": "AI Chip Selloff Erases 200 Billion Dollars From Nvidia and AMD - bsinews.id",
+   "h": "China’s AI market loses $1.7 trillion as stocks plunge - Ticker News",
    "t": "",
    "l": [
     [
-     "bsinews.id",
-     "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rS3dHY0V6aHljYmxKT3ZXME56VG9jaFYxYWJVX1lMdFE5N0Vjc09IM1R3TnlJbmtmVVhyUFNhNEJQcGFPclZCWDNMOHE5Z0ZERXFsRVI0SDBJZWJH?oc=5"
-    ],
-    [
-     "finance.yahoo.com",
-     "https://news.google.com/rss/articles/CBMikAFBVV95cUxOejlycTNOTWVaLXBObmZzQ29NbHBmT0ZMMDhJUVB1Tm85VXhCRjRKRWdpUHlYM2Mxc0xPZHZacEt2a05BUEFLaHM1c3FqU3doWVN6anJJOW84QjVleU1aRGNzV2RKM0k2R2tvY1JUTk9kbWh0VEdrYzg4YS1nWEZGUTQ4WEV3NlU2T3NxQVdFWjg?oc=5"
+     "tickernews.co",
+     "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMkRoNzFSVmpnYTlTOFFRUkc2OVFNcHBXS2piNTM4a1dMOGxVS0NGV1E5ZWFJXzl6UHhfOGZiNkJtX3hXX0xTcGVvUUFyVWRVQmhJQ3d3VGt0Q0lyY1FzMFIwY3hkVW5INllMY3ZpYzNvZFFKb0dwV2pjUFhhTm53OA?oc=5"
     ]
    ]
   },
   {
    "s": "Space",
-   "h": "On this day in space! Nov. 21, 1676: Danish astronomer discovers speed of light — by accident — while observing Jupiter's moon Io",
-   "t": "On Nov. 21, 1676, the Danish astronomer Ole Rømer discovered the speed of lightwhile observing Jupiter and its moon volcanic moon Io. Here's why it mattered.",
+   "h": "APOD: 2026 November 22 – Swirls and Colors on Jupiter from Juno",
+   "t": "APOD Science APOD APOD: 2026 November 22 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
    "l": [
     [
-     "space.com",
-     "https://www.space.com/space-exploration/on-this-day-in-space-november-21-2026"
+     "science.nasa.gov",
+     "https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno/"
+    ]
+   ]
+  },
+  {
+   "s": "Technology",
+   "h": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
+   "t": "Director Takashi Yamazaki ups the ante by pitting Godzilla against one of the monster's greatest foes",
+   "l": [
+    [
+     "arstechnica.com",
+     "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/"
     ]
    ]
   },
@@ -78,17 +70,6 @@
     [
      "phys.org",
      "https://phys.org/news/2026-11-quantum-software-classical-benchmark-molecular.html"
-    ]
-   ]
-  },
-  {
-   "s": "Research",
-   "h": "Network Researchers Nail Down Theory of ‘Perfect Resilience’",
-   "t": "When links in a communication network go down, messages can get routed in a loop. Computer scientists now know that four simple network structures are to blame.",
-   "l": [
-    [
-     "quantamagazine.org",
-     "https://www.quantamagazine.org/network-researchers-nail-down-theory-of-perfect-resilience-20261120/"
     ]
    ]
   }
