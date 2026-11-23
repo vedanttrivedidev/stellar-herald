@@ -1,75 +1,94 @@
 {
- "date": "2026-11-23",
+ "date": "2026-11-24",
  "notify": [
   "Technology",
   "Physics",
   "Space"
  ],
- "breaking": [],
- "stories": [
+ "breaking": [
   {
-   "s": "Economics in Tech",
-   "h": "Asian stock markets tumble as AI bubble fears mount - Al Jazeera",
+   "h": "Nvidia CEO Jensen Huang resigns in wake of affair with woman suspected of spying for China - CBS News",
    "t": "",
    "l": [
     [
-     "aljazeera.com",
-     "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaWg2VjJNckwyMnpNTjV6cnBRckpmX2hndGxyM29qMnU0aml6bUNicGJPNXJKdzludzVfYVNhSHpJR0xhZjJMeHFDM3d4MldqQUJPbE9ha3VFbjMyLXFEeS1VSkFxejNJN2czNFlnMF9uNGdnb2lPUUdoTmZZeUFrbHFfNjVsZzc5QUVSR3hST2VYaDB1S2dYd0ktRWNoSHNmQUHSAacBQVVfeXFMUHlLZVl5SzNCcWd0RjktYlZwT2pDLXNDZmg1dzNKQ2k4VFZaa08xWjhQcEFubzhxYnpsZWxQU3ZIaGZSZlFzOGlrY3RRNUlLczVZRk8xN05VdkduMFRaVy03ME5zMWFtT0JSSWRqTzZ0cjVtUVBwYzJ5LWZhM0FiOFlSSlJHS1ZhcmZqeGlFdi1CLTBLeVpVSFNJVElhSnQxQmU4WS1hSWM?oc=5"
+     "cbsnews.com",
+     "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZT1ZmbWY1Z3Q4cE5KVWVRcWtIVkZwbFZIMzA3THRlTU1tUkM4Zi1ESHpicTFjYjlWblR0MW5TMUZMNy1MWFVzZGxPdXJzU3BIM2g4aGRSaXU3M3VHWVRfZGV5SWJLcjd2WXA3UUxn?oc=5"
+    ],
+    [
+     "theverge.com",
+     "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang"
+    ],
+    [
+     "theverge.com",
+     "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return"
     ]
    ]
-  },
+  }
+ ],
+ "stories": [
   {
-   "s": "Space",
-   "h": "Be ready to get a better view of the night sky in your backyard with 25% off the Celestron Cometron 7x50 binoculars in this Black Friday deal",
-   "t": "For Black Friday week, Amazon has slashed the price of these budget family binoculars down to $36, their lowest price since April. They are great for viewing the moon and constellations.",
+   "s": "Physics",
+   "h": "Overlooked symmetry group offers new geometric blueprint for the Standard Model and topologically protected vacuums",
+   "t": "For more than half a century, physicists searching for a grand unified theory have followed one unspoken rule: go bigger.",
    "l": [
     [
-     "space.com",
-     "https://www.space.com/stargazing/skywatching-kit/be-ready-to-get-a-better-view-of-the-night-sky-in-your-backyard-with-25-percent-off-the-celestron-cometron-7x50-binoculars-in-this-black-friday-deal"
+     "phys.org",
+     "https://phys.org/news/2026-11-overlooked-symmetry-group-geometric-blueprint.html"
     ]
    ]
   },
   {
    "s": "Technology",
-   "h": "Kodak’s next collectible is a tiny digital photo frame that doubles as a tracker",
-   "t": "After expanding its Charmera collection with a Millennium Edition featuring Y2K-inspired designs earlier this year, Reto's follow-up to its tiny Kodak camera is an equally small digital photo frame you can use to display your shots.",
+   "h": "Ladybird, the first new browser engine in years, is now available to test",
+   "t": "Ladybird, an independent web browser with a built-from-scratch engine, is finally available for testing. On Monday, Ladybird developer Andreas Kling announced that the browser is launching in alpha on macOS and Linux following more than four years of development.",
    "l": [
     [
      "theverge.com",
-     "https://www.theverge.com/tech/1038650/kodak-slidetag-keychain-photo-display-tracker-find-my-hub-google-apple-e-ink"
+     "https://www.theverge.com/tech/1040872/ladybird-indie-browser-engine-alpha-testing"
+    ]
+   ]
+  },
+  {
+   "s": "Economics in Tech",
+   "h": "Stocks surge and recover half of last week’s plunge as tech stocks rebound - Los Angeles Times",
+   "t": "",
+   "l": [
+    [
+     "latimes.com",
+     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdzlWTHNmX3lhNnFoWS1oV3BtLUprRHdyN2tRaVFLeGhSM2ZhSS1qZnNiaWJRX01Udmc3eW1Ca0Fhbnk3MVB1UVNCY0NHR1hWMDl5MldUM2ctT2VnSHlzYUN6ak94U2dhbG1JRXZLT0FFSnZPUmdvRjZRbzBrdzFUVWpxa3A5cGc5cjkzUFNxOHZqZnFDdktYRVlCR3Y3aTZQQ0FOZEk3Z243eEVxX0t4b1NFQ0dLUGdBVWxz?oc=5"
+    ]
+   ]
+  },
+  {
+   "s": "Space",
+   "h": "Will astronauts farm on the moon? Scientists successfully grow potatoes in simulated lunar dust",
+   "t": "Researchers have successfully grown potatoes in simulated lunar regolith, possibly opening the door for farming on future moon bases.",
+   "l": [
+    [
+     "space.com",
+     "https://www.space.com/astronomy/moon/will-astronauts-farm-on-the-moon-scientists-successfully-grow-potatoes-in-simulated-lunar-dust"
     ]
    ]
   },
   {
    "s": "Research",
-   "h": "How did the COP31 climate agreement fall apart – and what happens now?",
-   "t": "Division over fossil fuels at this year’s UN climate summit scotched any hope of a deal – despite Australian efforts.",
+   "h": "The Incredible, Elegant DNA Repair System Makes Gene Editing Work",
+   "t": "Genetic information is sturdy, but its physical structure is sensitive. Natural tools for repairing a cell’s thousands of daily injuries are fundamental to gene-editing technologies.",
    "l": [
     [
-     "theconversation.com",
-     "https://theconversation.com/how-did-the-cop31-climate-agreement-fall-apart-and-what-happens-now-296994"
+     "quantamagazine.org",
+     "https://www.quantamagazine.org/the-incredible-elegant-dna-repair-system-makes-gene-editing-work-20261123/"
     ]
    ]
   },
   {
    "s": "Science",
-   "h": "Common medications may secretly rewire your gut, with effects lasting for years",
-   "t": "Medications taken years or even long ago may leave lasting changes in your gut microbiome, according to a study of more than 2,500 people.",
+   "h": "A galactic shock wave could rewrite the map of the Milky Way",
+   "t": "A surprising discovery suggests the Milky Way may be making stars in places where most galaxies cannot. Scientists found evidence that a massive rotating structure near the galactic center is creating powerful shock waves that trigger star formation rather than suppress it.",
    "l": [
     [
      "sciencedaily.com",
-     "https://www.sciencedaily.com/releases/2026/11/261120071501.htm"
-    ]
-   ]
-  },
-  {
-   "s": "Physics",
-   "h": "Interstellar solar sails hit a bizarre problem at 75% of light speed",
-   "t": "Scientists have discovered a surprising obstacle to interstellar travel: at extreme speeds, the light propelling futuristic solar sails could actually begin slowing them down.",
-   "l": [
-    [
-     "sciencedaily.com",
-     "https://www.sciencedaily.com/releases/2026/11/261120071305.htm"
+     "https://www.sciencedaily.com/releases/2026/11/261122060329.htm"
     ]
    ]
   }
