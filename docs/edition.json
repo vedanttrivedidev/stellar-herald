@@ -1,5 +1,5 @@
 {
- "date": "2026-11-22",
+ "date": "2026-11-23",
  "notify": [
   "Technology",
   "Physics",
@@ -7,12 +7,16 @@
  ],
  "breaking": [
   {
-   "h": "NVIDIA CEO Resigns Due to Repeated Lies - 조선일보",
+   "h": "Grok claims Jensen Huang resigned as Nvidia CEO amid chip-export probes - Digg",
    "t": "",
    "l": [
     [
-     "chosun.com",
-     "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWDRBZ0Q5NDE0d1FUVXRPWUFkRlZuX0VUNkZqcFlHTk5tLUQ0cVQ4dFVvTWExNkZaQmNzaGxBbzVBYnZqVzAxRlFoMWFNUF9hdXNDQlBmM2dBbWNreU5BMm5JZk5qaVFfYWx0SXliWG9TYXlOampXTGRVQnc2cDYyZUxDNVF4aU9r?oc=5"
+     "digg.com",
+     "https://news.google.com/rss/articles/CBMiREFVX3lxTE5vQ3lYdFNtTUhtNUx5cWo4VDlZY1EtRGJsMkdoTnE5ME1sYzRoY1l4QUNBbi1jMFFyanlKbzlsNGdxTV83?oc=5"
+    ],
+    [
+     "theconversation.com",
+     "https://theconversation.com/from-ancient-asia-to-the-ai-age-has-chinas-beauty-stratagem-found-a-new-victim-in-nvidias-jensen-huang-296393"
     ]
    ]
   }
@@ -20,49 +24,56 @@
  "stories": [
   {
    "s": "Economics in Tech",
-   "h": "Nvidia Austerity — AI Industry Faces $1T Liquidity Shock & Credit Risks - The Korea Daily",
+   "h": "US rates will raise the bar for foreign investment in India: Jenny Johnson, CEO, Franklin Templeton - The Economic Times",
    "t": "",
    "l": [
     [
-     "en.koreadaily.com",
-     "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzcEs0ZW1ONVJJb1hubjVlRl9TWHVXY21UOUdWc3lyakwtcG5RSUJnVWlqbzN1UFZJQmxMb0pHa1p2WXdmLWlCbjN3V0VfT203SGVBUDJGN0FnWWZsWi1OTFBVR2I4M1NoSV9JUVpjTQ?oc=5"
-    ],
-    [
-     "koreajoongangdaily.com",
-     "https://news.google.com/rss/articles/CBMingFBVV95cUxObkhreUxlNnBvZ2o0TFRXWlFyQWJTMVR6em1DcGhfSk40VUFTQ2ExSHUteC1remdvTDg0M0tGR1NZaTZURGtSRktTY0sySzQ4d2g4NFZKanFBM0o2T1VEdW1DSnUzWDRkakxMUUNfQnZkNmZsZ0xNejhnMFNUQkZzVHA1eXg1MlB0eExITGhHSjJ2MzNYZURzQmJFMjdKdw?oc=5"
+     "m.economictimes.com",
+     "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdWJVUC1yX0xUcnlYcFZpRWpBRW1vWFMxNGxncF83ZVBmMldFbzZpZmRVMW44ajhjVVV1QUVramdjZzJhQWFTUDloYXN3ZXp4RGRwLTh3dlF5X1lpV0luQmtNeGZZdDRIYlg5d3NubHNuTzRUaTVpRDQ2clNKSHM5dUdZVjI2cE1jNE9OeGNtUG85NTU1NHp3anhtWkVXY0p0UVR1b2EyZnNiMXg5dFh0Y01DZV9fRlJuekNHRmhCMlhpZVYyblNVWTh1c2Eyd9IB0wFBVV95cUxOeXE5WnRxcXJyV0dDeDVFOHpqeUloM2hfM1dacEttREIxdFFYN05WNVIzczY2bkVKbUd2dHVQdzBZLW5WY09KazFvcHU4TS1pdVByX0xoZGZKR0NuMlgycTZETFRVWDdpSU1uNFhTWHFKc1paMmg1VlVlVXdyajZ4UkVndnlMYWxLMU9EaTRGekZSZUMwMFdQNGRoRTFHejZsSFM5YV94VktSOHdVQ3FrREtJLU45NmljOVJJd0MxSmpOSG9laUY0ckpiQjVmd2FXXzQ4?oc=5"
     ]
    ]
   },
   {
    "s": "Technology",
-   "h": "Protesters storm Meta offices in India",
-   "t": "Members of the opposition Congress party protested outside Meta's offices in Delhi on Friday and appear to have entered the building in a video shared by CNN.",
+   "h": "We haven’t seen the last of the major tech outages",
+   "t": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come.",
    "l": [
     [
      "theverge.com",
-     "https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india"
+     "https://www.theverge.com/tech/1039851/major-tech-outages"
     ]
    ]
   },
   {
    "s": "Space",
-   "h": "This viral star projector has been hyped to Mars and back, but we hunted down the best version you can buy",
-   "t": "The AI adverts for the Zanbix 2 in 1 Galaxy Projector Night Light are downright bizarre — we cut through the hype to bring you a version that actually delivers",
+   "h": "Watch live on Nov. 23: Amazon launching 1st batch of internet satellites since Vulcan Centaur failure",
+   "t": "An Ariane 6 rocket will launch 36 Amazon broadband satellites to orbit early on Nov. 23, just eight days after a ULA Vulcan Centaur failed during its mission for Amazon. Watch it live here.",
    "l": [
     [
      "space.com",
-     "https://www.space.com/stargazing/skywatching-kit/this-viral-star-projector-has-been-hyped-to-mars-and-back-but-we-hunted-down-the-best-version-you-can-buy"
+     "https://www.space.com/space-exploration/launches-spacecraft/arianespace-ariane-6-amazon-leo-internet-satellite-launch"
     ]
    ]
   },
   {
    "s": "Science",
-   "h": "Time may be far stranger than we realize. Scientists have a way to test it",
-   "t": "",
+   "h": "Common medications may secretly rewire your gut, with effects lasting for years",
+   "t": "Medications taken years or even long ago may leave lasting changes in your gut microbiome, according to a study of more than 2,500 people.",
    "l": [
     [
      "sciencedaily.com",
-     "https://www.sciencedaily.com/releases/2026/11/261120075558.htm"
+     "https://www.sciencedaily.com/releases/2026/11/261120071501.htm"
+    ]
+   ]
+  },
+  {
+   "s": "Physics",
+   "h": "Interstellar solar sails hit a bizarre problem at 75% of light speed",
+   "t": "Scientists have discovered a surprising obstacle to interstellar travel: at extreme speeds, the light propelling futuristic solar sails could actually begin slowing them down.",
+   "l": [
+    [
+     "sciencedaily.com",
+     "https://www.sciencedaily.com/releases/2026/11/261120071305.htm"
     ]
    ]
   }
