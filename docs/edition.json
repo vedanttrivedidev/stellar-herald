@@ -5,53 +5,49 @@
   "Physics",
   "Space"
  ],
- "breaking": [
-  {
-   "h": "Grok claims Jensen Huang resigned as Nvidia CEO amid chip-export probes - Digg",
-   "t": "",
-   "l": [
-    [
-     "digg.com",
-     "https://news.google.com/rss/articles/CBMiREFVX3lxTE5vQ3lYdFNtTUhtNUx5cWo4VDlZY1EtRGJsMkdoTnE5ME1sYzRoY1l4QUNBbi1jMFFyanlKbzlsNGdxTV83?oc=5"
-    ],
-    [
-     "theconversation.com",
-     "https://theconversation.com/from-ancient-asia-to-the-ai-age-has-chinas-beauty-stratagem-found-a-new-victim-in-nvidias-jensen-huang-296393"
-    ]
-   ]
-  }
- ],
+ "breaking": [],
  "stories": [
   {
    "s": "Economics in Tech",
-   "h": "US rates will raise the bar for foreign investment in India: Jenny Johnson, CEO, Franklin Templeton - The Economic Times",
+   "h": "Asian stock markets tumble as AI bubble fears mount - Al Jazeera",
    "t": "",
    "l": [
     [
-     "m.economictimes.com",
-     "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdWJVUC1yX0xUcnlYcFZpRWpBRW1vWFMxNGxncF83ZVBmMldFbzZpZmRVMW44ajhjVVV1QUVramdjZzJhQWFTUDloYXN3ZXp4RGRwLTh3dlF5X1lpV0luQmtNeGZZdDRIYlg5d3NubHNuTzRUaTVpRDQ2clNKSHM5dUdZVjI2cE1jNE9OeGNtUG85NTU1NHp3anhtWkVXY0p0UVR1b2EyZnNiMXg5dFh0Y01DZV9fRlJuekNHRmhCMlhpZVYyblNVWTh1c2Eyd9IB0wFBVV95cUxOeXE5WnRxcXJyV0dDeDVFOHpqeUloM2hfM1dacEttREIxdFFYN05WNVIzczY2bkVKbUd2dHVQdzBZLW5WY09KazFvcHU4TS1pdVByX0xoZGZKR0NuMlgycTZETFRVWDdpSU1uNFhTWHFKc1paMmg1VlVlVXdyajZ4UkVndnlMYWxLMU9EaTRGekZSZUMwMFdQNGRoRTFHejZsSFM5YV94VktSOHdVQ3FrREtJLU45NmljOVJJd0MxSmpOSG9laUY0ckpiQjVmd2FXXzQ4?oc=5"
-    ]
-   ]
-  },
-  {
-   "s": "Technology",
-   "h": "We haven’t seen the last of the major tech outages",
-   "t": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come.",
-   "l": [
-    [
-     "theverge.com",
-     "https://www.theverge.com/tech/1039851/major-tech-outages"
+     "aljazeera.com",
+     "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaWg2VjJNckwyMnpNTjV6cnBRckpmX2hndGxyM29qMnU0aml6bUNicGJPNXJKdzludzVfYVNhSHpJR0xhZjJMeHFDM3d4MldqQUJPbE9ha3VFbjMyLXFEeS1VSkFxejNJN2czNFlnMF9uNGdnb2lPUUdoTmZZeUFrbHFfNjVsZzc5QUVSR3hST2VYaDB1S2dYd0ktRWNoSHNmQUHSAacBQVVfeXFMUHlLZVl5SzNCcWd0RjktYlZwT2pDLXNDZmg1dzNKQ2k4VFZaa08xWjhQcEFubzhxYnpsZWxQU3ZIaGZSZlFzOGlrY3RRNUlLczVZRk8xN05VdkduMFRaVy03ME5zMWFtT0JSSWRqTzZ0cjVtUVBwYzJ5LWZhM0FiOFlSSlJHS1ZhcmZqeGlFdi1CLTBLeVpVSFNJVElhSnQxQmU4WS1hSWM?oc=5"
     ]
    ]
   },
   {
    "s": "Space",
-   "h": "Watch live on Nov. 23: Amazon launching 1st batch of internet satellites since Vulcan Centaur failure",
-   "t": "An Ariane 6 rocket will launch 36 Amazon broadband satellites to orbit early on Nov. 23, just eight days after a ULA Vulcan Centaur failed during its mission for Amazon. Watch it live here.",
+   "h": "Be ready to get a better view of the night sky in your backyard with 25% off the Celestron Cometron 7x50 binoculars in this Black Friday deal",
+   "t": "For Black Friday week, Amazon has slashed the price of these budget family binoculars down to $36, their lowest price since April. They are great for viewing the moon and constellations.",
    "l": [
     [
      "space.com",
-     "https://www.space.com/space-exploration/launches-spacecraft/arianespace-ariane-6-amazon-leo-internet-satellite-launch"
+     "https://www.space.com/stargazing/skywatching-kit/be-ready-to-get-a-better-view-of-the-night-sky-in-your-backyard-with-25-percent-off-the-celestron-cometron-7x50-binoculars-in-this-black-friday-deal"
+    ]
+   ]
+  },
+  {
+   "s": "Technology",
+   "h": "Kodak’s next collectible is a tiny digital photo frame that doubles as a tracker",
+   "t": "After expanding its Charmera collection with a Millennium Edition featuring Y2K-inspired designs earlier this year, Reto's follow-up to its tiny Kodak camera is an equally small digital photo frame you can use to display your shots.",
+   "l": [
+    [
+     "theverge.com",
+     "https://www.theverge.com/tech/1038650/kodak-slidetag-keychain-photo-display-tracker-find-my-hub-google-apple-e-ink"
+    ]
+   ]
+  },
+  {
+   "s": "Research",
+   "h": "How did the COP31 climate agreement fall apart – and what happens now?",
+   "t": "Division over fossil fuels at this year’s UN climate summit scotched any hope of a deal – despite Australian efforts.",
+   "l": [
+    [
+     "theconversation.com",
+     "https://theconversation.com/how-did-the-cop31-climate-agreement-fall-apart-and-what-happens-now-296994"
     ]
    ]
   },
