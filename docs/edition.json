@@ -1,20 +1,83 @@
 {
- "date": "2026-11-24",
+ "date": "2026-11-25",
  "notify": [
   "Technology",
   "Physics",
   "Space"
  ],
- "breaking": [],
+ "breaking": [
+  {
+   "h": "Fallout after ousted Nvidia chief reinstated following spy scandal, affairs - 6abc Philadelphia",
+   "t": "",
+   "l": [
+    [
+     "6abc.com",
+     "https://news.google.com/rss/articles/CBMirwFBVV95cUxOd0hJQlRSSFV0c2FlZ3c4VmxqVzE2a3lUTFlZdEF5RXJUZG9CV3B4U2Z5R2NSbzBsc1NIaWktYTJGbWUzeGo3LTdIRlVLNUNoQ19QcGYwMHBZZ21tTUZaaUpmMnNXbWhIRWFkOXlqYWFITHFOZzBDM0preDI1ZGI4MmNORm9rWXJiVjZRN0JweXhubUE1NlQxb2g0YWJxbEdBa2V4OFJ1bXIzbzRYbkNF?oc=5"
+    ],
+    [
+     "newindianexpress.com",
+     "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTldqS3pPZjNZc2NKb192TVNtZXZOUmNPNUFfaDZ2SnRUV1BYSnE2YXBFa2UzVjhMTVZyNWFtd3UwRHZIWU90NE93aDgxWDVSZXRRMnRRNjlKTkhhRnNLOTQxN2R0YU1SQUh0dmVXa3VoQWVNNzVaZEU0M090VlF0b2ZFN0V3OXh6XzdxcEpPOU1IUkxWRWMweFhvUmw5cWdCekthTi12N1FJVTh1QzVLb3NZSnRSWGNGeVlENnJFZTdaREwzRVHSAdMBQVVfeXFMUHotSlp5bmk4SjN0QVg0Tm8wQlctSXZUNUtiaXYxaDRHN0FEWDRlam13V29XVElSQlI1cHZBZjlaYkZFeFZaclRQNXNFUkYtaWJxTWFWSEs2bzlmcHZITEc3a3VCRFlsaDNkNVVJZVV4Yy1KVXBCN09uaDJrUW9GNXgxdE9lV2E1MjMyU2NFRU5vRWVBS0Q0Y1BpcnZuc2lwZUZmZWVaYWFNRXdDc29ZMHZoNXVZOXpNamFtODJpajVqaGs5UmlsLVlyTFlWdzZpX1haVQ?oc=5"
+    ]
+   ]
+  }
+ ],
  "stories": [
   {
+   "s": "Technology",
+   "h": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
+   "t": "3 percent of Tidal's catalog, but it's about to be zero.",
+   "l": [
+    [
+     "arstechnica.com",
+     "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/"
+    ],
+    [
+     "theverge.com",
+     "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban"
+    ]
+   ]
+  },
+  {
+   "s": "Economics in Tech",
+   "h": "Faisal Islam: Fears over the AI boom haven't gone away - BBC",
+   "t": "",
+   "l": [
+    [
+     "bbc.co.uk",
+     "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5RM0xEOUl2SkJBMW9EazZtbk9PWWtTc21reGNrbXBOZUVIaUVIQ0t2YTNESHF3SWhncTR3UUtub1pnZ1NrVmFzWnRPdnQ3Ylp3bTQxRlkySWx3Um15Zmc?oc=5"
+    ]
+   ]
+  },
+  {
    "s": "Physics",
-   "h": "Ultracold atoms reveal first direct view of bound-pair motion in a fracton system",
-   "t": "Particles can generally move between neighboring sites in a crystal, a solid in which atoms are arranged in a regular, repeating pattern, or an optical lattice, an arrangement of laser-based traps that confines atoms.",
+   "h": "New theoretical model allows for sustained entanglement between diamond qubits at greater separations",
+   "t": "In a new study accepted in the journal Physical Review B, a team of physicists from the University of Delaware may have found a way to overcome limitations in maintaining the entanglement of diamond qubits.",
    "l": [
     [
      "phys.org",
-     "https://phys.org/news/2026-11-ultracold-atoms-reveal-view-bound.html"
+     "https://phys.org/news/2026-11-theoretical-sustained-entanglement-diamond-qubits.html"
+    ]
+   ]
+  },
+  {
+   "s": "Space",
+   "h": "Webb Reveals New Details in Supernova Remnant",
+   "t": "NASA’s James Webb Space Telescope reveals the hot dust that makes up Cassiopeia A (Cas A) in this high-resolution, mid-infrared image released on Nov. 23, 2026.",
+   "l": [
+    [
+     "nasa.gov",
+     "https://www.nasa.gov/image-article/webb-reveals-new-details-in-supernova-remnant/"
+    ]
+   ]
+  },
+  {
+   "s": "Research",
+   "h": "Justice is elusive for the Rohingya even after the ICJ’s landmark genocide ruling against Myanmar",
+   "t": "The prospect of a safe and dignified repatriation of the Rohingya to Myanmar is a near impossibility despite the IJC ruling.",
+   "l": [
+    [
+     "theconversation.com",
+     "https://theconversation.com/justice-is-elusive-for-the-rohingya-even-after-the-icjs-landmark-genocide-ruling-against-myanmar-297125"
     ]
    ]
   },
@@ -26,66 +89,6 @@
     [
      "sciencedaily.com",
      "https://www.sciencedaily.com/releases/2026/11/261123232342.htm"
-    ]
-   ]
-  },
-  {
-   "s": "Space",
-   "h": "November’s full moon rises tonight! Here’s how to see the Beaver Moon supermoon",
-   "t": "A dam good moon.",
-   "l": [
-    [
-     "space.com",
-     "https://www.space.com/stargazing/novembers-full-moon-rises-tonight-heres-how-to-see-the-beaver-moon-supermoon-nov-24-2026"
-    ]
-   ]
-  },
-  {
-   "s": "Economics in Tech",
-   "h": "US targets chip smuggling to China after Huang's return to scandal-hit Nvidia - The New Indian Express",
-   "t": "",
-   "l": [
-    [
-     "newindianexpress.com",
-     "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTldqS3pPZjNZc2NKb192TVNtZXZOUmNPNUFfaDZ2SnRUV1BYSnE2YXBFa2UzVjhMTVZyNWFtd3UwRHZIWU90NE93aDgxWDVSZXRRMnRRNjlKTkhhRnNLOTQxN2R0YU1SQUh0dmVXa3VoQWVNNzVaZEU0M090VlF0b2ZFN0V3OXh6XzdxcEpPOU1IUkxWRWMweFhvUmw5cWdCekthTi12N1FJVTh1QzVLb3NZSnRSWGNGeVlENnJFZTdaREwzRVHSAdMBQVVfeXFMUHotSlp5bmk4SjN0QVg0Tm8wQlctSXZUNUtiaXYxaDRHN0FEWDRlam13V29XVElSQlI1cHZBZjlaYkZFeFZaclRQNXNFUkYtaWJxTWFWSEs2bzlmcHZITEc3a3VCRFlsaDNkNVVJZVV4Yy1KVXBCN09uaDJrUW9GNXgxdE9lV2E1MjMyU2NFRU5vRWVBS0Q0Y1BpcnZuc2lwZUZmZWVaYWFNRXdDc29ZMHZoNXVZOXpNamFtODJpajVqaGs5UmlsLVlyTFlWdzZpX1haVQ?oc=5"
-    ],
-    [
-     "finance.yahoo.com",
-     "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUXo0NUxHc05haUxwRmtPNWNMX2I0NEdwcWZ0QzhOR1FGUE9WZ21nY3dkU1VxTkNjc2xnMmEzVjVjQ1hLTHpVcmxwN0Z5MVJsR3Q3MGdkcmc3dDE5ME42eHFydUxqa0NzdENJTTRMcEFraUJJWC1EUkVfQ255dDA1dXZXbVpHbzFxSjdfSlRjLTBDbkxCRjB2VWMxYm9IbU1uNzBRMmlGZXh1QTMxTTE4LUNOZ29GaExBSV90XzRTMWpIUHkzRkJodjlfcFlXVXJBWmRYVFdOLWV1cVNTN2JtdE55MGh3TjJ4ZDRBQTZXQ05HNjg?oc=5"
-    ],
-    [
-     "cnbc.com",
-     "https://news.google.com/rss/articles/CBMieEFVX3lxTE52aUdsdjBXTkFjSkg1UVpmamJ6cXNsRWxPSGRGZXNMOFNuRWFHZEdudVdnQ2pRS0xKbFJvRUJmYldqSEl6UzFseHJWZzdENkNrbEdXd05yWEpyU3NOQjM3TVNjZUcyYVlKZ0RGTFlPVWF2T2hvX0tUVdIBfkFVX3lxTE9jTGJUVzdZamlIUjdnZlVNYkVhaDJ4MzY5MmpTZUpGMl9GRjZDSTNGR2FGenRsN0djalZxbjlrWUNCUXFOME9HdHdVTzdPTE9KT28wei1iTXl3bUxLSTZKRm1VWGhXVlhFQUpRMTV4ak9tUUtGdXZ6b29YNWhCQQ?oc=5"
-    ]
-   ]
-  },
-  {
-   "s": "Technology",
-   "h": "Nvidia CEO Jensen Huang is back. What happens next?",
-   "t": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation.",
-   "l": [
-    [
-     "theverge.com",
-     "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang"
-    ],
-    [
-     "arstechnica.com",
-     "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/"
-    ],
-    [
-     "businessinsider.com",
-     "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN2IxYUd4RUpyMlphZEc2NEs2akF4N01LV195aWNBd0F5TEtTWlFHeW9Tb3Raa1UtYUFMeWVlWjRaZXBzUWVUTFo1b0ZWemRNWEZRY2VUTUlTMUpxb3E1YWhINkJFV2pIU2UyN3RPRm90LWVsT19GRHNWZUlqWWJOeHFRcExyRTlFMjFyYTF2WmRkSGFSMnlrYmd3YnJYVjg?oc=5"
-    ]
-   ]
-  },
-  {
-   "s": "Research",
-   "h": "PNG’s parliament is voting on ratifying Bougainville independence. A ‘no’ won’t be the end of the story",
-   "t": "After more than a century of colonial rule, a brutal war and a hard-won peace, Bougainville is approaching the finals steps of its road to self-determination.",
-   "l": [
-    [
-     "theconversation.com",
-     "https://theconversation.com/pngs-parliament-is-voting-on-ratifying-bougainville-independence-a-no-wont-be-the-end-of-the-story-290063"
     ]
    ]
   }
