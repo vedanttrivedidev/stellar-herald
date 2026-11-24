@@ -5,90 +5,87 @@
   "Physics",
   "Space"
  ],
- "breaking": [
-  {
-   "h": "Nvidia CEO Jensen Huang resigns in wake of affair with woman suspected of spying for China - CBS News",
-   "t": "",
-   "l": [
-    [
-     "cbsnews.com",
-     "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZT1ZmbWY1Z3Q4cE5KVWVRcWtIVkZwbFZIMzA3THRlTU1tUkM4Zi1ESHpicTFjYjlWblR0MW5TMUZMNy1MWFVzZGxPdXJzU3BIM2g4aGRSaXU3M3VHWVRfZGV5SWJLcjd2WXA3UUxn?oc=5"
-    ],
-    [
-     "theverge.com",
-     "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang"
-    ],
-    [
-     "theverge.com",
-     "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return"
-    ]
-   ]
-  }
- ],
+ "breaking": [],
  "stories": [
   {
    "s": "Physics",
-   "h": "Overlooked symmetry group offers new geometric blueprint for the Standard Model and topologically protected vacuums",
-   "t": "For more than half a century, physicists searching for a grand unified theory have followed one unspoken rule: go bigger.",
+   "h": "Ultracold atoms reveal first direct view of bound-pair motion in a fracton system",
+   "t": "Particles can generally move between neighboring sites in a crystal, a solid in which atoms are arranged in a regular, repeating pattern, or an optical lattice, an arrangement of laser-based traps that confines atoms.",
    "l": [
     [
      "phys.org",
-     "https://phys.org/news/2026-11-overlooked-symmetry-group-geometric-blueprint.html"
-    ]
-   ]
-  },
-  {
-   "s": "Technology",
-   "h": "Ladybird, the first new browser engine in years, is now available to test",
-   "t": "Ladybird, an independent web browser with a built-from-scratch engine, is finally available for testing. On Monday, Ladybird developer Andreas Kling announced that the browser is launching in alpha on macOS and Linux following more than four years of development.",
-   "l": [
-    [
-     "theverge.com",
-     "https://www.theverge.com/tech/1040872/ladybird-indie-browser-engine-alpha-testing"
-    ]
-   ]
-  },
-  {
-   "s": "Economics in Tech",
-   "h": "Stocks surge and recover half of last week’s plunge as tech stocks rebound - Los Angeles Times",
-   "t": "",
-   "l": [
-    [
-     "latimes.com",
-     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdzlWTHNmX3lhNnFoWS1oV3BtLUprRHdyN2tRaVFLeGhSM2ZhSS1qZnNiaWJRX01Udmc3eW1Ca0Fhbnk3MVB1UVNCY0NHR1hWMDl5MldUM2ctT2VnSHlzYUN6ak94U2dhbG1JRXZLT0FFSnZPUmdvRjZRbzBrdzFUVWpxa3A5cGc5cjkzUFNxOHZqZnFDdktYRVlCR3Y3aTZQQ0FOZEk3Z243eEVxX0t4b1NFQ0dLUGdBVWxz?oc=5"
-    ]
-   ]
-  },
-  {
-   "s": "Space",
-   "h": "Will astronauts farm on the moon? Scientists successfully grow potatoes in simulated lunar dust",
-   "t": "Researchers have successfully grown potatoes in simulated lunar regolith, possibly opening the door for farming on future moon bases.",
-   "l": [
-    [
-     "space.com",
-     "https://www.space.com/astronomy/moon/will-astronauts-farm-on-the-moon-scientists-successfully-grow-potatoes-in-simulated-lunar-dust"
-    ]
-   ]
-  },
-  {
-   "s": "Research",
-   "h": "The Incredible, Elegant DNA Repair System Makes Gene Editing Work",
-   "t": "Genetic information is sturdy, but its physical structure is sensitive. Natural tools for repairing a cell’s thousands of daily injuries are fundamental to gene-editing technologies.",
-   "l": [
-    [
-     "quantamagazine.org",
-     "https://www.quantamagazine.org/the-incredible-elegant-dna-repair-system-makes-gene-editing-work-20261123/"
+     "https://phys.org/news/2026-11-ultracold-atoms-reveal-view-bound.html"
     ]
    ]
   },
   {
    "s": "Science",
-   "h": "A galactic shock wave could rewrite the map of the Milky Way",
-   "t": "A surprising discovery suggests the Milky Way may be making stars in places where most galaxies cannot. Scientists found evidence that a massive rotating structure near the galactic center is creating powerful shock waves that trigger star formation rather than suppress it.",
+   "h": "2,200-year-old Roman shipwreck reveals an ingenious waterproofing trick",
+   "t": "A 2,200-year-old Roman shipwreck has revealed sophisticated waterproofing techniques involving pine tar and beeswax.",
    "l": [
     [
      "sciencedaily.com",
-     "https://www.sciencedaily.com/releases/2026/11/261122060329.htm"
+     "https://www.sciencedaily.com/releases/2026/11/261123232342.htm"
+    ]
+   ]
+  },
+  {
+   "s": "Space",
+   "h": "November’s full moon rises tonight! Here’s how to see the Beaver Moon supermoon",
+   "t": "A dam good moon.",
+   "l": [
+    [
+     "space.com",
+     "https://www.space.com/stargazing/novembers-full-moon-rises-tonight-heres-how-to-see-the-beaver-moon-supermoon-nov-24-2026"
+    ]
+   ]
+  },
+  {
+   "s": "Economics in Tech",
+   "h": "US targets chip smuggling to China after Huang's return to scandal-hit Nvidia - The New Indian Express",
+   "t": "",
+   "l": [
+    [
+     "newindianexpress.com",
+     "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTldqS3pPZjNZc2NKb192TVNtZXZOUmNPNUFfaDZ2SnRUV1BYSnE2YXBFa2UzVjhMTVZyNWFtd3UwRHZIWU90NE93aDgxWDVSZXRRMnRRNjlKTkhhRnNLOTQxN2R0YU1SQUh0dmVXa3VoQWVNNzVaZEU0M090VlF0b2ZFN0V3OXh6XzdxcEpPOU1IUkxWRWMweFhvUmw5cWdCekthTi12N1FJVTh1QzVLb3NZSnRSWGNGeVlENnJFZTdaREwzRVHSAdMBQVVfeXFMUHotSlp5bmk4SjN0QVg0Tm8wQlctSXZUNUtiaXYxaDRHN0FEWDRlam13V29XVElSQlI1cHZBZjlaYkZFeFZaclRQNXNFUkYtaWJxTWFWSEs2bzlmcHZITEc3a3VCRFlsaDNkNVVJZVV4Yy1KVXBCN09uaDJrUW9GNXgxdE9lV2E1MjMyU2NFRU5vRWVBS0Q0Y1BpcnZuc2lwZUZmZWVaYWFNRXdDc29ZMHZoNXVZOXpNamFtODJpajVqaGs5UmlsLVlyTFlWdzZpX1haVQ?oc=5"
+    ],
+    [
+     "finance.yahoo.com",
+     "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUXo0NUxHc05haUxwRmtPNWNMX2I0NEdwcWZ0QzhOR1FGUE9WZ21nY3dkU1VxTkNjc2xnMmEzVjVjQ1hLTHpVcmxwN0Z5MVJsR3Q3MGdkcmc3dDE5ME42eHFydUxqa0NzdENJTTRMcEFraUJJWC1EUkVfQ255dDA1dXZXbVpHbzFxSjdfSlRjLTBDbkxCRjB2VWMxYm9IbU1uNzBRMmlGZXh1QTMxTTE4LUNOZ29GaExBSV90XzRTMWpIUHkzRkJodjlfcFlXVXJBWmRYVFdOLWV1cVNTN2JtdE55MGh3TjJ4ZDRBQTZXQ05HNjg?oc=5"
+    ],
+    [
+     "cnbc.com",
+     "https://news.google.com/rss/articles/CBMieEFVX3lxTE52aUdsdjBXTkFjSkg1UVpmamJ6cXNsRWxPSGRGZXNMOFNuRWFHZEdudVdnQ2pRS0xKbFJvRUJmYldqSEl6UzFseHJWZzdENkNrbEdXd05yWEpyU3NOQjM3TVNjZUcyYVlKZ0RGTFlPVWF2T2hvX0tUVdIBfkFVX3lxTE9jTGJUVzdZamlIUjdnZlVNYkVhaDJ4MzY5MmpTZUpGMl9GRjZDSTNGR2FGenRsN0djalZxbjlrWUNCUXFOME9HdHdVTzdPTE9KT28wei1iTXl3bUxLSTZKRm1VWGhXVlhFQUpRMTV4ak9tUUtGdXZ6b29YNWhCQQ?oc=5"
+    ]
+   ]
+  },
+  {
+   "s": "Technology",
+   "h": "Nvidia CEO Jensen Huang is back. What happens next?",
+   "t": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation.",
+   "l": [
+    [
+     "theverge.com",
+     "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang"
+    ],
+    [
+     "arstechnica.com",
+     "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/"
+    ],
+    [
+     "businessinsider.com",
+     "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN2IxYUd4RUpyMlphZEc2NEs2akF4N01LV195aWNBd0F5TEtTWlFHeW9Tb3Raa1UtYUFMeWVlWjRaZXBzUWVUTFo1b0ZWemRNWEZRY2VUTUlTMUpxb3E1YWhINkJFV2pIU2UyN3RPRm90LWVsT19GRHNWZUlqWWJOeHFRcExyRTlFMjFyYTF2WmRkSGFSMnlrYmd3YnJYVjg?oc=5"
+    ]
+   ]
+  },
+  {
+   "s": "Research",
+   "h": "PNG’s parliament is voting on ratifying Bougainville independence. A ‘no’ won’t be the end of the story",
+   "t": "After more than a century of colonial rule, a brutal war and a hard-won peace, Bougainville is approaching the finals steps of its road to self-determination.",
+   "l": [
+    [
+     "theconversation.com",
+     "https://theconversation.com/pngs-parliament-is-voting-on-ratifying-bougainville-independence-a-no-wont-be-the-end-of-the-story-290063"
     ]
    ]
   }
