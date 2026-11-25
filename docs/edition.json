@@ -1,5 +1,5 @@
 {
- "date": "2026-11-25",
+ "date": "2026-11-26",
  "notify": [
   "Technology",
   "Physics",
@@ -7,12 +7,16 @@
  ],
  "breaking": [
   {
-   "h": "Sleeping With a Subordinate Gets CEOs Fired. Except for Jensen Huang. - Bloomberg",
+   "h": "Another Congressman Sold Nvidia Stock Right Before Huang’s Resignation, But He’s Been Selling for Years - Benzinga",
    "t": "",
    "l": [
     [
-     "bloomberg.com",
-     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRlRIanR1LUE4SVFReHRrUFVxUGd3bk5Kd2dyNkNWd3lNTmphMW1vZmd5ZXVCcS11eDFlMHljaHNYOVRwdWREaXF1enY1RGVaYms5Sl94OXAyQ3BCLUJSaXpyOXVUaFhJNEs2cFJSMEVtRlRraUpGZGU4dmNFbXdJWFJpcVpLejZoN2U0dkxMbDRnRHdlcTd4dlhyYUdRNFJiUndvU1pJcWV3dlY3ei1FRXZDaHRBZExkNXBoUEJrX2Q4MjBrSURUZw?oc=5"
+     "benzinga.com",
+     "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQQm9yOWVOVWZaUlRWN1gtT0Z0MGRCcGpWamg4UnNvOTZtQ2hrcmh5WmdjeXczNHFwSEJINmFvMnAtZGVVOHFXc29SUzQ3WkQ0ZmNQdi05TmpOR0kta0tyd24wOXhlbGN4QjVOZW4xRVhkSTRKdDRBWVNremNjQUM2RERtamZPR0RXNnFGTmxpdjZXMTA0Z3cxcFNoRzVoWWVpUW5NVEg4V2w1MzBRZG1WQi1McFZiQ3Awam52Z0htUU1WTm5jVGkwZjZRNkRPTDYzU3ZIVFhvYXNlSkpsdjNmOHlrdlROc09SZ3c?oc=5"
+    ],
+    [
+     "kten.com",
+     "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUFJGc0txeEo5djVhX0x2NEotNTdFdk9VckRadm1Mb0VzTFg2cWVRVEJ1Vm1iQnJpWWdEQzJtaGVxcm1idE9RTHFrSW1VQ0JqSlFHckgtZ0RwTHZQVmZjd0lNNTB1U2pzcEVQX1JoQURXb0l4Zkl0VnQtRVp2MGFLclAycjN6MjVibTUwTDI1X2NoNUFIZGNMVW43YVY4YlRMNlJZYTdocVJCOWJRSTJvZl9xakhrTTkwZVBVNmZkbGdKVElXX3ZFS2ZBRnppMVpzWE1KZ1VySkhqSFRiY09mVld0bUhkdUdhMkdvWQ?oc=5"
     ]
    ]
   }
@@ -20,23 +24,72 @@
  "stories": [
   {
    "s": "Technology",
-   "h": "AI can do the calculations. Theoretical physicists are figuring out what comes next.",
-   "t": "Frontier AI is already solving problems that once took top physicists a full day.",
+   "h": "EPA reports ‘zero’ airborne lead following controlled Army detonation in Iowa",
+   "t": "Saying it was necessary to prevent the possible spontaneous explosion of a stockpile of material used in igniters and blasting caps, the US Army conducted a controlled detonation of over 9,700 pounds of lead azide today at the Iowa Army Ammunition Plant (IAAAP",
    "l": [
     [
+     "theverge.com",
+     "https://www.theverge.com/science/1042109/us-army-detonation-lead-azide-explosives-iowa-ammunition-plant"
+    ],
+    [
      "arstechnica.com",
-     "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/"
+     "https://arstechnica.com/health/2026/11/army-detonates-tons-of-lead-azide-as-local-residents-brace-for-toxic-plume/"
+    ],
+    [
+     "space.com",
+     "https://www.space.com/technology/aerospace/nasa-sends-planes-to-monitor-us-armys-lead-detonation-irresponsible-to-compare-it-to-chernobyl-agency-chief-says"
     ]
    ]
   },
   {
    "s": "Space",
-   "h": "November's full moon dazzles skywatchers with a stunning Beaver Moon supermoon (photos)",
-   "t": "From the skyscrapers of New York to the ancient Parthenon in Athens, the Beaver Moon supermoon put on a spectacular show for skywatchers around the world.",
+   "h": "On this day in space! Nov. 25, 1970: NASA's 'wingless' M2-F3 'lifting body' aircraft makes its 1st powered flight ahead of supersonic tests",
+   "t": "On Nov. 25, 1970, an experimental aircraft called the Northrop M2-F3 made its first powered flight. Here's why it mattered.",
    "l": [
     [
      "space.com",
-     "https://www.space.com/stargazing/novembers-full-moon-dazzles-skywatchers-with-a-stunning-beaver-moon-supermoon-photos-nov-24-2026"
+     "https://www.space.com/space-exploration/on-this-day-in-space-november-25-2026"
+    ]
+   ]
+  },
+  {
+   "s": "Economics in Tech",
+   "h": "The AI trade is unraveling days after Jensen Huang's comeback sparked a monster rally - Business Insider",
+   "t": "",
+   "l": [
+    [
+     "businessinsider.com",
+     "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUGs5NV81UHM4cDZtWGJ2UTAyX0VyeksycmNXN0F1RDFyZmpXaTNVNmllSkhkTm5Ncnh4T1RHRU9VWWpjMzJUNmtLeGJwNUtNVHAyWXRiWExKRW1DalJjZk5LUGZqWFhLRWprclZYWVN0VHgyTE51aWUzdndmUVh0Q2puOHFHbHVBVXdTdUR3YWRiZ2hNXzM1NjN0MVd4UUlRNXlDdw?oc=5"
+    ],
+    [
+     "theguardian.com",
+     "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZUk2WFAzeE45VlllNGFmRXN3UXBzM3puMV9GdURNYVJIcWxwQmpCN2p4Ni0zSC11YzNMaVp4RVNtV1BSUVB4cFd4bG5fMlowU09FM0t1T1dMOVVQV2hMNEtJZDR3SkhtZVY5TnNPZmVQampKcXczVDUxZVR2ejJxV0thaVRnaE9GckRaZUlBYlBPT3A4LVE?oc=5"
+    ],
+    [
+     "businessinsider.com",
+     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdTgyZHFmQ3FBVGs0Wk1JaVdjYzJOalFlWUJIcXhmR2xGajJXc1hGMlZHU0VHQzlRNWtDNUdtT1ZsZ24zTlYzSkhqM2ZwRHF4MlIwU1h1N3pwOGJfTVZzaG44OVhQeUp3aC1aTXpYYUE3SmtvNVlSblYwS2VkeW1uRTdpUk95eExORjV3?oc=5"
+    ]
+   ]
+  },
+  {
+   "s": "Physics",
+   "h": "New quantum network entangles 123 qubits that store information in atoms' positions",
+   "t": "Researchers are constantly getting closer to making practical quantum computers. Now, a team of researchers has overcome another hurdle in the process.",
+   "l": [
+    [
+     "phys.org",
+     "https://phys.org/news/2026-11-quantum-network-entangles-qubits-atoms.html"
+    ]
+   ]
+  },
+  {
+   "s": "Research",
+   "h": "Recent sinking of Russian vessels abroad shows the Russia-Ukraine war has officially gone global",
+   "t": "For Ukraine to have any chance of winning the war against Russia, it must increase the pressure on Vladimir Putin’s government. Making Russian assets vulnerable globally is one way to do it.",
+   "l": [
+    [
+     "theconversation.com",
+     "https://theconversation.com/recent-sinking-of-russian-vessels-abroad-shows-the-russia-ukraine-war-has-officially-gone-global-297352"
     ]
    ]
   },
@@ -48,39 +101,6 @@
     [
      "sciencedaily.com",
      "https://www.sciencedaily.com/releases/2026/11/261124055852.htm"
-    ]
-   ]
-  },
-  {
-   "s": "Physics",
-   "h": "Physicists trap antimatter in a breakthrough that could explain why the universe exists",
-   "t": "Positrons are the antimatter counterpart of an electron. Physicists trapped a positron and cooled it to temperatures near absolute zero. Positron is suspended in a wall-free trap, safely separated from ordinary matter.",
-   "l": [
-    [
-     "sciencedaily.com",
-     "https://www.sciencedaily.com/releases/2026/11/261124055849.htm"
-    ]
-   ]
-  },
-  {
-   "s": "Economics in Tech",
-   "h": "South Korea eyes data centre investment opportunities as US tightens AI chip export controls - 联合早报",
-   "t": "",
-   "l": [
-    [
-     "zaobao.com.sg",
-     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUGVfdm8xd2J6VUYxVmZ2UUEySzZrZk5Sb1d6RFVjTHJnV25PbTRkaWJFS09KUU1pWllpeXhkV01tbE1iczlQWFpLVnFSSXNUeVZzUm40TE12WjdiX0wtRG5tSFhXUDh1aG4yS2ZaampFQkF5b2tRbGlDUVZlYklLQ1hySnFLc0tqM0tzUTVOSFB6VDlkVXVpNTRNWVhjSkJ6RVZENnVxUTdfODVERW50bXA1VWtEa0ZQcjY3QnlnVEJwUFlyM2xJaw?oc=5"
-    ]
-   ]
-  },
-  {
-   "s": "Research",
-   "h": "Justice is elusive for the Rohingya even after the ICJ’s landmark genocide ruling against Myanmar",
-   "t": "The prospect of a safe and dignified repatriation of the Rohingya to Myanmar is a near impossibility despite the IJC ruling.",
-   "l": [
-    [
-     "theconversation.com",
-     "https://theconversation.com/justice-is-elusive-for-the-rohingya-even-after-the-icjs-landmark-genocide-ruling-against-myanmar-297125"
     ]
    ]
   }
