@@ -5,15 +5,43 @@
   "Physics",
   "Space"
  ],
- "breaking": [
+ "breaking": [],
+ "stories": [
   {
-   "h": "Like ‘family businesses’: Inside the Nvidia board that ousted and rehired Jensen Huang - CNN",
+   "s": "Economics in Tech",
+   "h": "Hong Kong market stuck on the wrong side of China’s K-shaped economy, UBS warns - South China Morning Post",
    "t": "",
    "l": [
     [
-     "cnn.com",
-     "https://news.google.com/rss/articles/CBMibkFVX3lxTE9QY1VoSjVXdkRXRWpuaFRlRHgxOVZsY2V3OHNaOXJ1RlB5Nm8xWHRTcDNIRFVoYlJ1T21zTmstcFBjNjQwZFhrX0x3Y0EwbmRIaXdFaU1FVnYxTEdYbVlTekg0cktMdHREM01fc0x3?oc=5"
+     "scmp.com",
+     "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQS1EUEdyOTgzNU80YUtWbGVtZDAtNGNiSVhBYzBFZDdwWW1idlN6UEZlWGhaYkdHZDBGNjNkNU1aX3ptOFN4eVQzZHJ5NzF0RHRKeWdiaXpUUW9xZkd1a1ZQTFNsVnZfNU5lZE9tTVdhY3VvM0VHcV96eTltQjNmQ2V4aDBvbnF5SmxMSnl0eFB2YXRtUW5LT0g1ZlcxZHU2VnR2eHhtMnpiTFhQNVIxUHpPek1HTUVTazNzcnctWQ?oc=5"
     ],
+    [
+     "scmp.com",
+     "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZmdLTWQybm5OYkthZXBWWWFmZlZPLTY5bnRoOE9XODR1dWptWTFqWFhFa3REcEQ0R1k3LUF4LWQ1WE9GeGh0bWdrc05MWmlZb1g2U2Z6bUltNVdHeHlJSTNhV3lZdEpSWm0zTEVSREpLcjhMMVcydGQwaVZnV01YS1p4ZEhOQWJQV0YyaWEzQUg2Z2pldUJJT1dFbHc4NXJ3cnN5RGRwM0pzalRt0gGsAUFVX3lxTE5tbm8wdk1kaDV2TWtjdEc2ZEsxZGhsbk5NZWNuV0hhNTA5OXFLb3RaRGFyTzdfdUp6bUZMTWFZZkJFOTYxUmdxLXNIVXBBQmxqT2RXYWRNdklHbG1ZWkJpX2tNdnVrZEhmMkRiUUJ4R3dGaEV4SHlyd1BKZ1UyeVJNOEdoaUhrYjJXZ3UxX0kyVFF5a0ZnNTZFWGh0bjJvMnM2V1FyWWNHc1hWNUc?oc=5"
+    ],
+    [
+     "scmp.com",
+     "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdVQ4bnB5aXUxQWFncWRIamsxYXkzSWo4LXhqWVZGQnNsdzg1UXVLem9oY2hYR2h6blZLTnBKOVNjc2RmM20tOXZOM1VyV3ZfU09PcE5STFhKeUJucDQxQm9ORVlidWl1YUZUMU1WbnFUZUhSY1RtNmVwVjEwRWFyNUFmM2IyalhWRm9OdzVHR21MZXozUEFieDljMFpqRDkwV1dGOE5tUnZNX0dXaHZiUkhXSXJKS3BQMnZUeDMtQ28yd3ZjaFFmcURXanJPYm5OYnBnSlE5bVZZTGlBcG9IOUVoY2MtekVXMUczZzNIVdIB7wFBVV95cUxPWlM5bkJnSUhQRjdzMmtpcUhXaUh6WU9icTNXQjJyRlJwUXhibE1nNWhmdHp3ejFBUGxWVFoweDJBclFRb0V5VVJWSXVJZktjSmFqNHRWczYySkVvdjBUR193eXNNZnZWWVNtcTgtSUt3dkFxbXl0ek9yaTVoVHo1cUc0ZUxsU0ZpQVJmNTc2aXpua0thOGJNVGphNlFJWEFTQWFCSzBUS1J0dTZpcDdJWnJnalNvdVE1SzlIX1djXzR6eDg4YnBjVGlpal9NZmZvVHliU2l5QVprRkZHWDFkTDFiSGhjeEhIVzMtaDkxSQ?oc=5"
+    ]
+   ]
+  },
+  {
+   "s": "Space",
+   "h": "APOD: 2026 November 25 – SPHEREx Seeing Through Dust",
+   "t": "APOD Science APOD APOD: 2026 November 25 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
+   "l": [
+    [
+     "science.nasa.gov",
+     "https://science.nasa.gov/image-article/apod-2026-november-25-spherex-seeing-through-dust/"
+    ]
+   ]
+  },
+  {
+   "s": "Technology",
+   "h": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
+   "t": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from Bloomber",
+   "l": [
     [
      "theverge.com",
      "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology"
@@ -21,19 +49,10 @@
     [
      "arstechnica.com",
      "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/"
-    ]
-   ]
-  }
- ],
- "stories": [
-  {
-   "s": "Economics in Tech",
-   "h": "Is Jensen Huang Worth $2 Trillion? Trust Is the AI Industry’s Most Valuable Asset - semivision",
-   "t": "",
-   "l": [
+    ],
     [
-     "tspasemiconductor.substack.com",
-     "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaGdCdU1lUTJvRllPLTI0VHRxREs4dldlMUd0TzlwOGMtd0tUcDJmTU9xRXdUS2drcWZmbUdVQ01wOXFyYzZ5ZDB4NVFxbGNJNmE2ek41clVjSHloQUo3QW5KaHFHdUhoWF9PakxDUmcta3BCekVEcFpOOWVjUXlfYTdUX1dWbFdiSXdPTkEyeEtTOHJkQ3ljU3dCVDRNaDl5OTRsamYyRzNTVHVlMjN2U2FJT1VybmRsZmNQZTZabGl1ZDZfYV9KZ0tvT1FsT0FjbDBnS3dhTkM?oc=5"
+     "bbc.com",
+     "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lSGwtdEpKSG8wYkJ4ek9DR25GV1BiSFBsRjk2SUdGdWZJclFwZkU0bHZUSmxCNzdQbk9aeV9OTDF0R1QzN1J4c2ZrYVU1X2VMdXRNa2oyMmRRWmM?oc=5"
     ]
    ]
   },
@@ -45,28 +64,6 @@
     [
      "phys.org",
      "https://phys.org/news/2026-11-quantum-ingenuity-sidestep-limits-conventional.html"
-    ]
-   ]
-  },
-  {
-   "s": "Technology",
-   "h": "US financial crimes bureau discloses ‘cybersecurity incident’",
-   "t": "The Financial Crimes Enforcement Network (FinCEN) disclosed on Tuesday that it's investigating a \"cybersecurity incident.\" The bureau, which is part of the Treasury Department, said it's looking into an \"incident that resulted in unauthorized access to a limit",
-   "l": [
-    [
-     "theverge.com",
-     "https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident"
-    ]
-   ]
-  },
-  {
-   "s": "Space",
-   "h": "How to watch 'Blade Runner 2099' online — stream the sci-fi sequel series from anywhere",
-   "t": "How to watch \"Blade Runner 2099\", the cyberpunk spinoff starring Hunter Schafer and Michelle Yeoh. Cheapest options, where to watch in US, UK, Canada, Australia and beyond.",
-   "l": [
-    [
-     "space.com",
-     "https://www.space.com/entertainment/space-movies-shows/how-to-watch-blade-runner-2099-online-stream-the-sci-fi-sequel-series-from-anywhere"
     ]
    ]
   },
