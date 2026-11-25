@@ -5,76 +5,71 @@
   "Physics",
   "Space"
  ],
- "breaking": [],
- "stories": [
+ "breaking": [
   {
-   "s": "Economics in Tech",
-   "h": "Hong Kong market stuck on the wrong side of China’s K-shaped economy, UBS warns - South China Morning Post",
+   "h": "Sleeping With a Subordinate Gets CEOs Fired. Except for Jensen Huang. - Bloomberg",
    "t": "",
    "l": [
     [
-     "scmp.com",
-     "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQS1EUEdyOTgzNU80YUtWbGVtZDAtNGNiSVhBYzBFZDdwWW1idlN6UEZlWGhaYkdHZDBGNjNkNU1aX3ptOFN4eVQzZHJ5NzF0RHRKeWdiaXpUUW9xZkd1a1ZQTFNsVnZfNU5lZE9tTVdhY3VvM0VHcV96eTltQjNmQ2V4aDBvbnF5SmxMSnl0eFB2YXRtUW5LT0g1ZlcxZHU2VnR2eHhtMnpiTFhQNVIxUHpPek1HTUVTazNzcnctWQ?oc=5"
-    ],
+     "bloomberg.com",
+     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRlRIanR1LUE4SVFReHRrUFVxUGd3bk5Kd2dyNkNWd3lNTmphMW1vZmd5ZXVCcS11eDFlMHljaHNYOVRwdWREaXF1enY1RGVaYms5Sl94OXAyQ3BCLUJSaXpyOXVUaFhJNEs2cFJSMEVtRlRraUpGZGU4dmNFbXdJWFJpcVpLejZoN2U0dkxMbDRnRHdlcTd4dlhyYUdRNFJiUndvU1pJcWV3dlY3ei1FRXZDaHRBZExkNXBoUEJrX2Q4MjBrSURUZw?oc=5"
+    ]
+   ]
+  }
+ ],
+ "stories": [
+  {
+   "s": "Technology",
+   "h": "AI can do the calculations. Theoretical physicists are figuring out what comes next.",
+   "t": "Frontier AI is already solving problems that once took top physicists a full day.",
+   "l": [
     [
-     "scmp.com",
-     "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZmdLTWQybm5OYkthZXBWWWFmZlZPLTY5bnRoOE9XODR1dWptWTFqWFhFa3REcEQ0R1k3LUF4LWQ1WE9GeGh0bWdrc05MWmlZb1g2U2Z6bUltNVdHeHlJSTNhV3lZdEpSWm0zTEVSREpLcjhMMVcydGQwaVZnV01YS1p4ZEhOQWJQV0YyaWEzQUg2Z2pldUJJT1dFbHc4NXJ3cnN5RGRwM0pzalRt0gGsAUFVX3lxTE5tbm8wdk1kaDV2TWtjdEc2ZEsxZGhsbk5NZWNuV0hhNTA5OXFLb3RaRGFyTzdfdUp6bUZMTWFZZkJFOTYxUmdxLXNIVXBBQmxqT2RXYWRNdklHbG1ZWkJpX2tNdnVrZEhmMkRiUUJ4R3dGaEV4SHlyd1BKZ1UyeVJNOEdoaUhrYjJXZ3UxX0kyVFF5a0ZnNTZFWGh0bjJvMnM2V1FyWWNHc1hWNUc?oc=5"
-    ],
-    [
-     "scmp.com",
-     "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdVQ4bnB5aXUxQWFncWRIamsxYXkzSWo4LXhqWVZGQnNsdzg1UXVLem9oY2hYR2h6blZLTnBKOVNjc2RmM20tOXZOM1VyV3ZfU09PcE5STFhKeUJucDQxQm9ORVlidWl1YUZUMU1WbnFUZUhSY1RtNmVwVjEwRWFyNUFmM2IyalhWRm9OdzVHR21MZXozUEFieDljMFpqRDkwV1dGOE5tUnZNX0dXaHZiUkhXSXJKS3BQMnZUeDMtQ28yd3ZjaFFmcURXanJPYm5OYnBnSlE5bVZZTGlBcG9IOUVoY2MtekVXMUczZzNIVdIB7wFBVV95cUxPWlM5bkJnSUhQRjdzMmtpcUhXaUh6WU9icTNXQjJyRlJwUXhibE1nNWhmdHp3ejFBUGxWVFoweDJBclFRb0V5VVJWSXVJZktjSmFqNHRWczYySkVvdjBUR193eXNNZnZWWVNtcTgtSUt3dkFxbXl0ek9yaTVoVHo1cUc0ZUxsU0ZpQVJmNTc2aXpua0thOGJNVGphNlFJWEFTQWFCSzBUS1J0dTZpcDdJWnJnalNvdVE1SzlIX1djXzR6eDg4YnBjVGlpal9NZmZvVHliU2l5QVprRkZHWDFkTDFiSGhjeEhIVzMtaDkxSQ?oc=5"
+     "arstechnica.com",
+     "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/"
     ]
    ]
   },
   {
    "s": "Space",
-   "h": "APOD: 2026 November 25 – SPHEREx Seeing Through Dust",
-   "t": "APOD Science APOD APOD: 2026 November 25 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
+   "h": "November's full moon dazzles skywatchers with a stunning Beaver Moon supermoon (photos)",
+   "t": "From the skyscrapers of New York to the ancient Parthenon in Athens, the Beaver Moon supermoon put on a spectacular show for skywatchers around the world.",
    "l": [
     [
-     "science.nasa.gov",
-     "https://science.nasa.gov/image-article/apod-2026-november-25-spherex-seeing-through-dust/"
-    ]
-   ]
-  },
-  {
-   "s": "Technology",
-   "h": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
-   "t": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from Bloomber",
-   "l": [
-    [
-     "theverge.com",
-     "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology"
-    ],
-    [
-     "arstechnica.com",
-     "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/"
-    ],
-    [
-     "bbc.com",
-     "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lSGwtdEpKSG8wYkJ4ek9DR25GV1BiSFBsRjk2SUdGdWZJclFwZkU0bHZUSmxCNzdQbk9aeV9OTDF0R1QzN1J4c2ZrYVU1X2VMdXRNa2oyMmRRWmM?oc=5"
-    ]
-   ]
-  },
-  {
-   "s": "Physics",
-   "h": "Quantum ingenuity can sidestep limits of conventional chips—while using commercially accessible components",
-   "t": "For decades, computers have steadily grown faster and more powerful. Avik Dutt, an assistant professor of mechanical engineering at the University of Maryland, envisions another dramatic leap forward—one propelled by the quantum properties of light.",
-   "l": [
-    [
-     "phys.org",
-     "https://phys.org/news/2026-11-quantum-ingenuity-sidestep-limits-conventional.html"
+     "space.com",
+     "https://www.space.com/stargazing/novembers-full-moon-dazzles-skywatchers-with-a-stunning-beaver-moon-supermoon-photos-nov-24-2026"
     ]
    ]
   },
   {
    "s": "Science",
-   "h": "New nose drops restore youthful memory and fight Alzheimer’s in aging mice",
-   "t": "A revolutionary new nasal treatment has restored youthful learning and memory performance in aging mice while preventing severe cognitive decline in mice with Alzheimer’s-like disease.",
+   "h": "A space telescope hunting for dark matter just discovered something unexpected",
+   "t": "ESA’s Euclid space telescope has discovered its first previously unknown comet, despite being designed to study distant galaxies and the mysteries of the dark Universe. 3 billion kilometers from Earth and follows an unusual orbit that takes thousands of years to complete.",
    "l": [
     [
      "sciencedaily.com",
-     "https://www.sciencedaily.com/releases/2026/11/261123005337.htm"
+     "https://www.sciencedaily.com/releases/2026/11/261124055852.htm"
+    ]
+   ]
+  },
+  {
+   "s": "Physics",
+   "h": "Physicists trap antimatter in a breakthrough that could explain why the universe exists",
+   "t": "Positrons are the antimatter counterpart of an electron. Physicists trapped a positron and cooled it to temperatures near absolute zero. Positron is suspended in a wall-free trap, safely separated from ordinary matter.",
+   "l": [
+    [
+     "sciencedaily.com",
+     "https://www.sciencedaily.com/releases/2026/11/261124055849.htm"
+    ]
+   ]
+  },
+  {
+   "s": "Economics in Tech",
+   "h": "South Korea eyes data centre investment opportunities as US tightens AI chip export controls - 联合早报",
+   "t": "",
+   "l": [
+    [
+     "zaobao.com.sg",
+     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUGVfdm8xd2J6VUYxVmZ2UUEySzZrZk5Sb1d6RFVjTHJnV25PbTRkaWJFS09KUU1pWllpeXhkV01tbE1iczlQWFpLVnFSSXNUeVZzUm40TE12WjdiX0wtRG5tSFhXUDh1aG4yS2ZaampFQkF5b2tRbGlDUVZlYklLQ1hySnFLc0tqM0tzUTVOSFB6VDlkVXVpNTRNWVhjSkJ6RVZENnVxUTdfODVERW50bXA1VWtEa0ZQcjY3QnlnVEJwUFlyM2xJaw?oc=5"
     ]
    ]
   },
