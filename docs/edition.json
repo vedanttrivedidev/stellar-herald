@@ -5,53 +5,83 @@
   "Physics",
   "Space"
  ],
- "breaking": [],
- "stories": [
+ "breaking": [
   {
-   "s": "Technology",
-   "h": "42 state AGs are trying to stop Character.AI from selling users’ chats",
-   "t": "AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. S.",
+   "h": "US defense officials considered using Cold War law to force Nvidia to reinstate Jensen Huang as CEO following his resignation, report claims — 1950 Defense Production Act was floated as solution to President Trump - Tom's Hardware",
+   "t": "",
    "l": [
     [
-     "theverge.com",
-     "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats"
+     "tomshardware.com",
+     "https://news.google.com/rss/articles/CBMi-gJBVV95cUxNcEgzbWVzeXo0N2JUMko1VDBSMU5faWo2ZUpJdVBvcnRiRFI5X2xuRmpCWGdKYnYwSjhoZ2xBWHZlZEQzRHpfQVdlZkZwWHlXMHJydUhZZEptM2N5Y0tqUEwtdnBJaDNnNTk0VzY5RUFxSWdNcFVRSmxXdjhLT19EQnpwSFVGeC1YVGtXWU9vTHA5c0JDV1RyTXA2M2tfSzZaM1M0WktJeGhCVU5qZHBZYnAydm9YTTBWdC1NbzVBN0dYdkVfd0R3VTRpVVFsakI3WTB5VWhVckpteWZLdkxoZjd6enl0aU5oYUlKSEc3M29aaWU3Q19MUmhwT1hhbmNyaDdIdHlEUS0yaFRETldzNXBCakthcV9MMy00R2xpYTUzV25lRUJwRDc5Y0xwT2FCZWd0S3FsV05SQTVVYmlSUVJZdmk3Vmk2WjNILXJhQ1dDMTNLT09HUG1mczFFZS1Ma0ZySWYyZm13S1BreE5rb3NtUm1rQVNuanc?oc=5"
+    ],
+    [
+     "theconversation.com",
+     "https://theconversation.com/jensen-huangs-controversial-return-to-nvidia-poses-the-question-whats-the-point-of-a-board-297386"
+    ],
+    [
+     "theconversation.com",
+     "https://theconversation.com/from-ancient-asia-to-the-ai-age-has-chinas-beauty-stratagem-found-a-new-victim-in-nvidias-jensen-huang-296393"
+    ]
+   ]
+  }
+ ],
+ "stories": [
+  {
+   "s": "Space",
+   "h": "Thanksgiving night sky 2026 — What to look for after dinner tonight",
+   "t": "From Saturn's magnificent rings to the waning gibbous moon, here's how to turn your Thanksgiving celebrations into a family skywatching adventure.",
+   "l": [
+    [
+     "space.com",
+     "https://www.space.com/stargazing/thanksgiving-night-sky-2026-what-to-look-for-after-dinner-tonight"
     ]
    ]
   },
   {
    "s": "Economics in Tech",
-   "h": "Market Movers blog: Global markets fall as Trump plans new tariffs - Investment Week",
-   "t": "",
+   "h": "Asian AI bubble bursts - International Viewpoint",
+   "t": "Asian AI bubble bursts International Viewpoint",
    "l": [
     [
-     "investmentweek.co.uk",
-     "https://news.google.com/rss/articles/CBMickFVX3lxTE5mZHNUUnlOeExDV2hSRjhxWEs0blpwaGhqUzIzQ054d1JaTnNIcGZWbkhtTDVwZFdwUXM5ekRkX2Z5UFJEWW5uMGtRSzVnd2NwZDFRUWZnYm9JWHFlTUptZzJGSHdKOS1oTEJxOUk0bFRWdw?oc=5"
+     "internationalviewpoint.org",
+     "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBOUjd5TUtpZkRDRzBPTmpnWU5iMW5FMFhXNEVJNXJIblJ3SFNOdDNEaFNfTUdNc01CRkdOY3FzTmdTUWhNRWtETVRGTExYN3RiUmhQNW5QSDFPdlpUVlJ5Q1RHTXpxcjJK?oc=5"
     ]
    ]
   },
   {
-   "s": "Space",
-   "h": "Astronomers may have discovered a black hole born before the first stars",
-   "t": "A mysterious object named Phoebe, detected when it briefly magnified a distant star, could be a primordial black hole formed just after the Big Bang.",
+   "s": "Technology",
+   "h": "Draining peatlands is responsible for a few percent of our global warming",
+   "t": "Detailed estimate going back to 1800 shows how much carbon is being liberated.",
    "l": [
     [
-     "sciencedaily.com",
-     "https://www.sciencedaily.com/releases/2026/11/261122060346.htm"
-    ],
-    [
-     "space.com",
-     "https://www.space.com/astronomy/black-holes/dark-universe-detective-telescope-discovers-most-distant-and-ancient-supermassive-black-hole-powered-quasar"
+     "arstechnica.com",
+     "https://arstechnica.com/science/2026/11/draining-peatlands-is-responsible-for-a-few-percent-of-our-global-warming/"
     ]
    ]
   },
   {
    "s": "Science",
-   "h": "Scientists discover mysterious lakes more than a mile beneath the Red Sea",
-   "t": "More than a mile beneath the surface of the Red Sea, scientists have discovered rare underwater lakes that could reveal secrets about Earth's ancient oceans and the possibility of alien life.",
+   "h": "The surprising reason women seem better at multitasking than men",
+   "t": "Men and women appear to be similarly capable of multitasking, but men are more than twice as likely to ignore conversation while juggling multiple activities. Researchers believe this unexpected difference may help explain why women are widely perceived as better multitaskers.",
    "l": [
     [
      "sciencedaily.com",
-     "https://www.sciencedaily.com/releases/2026/11/261125045259.htm"
+     "https://www.sciencedaily.com/releases/2026/11/261125045306.htm"
+    ],
+    [
+     "investinglive.com",
+     "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaTdSdWtvbVpvUC1nVXhoT0ZMaWtTX3VwY2M2TG1VN0E4eE5FaC13dGJvcVRxZW9Ea3hBcEQ2bV9FVlcwa3NUZVhUemtJT1c2dGpSOHN4S3lZVXFQSTdOenM4Y2JTZDRKS2VrNGhjSGVyQnlqQ2MycEpnanZ5aEFnd29lbk5zczVubnRYelBzcDExeGI2bHVISHdFYldRTFZOelVxZWZkSERZQzhhd3BZ?oc=5"
+    ]
+   ]
+  },
+  {
+   "s": "Research",
+   "h": "Can the International Criminal Court survive Trump’s attacks – and hold world leaders to account?",
+   "t": "The trial of former president of the Philippines, Rodrigo Duterte, comes at a precarious moment for the International Criminal Court, as the US ramps up its efforts to undermine the institution.",
+   "l": [
+    [
+     "theconversation.com",
+     "https://theconversation.com/can-the-international-criminal-court-survive-trumps-attacks-and-hold-world-leaders-to-account-297530"
     ]
    ]
   },
@@ -67,17 +97,6 @@
     [
      "space.com",
      "https://www.space.com/astronomy/black-holes/dark-universe-detective-telescope-discovers-most-distant-and-ancient-supermassive-black-hole-powered-quasar"
-    ]
-   ]
-  },
-  {
-   "s": "Research",
-   "h": "Recent sinking of Russian vessels abroad shows the Russia-Ukraine war has officially gone global",
-   "t": "For Ukraine to have any chance of winning the war against Russia, it must increase the pressure on Vladimir Putin’s government. Making Russian assets vulnerable globally is one way to do it.",
-   "l": [
-    [
-     "theconversation.com",
-     "https://theconversation.com/recent-sinking-of-russian-vessels-abroad-shows-the-russia-ukraine-war-has-officially-gone-global-297352"
     ]
    ]
   }
