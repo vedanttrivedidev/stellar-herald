@@ -5,19 +5,30 @@
   "Physics",
   "Space"
  ],
- "breaking": [
+ "breaking": [],
+ "stories": [
   {
-   "h": "Did Russia use Nvidia hardware in drone that killed civilians in Ukraine? What we know - Snopes.com",
+   "s": "Technology",
+   "h": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+   "t": "AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. S.",
+   "l": [
+    [
+     "theverge.com",
+     "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats"
+    ]
+   ]
+  },
+  {
+   "s": "Economics in Tech",
+   "h": "Market Movers blog: Global markets fall as Trump plans new tariffs - Investment Week",
    "t": "",
    "l": [
     [
-     "snopes.com",
-     "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xRHdUN1ZCV0JlUVkwZl9JZnF2Y2VDQXhxUWh1R2t1V1EtcFhGeFgxNm4yR3JQZGo3cm9QNDR5Q3UtcmFwN2dtS2hOMmMzZWRXdThKWGIwbjF6aUF4MnBmU1ZLZ0U5anBYLUozcjBHNDBIWXhxcXc?oc=5"
+     "investmentweek.co.uk",
+     "https://news.google.com/rss/articles/CBMickFVX3lxTE5mZHNUUnlOeExDV2hSRjhxWEs0blpwaGhqUzIzQ054d1JaTnNIcGZWbkhtTDVwZFdwUXM5ekRkX2Z5UFJEWW5uMGtRSzVnd2NwZDFRUWZnYm9JWHFlTUptZzJGSHdKOS1oTEJxOUk0bFRWdw?oc=5"
     ]
    ]
-  }
- ],
- "stories": [
+  },
   {
    "s": "Space",
    "h": "Astronomers may have discovered a black hole born before the first stars",
@@ -30,17 +41,6 @@
     [
      "space.com",
      "https://www.space.com/astronomy/black-holes/dark-universe-detective-telescope-discovers-most-distant-and-ancient-supermassive-black-hole-powered-quasar"
-    ]
-   ]
-  },
-  {
-   "s": "Economics in Tech",
-   "h": "Samsung Taps Memory Marketing Chief to Lead U.S. Chip Unit - Seoul Economic Daily",
-   "t": "",
-   "l": [
-    [
-     "en.sedaily.com",
-     "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcFhVcHFGR1NqMnZQVWRELVN4cXlZdTAtNUNwMGVhWXJTZ0V2N3k4TmZOS3FaUktEazBvLWhJVzRERDlwNTZXa09UR0VwXzBLQmI4TjZvcnVEYmQ1MVFBbWk1RUdjbXNzUWpYWnZ2M0MwQjBMaUZNMk5JckFfUWxPd2s4V1ZaZGlILXRUSmVXd2xmTFhUWnRZVDRmdnhNSmc?oc=5"
     ]
    ]
   },
@@ -67,25 +67,6 @@
     [
      "space.com",
      "https://www.space.com/astronomy/black-holes/dark-universe-detective-telescope-discovers-most-distant-and-ancient-supermassive-black-hole-powered-quasar"
-    ]
-   ]
-  },
-  {
-   "s": "Technology",
-   "h": "EPA reports ‘zero’ airborne lead following controlled Army detonation in Iowa",
-   "t": "Saying it was necessary to prevent the possible spontaneous explosion of a stockpile of material used in igniters and blasting caps, the US Army conducted a controlled detonation of over 9,700 pounds of lead azide today at the Iowa Army Ammunition Plant (IAAAP",
-   "l": [
-    [
-     "theverge.com",
-     "https://www.theverge.com/science/1042109/us-army-detonation-lead-azide-explosives-iowa-ammunition-plant"
-    ],
-    [
-     "arstechnica.com",
-     "https://arstechnica.com/health/2026/11/army-detonates-tons-of-lead-azide-as-local-residents-brace-for-toxic-plume/"
-    ],
-    [
-     "space.com",
-     "https://www.space.com/technology/aerospace/nasa-sends-planes-to-monitor-us-armys-lead-detonation-irresponsible-to-compare-it-to-chernobyl-agency-chief-says"
     ]
    ]
   },
