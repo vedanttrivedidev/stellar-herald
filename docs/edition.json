@@ -7,21 +7,69 @@
  ],
  "breaking": [
   {
-   "h": "Another Congressman Sold Nvidia Stock Right Before Huang’s Resignation, But He’s Been Selling for Years - Benzinga",
+   "h": "Did Russia use Nvidia hardware in drone that killed civilians in Ukraine? What we know - Snopes.com",
    "t": "",
    "l": [
     [
-     "benzinga.com",
-     "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQQm9yOWVOVWZaUlRWN1gtT0Z0MGRCcGpWamg4UnNvOTZtQ2hrcmh5WmdjeXczNHFwSEJINmFvMnAtZGVVOHFXc29SUzQ3WkQ0ZmNQdi05TmpOR0kta0tyd24wOXhlbGN4QjVOZW4xRVhkSTRKdDRBWVNremNjQUM2RERtamZPR0RXNnFGTmxpdjZXMTA0Z3cxcFNoRzVoWWVpUW5NVEg4V2w1MzBRZG1WQi1McFZiQ3Awam52Z0htUU1WTm5jVGkwZjZRNkRPTDYzU3ZIVFhvYXNlSkpsdjNmOHlrdlROc09SZ3c?oc=5"
-    ],
-    [
-     "kten.com",
-     "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUFJGc0txeEo5djVhX0x2NEotNTdFdk9VckRadm1Mb0VzTFg2cWVRVEJ1Vm1iQnJpWWdEQzJtaGVxcm1idE9RTHFrSW1VQ0JqSlFHckgtZ0RwTHZQVmZjd0lNNTB1U2pzcEVQX1JoQURXb0l4Zkl0VnQtRVp2MGFLclAycjN6MjVibTUwTDI1X2NoNUFIZGNMVW43YVY4YlRMNlJZYTdocVJCOWJRSTJvZl9xakhrTTkwZVBVNmZkbGdKVElXX3ZFS2ZBRnppMVpzWE1KZ1VySkhqSFRiY09mVld0bUhkdUdhMkdvWQ?oc=5"
+     "snopes.com",
+     "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xRHdUN1ZCV0JlUVkwZl9JZnF2Y2VDQXhxUWh1R2t1V1EtcFhGeFgxNm4yR3JQZGo3cm9QNDR5Q3UtcmFwN2dtS2hOMmMzZWRXdThKWGIwbjF6aUF4MnBmU1ZLZ0U5anBYLUozcjBHNDBIWXhxcXc?oc=5"
     ]
    ]
   }
  ],
  "stories": [
+  {
+   "s": "Space",
+   "h": "Astronomers may have discovered a black hole born before the first stars",
+   "t": "A mysterious object named Phoebe, detected when it briefly magnified a distant star, could be a primordial black hole formed just after the Big Bang.",
+   "l": [
+    [
+     "sciencedaily.com",
+     "https://www.sciencedaily.com/releases/2026/11/261122060346.htm"
+    ],
+    [
+     "space.com",
+     "https://www.space.com/astronomy/black-holes/dark-universe-detective-telescope-discovers-most-distant-and-ancient-supermassive-black-hole-powered-quasar"
+    ]
+   ]
+  },
+  {
+   "s": "Economics in Tech",
+   "h": "Samsung Taps Memory Marketing Chief to Lead U.S. Chip Unit - Seoul Economic Daily",
+   "t": "",
+   "l": [
+    [
+     "en.sedaily.com",
+     "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcFhVcHFGR1NqMnZQVWRELVN4cXlZdTAtNUNwMGVhWXJTZ0V2N3k4TmZOS3FaUktEazBvLWhJVzRERDlwNTZXa09UR0VwXzBLQmI4TjZvcnVEYmQ1MVFBbWk1RUdjbXNzUWpYWnZ2M0MwQjBMaUZNMk5JckFfUWxPd2s4V1ZaZGlILXRUSmVXd2xmTFhUWnRZVDRmdnhNSmc?oc=5"
+    ]
+   ]
+  },
+  {
+   "s": "Science",
+   "h": "Scientists discover mysterious lakes more than a mile beneath the Red Sea",
+   "t": "More than a mile beneath the surface of the Red Sea, scientists have discovered rare underwater lakes that could reveal secrets about Earth's ancient oceans and the possibility of alien life.",
+   "l": [
+    [
+     "sciencedaily.com",
+     "https://www.sciencedaily.com/releases/2026/11/261125045259.htm"
+    ]
+   ]
+  },
+  {
+   "s": "Physics",
+   "h": "Astronomers may have discovered a black hole born before the first stars",
+   "t": "A mysterious object named Phoebe, detected when it briefly magnified a distant star, could be a primordial black hole formed just after the Big Bang.",
+   "l": [
+    [
+     "sciencedaily.com",
+     "https://www.sciencedaily.com/releases/2026/11/261122060346.htm"
+    ],
+    [
+     "space.com",
+     "https://www.space.com/astronomy/black-holes/dark-universe-detective-telescope-discovers-most-distant-and-ancient-supermassive-black-hole-powered-quasar"
+    ]
+   ]
+  },
   {
    "s": "Technology",
    "h": "EPA reports ‘zero’ airborne lead following controlled Army detonation in Iowa",
@@ -42,47 +90,6 @@
    ]
   },
   {
-   "s": "Space",
-   "h": "On this day in space! Nov. 25, 1970: NASA's 'wingless' M2-F3 'lifting body' aircraft makes its 1st powered flight ahead of supersonic tests",
-   "t": "On Nov. 25, 1970, an experimental aircraft called the Northrop M2-F3 made its first powered flight. Here's why it mattered.",
-   "l": [
-    [
-     "space.com",
-     "https://www.space.com/space-exploration/on-this-day-in-space-november-25-2026"
-    ]
-   ]
-  },
-  {
-   "s": "Economics in Tech",
-   "h": "The AI trade is unraveling days after Jensen Huang's comeback sparked a monster rally - Business Insider",
-   "t": "",
-   "l": [
-    [
-     "businessinsider.com",
-     "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUGs5NV81UHM4cDZtWGJ2UTAyX0VyeksycmNXN0F1RDFyZmpXaTNVNmllSkhkTm5Ncnh4T1RHRU9VWWpjMzJUNmtLeGJwNUtNVHAyWXRiWExKRW1DalJjZk5LUGZqWFhLRWprclZYWVN0VHgyTE51aWUzdndmUVh0Q2puOHFHbHVBVXdTdUR3YWRiZ2hNXzM1NjN0MVd4UUlRNXlDdw?oc=5"
-    ],
-    [
-     "theguardian.com",
-     "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZUk2WFAzeE45VlllNGFmRXN3UXBzM3puMV9GdURNYVJIcWxwQmpCN2p4Ni0zSC11YzNMaVp4RVNtV1BSUVB4cFd4bG5fMlowU09FM0t1T1dMOVVQV2hMNEtJZDR3SkhtZVY5TnNPZmVQampKcXczVDUxZVR2ejJxV0thaVRnaE9GckRaZUlBYlBPT3A4LVE?oc=5"
-    ],
-    [
-     "businessinsider.com",
-     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdTgyZHFmQ3FBVGs0Wk1JaVdjYzJOalFlWUJIcXhmR2xGajJXc1hGMlZHU0VHQzlRNWtDNUdtT1ZsZ24zTlYzSkhqM2ZwRHF4MlIwU1h1N3pwOGJfTVZzaG44OVhQeUp3aC1aTXpYYUE3SmtvNVlSblYwS2VkeW1uRTdpUk95eExORjV3?oc=5"
-    ]
-   ]
-  },
-  {
-   "s": "Physics",
-   "h": "New quantum network entangles 123 qubits that store information in atoms' positions",
-   "t": "Researchers are constantly getting closer to making practical quantum computers. Now, a team of researchers has overcome another hurdle in the process.",
-   "l": [
-    [
-     "phys.org",
-     "https://phys.org/news/2026-11-quantum-network-entangles-qubits-atoms.html"
-    ]
-   ]
-  },
-  {
    "s": "Research",
    "h": "Recent sinking of Russian vessels abroad shows the Russia-Ukraine war has officially gone global",
    "t": "For Ukraine to have any chance of winning the war against Russia, it must increase the pressure on Vladimir Putin’s government. Making Russian assets vulnerable globally is one way to do it.",
@@ -90,17 +97,6 @@
     [
      "theconversation.com",
      "https://theconversation.com/recent-sinking-of-russian-vessels-abroad-shows-the-russia-ukraine-war-has-officially-gone-global-297352"
-    ]
-   ]
-  },
-  {
-   "s": "Science",
-   "h": "A space telescope hunting for dark matter just discovered something unexpected",
-   "t": "ESA’s Euclid space telescope has discovered its first previously unknown comet, despite being designed to study distant galaxies and the mysteries of the dark Universe. 3 billion kilometers from Earth and follows an unusual orbit that takes thousands of years to complete.",
-   "l": [
-    [
-     "sciencedaily.com",
-     "https://www.sciencedaily.com/releases/2026/11/261124055852.htm"
     ]
    ]
   }
