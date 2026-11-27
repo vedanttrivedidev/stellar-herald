@@ -1,5 +1,5 @@
 {
- "date": "2026-11-26",
+ "date": "2026-11-27",
  "notify": [
   "Technology",
   "Physics",
@@ -7,81 +7,73 @@
  ],
  "breaking": [
   {
-   "h": "US defense officials considered using Cold War law to force Nvidia to reinstate Jensen Huang as CEO following his resignation, report claims — 1950 Defense Production Act was floated as solution to President Trump - Tom's Hardware",
+   "h": "Sleeping with a subordinate gets CEOs fired. Except for Jensen Huang. - The Japan Times",
    "t": "",
    "l": [
     [
-     "tomshardware.com",
-     "https://news.google.com/rss/articles/CBMi-gJBVV95cUxNcEgzbWVzeXo0N2JUMko1VDBSMU5faWo2ZUpJdVBvcnRiRFI5X2xuRmpCWGdKYnYwSjhoZ2xBWHZlZEQzRHpfQVdlZkZwWHlXMHJydUhZZEptM2N5Y0tqUEwtdnBJaDNnNTk0VzY5RUFxSWdNcFVRSmxXdjhLT19EQnpwSFVGeC1YVGtXWU9vTHA5c0JDV1RyTXA2M2tfSzZaM1M0WktJeGhCVU5qZHBZYnAydm9YTTBWdC1NbzVBN0dYdkVfd0R3VTRpVVFsakI3WTB5VWhVckpteWZLdkxoZjd6enl0aU5oYUlKSEc3M29aaWU3Q19MUmhwT1hhbmNyaDdIdHlEUS0yaFRETldzNXBCakthcV9MMy00R2xpYTUzV25lRUJwRDc5Y0xwT2FCZWd0S3FsV05SQTVVYmlSUVJZdmk3Vmk2WjNILXJhQ1dDMTNLT09HUG1mczFFZS1Ma0ZySWYyZm13S1BreE5rb3NtUm1rQVNuanc?oc=5"
-    ],
-    [
-     "theconversation.com",
-     "https://theconversation.com/jensen-huangs-controversial-return-to-nvidia-poses-the-question-whats-the-point-of-a-board-297386"
-    ],
-    [
-     "theconversation.com",
-     "https://theconversation.com/from-ancient-asia-to-the-ai-age-has-chinas-beauty-stratagem-found-a-new-victim-in-nvidias-jensen-huang-296393"
+     "japantimes.co.jp",
+     "https://news.google.com/rss/articles/CBMigAFBVV95cUxPX0N0YlNuT080b1Y3SFRJdzNDeFliYUV4S3VldXVCVzZ3SlV2YW9tWUR4d3JsOXN5YmNidTZiSXZKM3hpVWIzdnM1ZTBobnRCTU5McmlYOG51OXQyYlU0akRrS1NZdlVYNG1sWWdzd2swcXl3RGptdDh1S0hIaTVJSA?oc=5"
     ]
    ]
   }
  ],
  "stories": [
   {
-   "s": "Space",
-   "h": "Thanksgiving night sky 2026 — What to look for after dinner tonight",
-   "t": "From Saturn's magnificent rings to the waning gibbous moon, here's how to turn your Thanksgiving celebrations into a family skywatching adventure.",
-   "l": [
-    [
-     "space.com",
-     "https://www.space.com/stargazing/thanksgiving-night-sky-2026-what-to-look-for-after-dinner-tonight"
-    ]
-   ]
-  },
-  {
    "s": "Economics in Tech",
-   "h": "Asian AI bubble bursts - International Viewpoint",
-   "t": "Asian AI bubble bursts International Viewpoint",
+   "h": "Asia’s AI Boom Is Driving a Data-Centre Building Surge - urbanacres.in",
+   "t": "",
    "l": [
     [
-     "internationalviewpoint.org",
-     "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBOUjd5TUtpZkRDRzBPTmpnWU5iMW5FMFhXNEVJNXJIblJ3SFNOdDNEaFNfTUdNc01CRkdOY3FzTmdTUWhNRWtETVRGTExYN3RiUmhQNW5QSDFPdlpUVlJ5Q1RHTXpxcjJK?oc=5"
-    ]
-   ]
-  },
-  {
-   "s": "Technology",
-   "h": "Draining peatlands is responsible for a few percent of our global warming",
-   "t": "Detailed estimate going back to 1800 shows how much carbon is being liberated.",
-   "l": [
-    [
-     "arstechnica.com",
-     "https://arstechnica.com/science/2026/11/draining-peatlands-is-responsible-for-a-few-percent-of-our-global-warming/"
+     "urbanacres.in",
+     "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYndWcWUxczhwNTZxZWVxVU1sblNWbGNUYW1SOVpORWVxTWN6TnJfSkZJbUJac2N1ZTNTTkZHbEI5OEZVMTY4ZGpzZTlaLVF2VmdzeGFpYnBTM2xta0lITVRhS2NIdHprWDB6dUZiMTBRcFZXOEJsR0l3VDhiZUN0MU9qcUxXMjVJX2VBT1VEWGE2U1k5QVBzbVhNNA?oc=5"
     ]
    ]
   },
   {
    "s": "Science",
-   "h": "The surprising reason women seem better at multitasking than men",
-   "t": "Men and women appear to be similarly capable of multitasking, but men are more than twice as likely to ignore conversation while juggling multiple activities. Researchers believe this unexpected difference may help explain why women are widely perceived as better multitaskers.",
+   "h": "Scientists identify two ages when children may be most vulnerable to screen time",
+   "t": "Scientists have identified two potentially critical periods when screen time may be especially detrimental to children's learning and memory: infancy and the start of formal schooling.",
    "l": [
     [
      "sciencedaily.com",
-     "https://www.sciencedaily.com/releases/2026/11/261125045306.htm"
-    ],
-    [
-     "investinglive.com",
-     "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaTdSdWtvbVpvUC1nVXhoT0ZMaWtTX3VwY2M2TG1VN0E4eE5FaC13dGJvcVRxZW9Ea3hBcEQ2bV9FVlcwa3NUZVhUemtJT1c2dGpSOHN4S3lZVXFQSTdOenM4Y2JTZDRKS2VrNGhjSGVyQnlqQ2MycEpnanZ5aEFnd29lbk5zczVubnRYelBzcDExeGI2bHVISHdFYldRTFZOelVxZWZkSERZQzhhd3BZ?oc=5"
+     "https://www.sciencedaily.com/releases/2026/11/261126033220.htm"
     ]
    ]
   },
   {
    "s": "Research",
-   "h": "Can the International Criminal Court survive Trump’s attacks – and hold world leaders to account?",
-   "t": "The trial of former president of the Philippines, Rodrigo Duterte, comes at a precarious moment for the International Criminal Court, as the US ramps up its efforts to undermine the institution.",
+   "h": "Russia wants to build a new security framework to end the war. This is why it won’t work",
+   "t": "Vladimir Putin wants to counter NATO with his own security pact, but there are reasons to be sceptical.",
    "l": [
     [
      "theconversation.com",
-     "https://theconversation.com/can-the-international-criminal-court-survive-trumps-attacks-and-hold-world-leaders-to-account-297530"
+     "https://theconversation.com/russia-wants-to-build-a-new-security-framework-to-end-the-war-this-is-why-it-wont-work-296813"
+    ]
+   ]
+  },
+  {
+   "s": "Space",
+   "h": "Every smart telescope we've reviewed and highly rate that is cheaper for Black Friday — full list",
+   "t": "Black Friday has seen the price of smart telescopes slashed, with great beginner models available from Unistellar, ZWO, Vaonis and Dwarflab.",
+   "l": [
+    [
+     "space.com",
+     "https://www.space.com/stargazing/skywatching-kit/every-smart-telescope-weve-reviewed-and-highly-rate-that-is-cheaper-for-black-friday-full-list"
+    ],
+    [
+     "theconversation.com",
+     "https://theconversation.com/using-ai-to-hunt-for-black-friday-bargains-that-great-deal-might-not-exist-297299"
+    ]
+   ]
+  },
+  {
+   "s": "Technology",
+   "h": "Netflix’s coziest show has made a very quiet return",
+   "t": "The bigger Netflix gets, the easier it is to miss stuff. This is true of all digital platforms, of course, but it's especially true of Netflix of late, as the streaming service's lineup now also includes a growing library of reality shows, live-programming, and even games.",
+   "l": [
+    [
+     "theverge.com",
+     "https://www.theverge.com/entertainment/1043489/midnight-diner-season3"
     ]
    ]
   },
@@ -93,10 +85,6 @@
     [
      "sciencedaily.com",
      "https://www.sciencedaily.com/releases/2026/11/261122060346.htm"
-    ],
-    [
-     "space.com",
-     "https://www.space.com/astronomy/black-holes/dark-universe-detective-telescope-discovers-most-distant-and-ancient-supermassive-black-hole-powered-quasar"
     ]
    ]
   }
